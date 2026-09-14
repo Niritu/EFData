@@ -2,20 +2,26 @@
     "CharacterGuide_aglina": {
         "bgNode": "ActivityCharacterGuideAglinaBGNode"
     },
+    "CharacterGuide_camille": {
+        "bgNode": "ActivityCharacterGuideCamilleBGNode"
+    },
     "CharacterGuide_laevat": {
         "bgNode": "ActivityCharacterGuideLaevatBGNode"
     },
-    "CharacterGuide_wolfgd": {
-        "bgNode": "ActivityCharacterGuideWolfgdBGNode"
+    "CharacterGuide_liino": {
+        "bgNode": "ActivityCharacterGuideLiinoBGNode"
     },
-    "CharacterGuide_camille": {
-        "bgNode": "ActivityCharacterGuideCamilleBGNode"
+    "CharacterGuide_typhoeus": {
+        "bgNode": "ActivityCharacterGuideTyphoeusBGNode"
+    },
+    "CharacterGuide_yvonne": {
+        "bgNode": "ActivityCharacterGuideYvonneBGNode"
     },
     "CharacterGuide_mifu": {
         "bgNode": "ActivityCharacterGuideMifuBGNode"
     },
-    "CharacterGuide_yvonne": {
-        "bgNode": "ActivityCharacterGuideYvonneBGNode"
+    "CharacterGuide_wolfgd": {
+        "bgNode": "ActivityCharacterGuideWolfgdBGNode"
     },
     "CharacterGuide_wulfa": {
         "bgNode": "ActivityCharacterGuideWulfaBGNode"

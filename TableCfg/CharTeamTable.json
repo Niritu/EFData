@@ -16,25 +16,16 @@
         ],
         "requireCharTids": []
     },
-    "dung_rdg_kamiu_02": {
-        "id": "dung_rdg_kamiu_02",
-        "maxMemberCount": 1,
+    "ardelia_chartrain_03": {
+        "id": "ardelia_chartrain_03",
+        "maxMemberCount": 2,
         "presetCharList": [
-            "player_60_chr_9000_endmin"
+            "player_80_chr_0025_ardelia_usp02",
+            "player_80_chr_9000_endmin"
         ],
         "presetTeam": [
-            "player_60_chr_9000_endmin"
-        ],
-        "requireCharTids": []
-    },
-    "lizhiyan_chartrain_01": {
-        "id": "lizhiyan_chartrain_01",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_0032_lizhiyan"
-        ],
-        "presetTeam": [
-            "player_80_chr_0032_lizhiyan"
+            "player_80_chr_0025_ardelia_usp02",
+            "player_80_chr_9000_endmin"
         ],
         "requireCharTids": []
     },
@@ -55,17 +46,6 @@
         ],
         "requireCharTids": []
     },
-    "aurora_chartrain_01": {
-        "id": "aurora_chartrain_01",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_0014_aurora"
-        ],
-        "presetTeam": [
-            "player_80_chr_0014_aurora"
-        ],
-        "requireCharTids": []
-    },
     "Raid_magic_80": {
         "id": "Raid_magic_80",
         "maxMemberCount": 4,
@@ -83,27 +63,29 @@
         ],
         "requireCharTids": []
     },
-    "dung_rdg_lizhiyan_01": {
-        "id": "dung_rdg_lizhiyan_01",
+    "ardelia_chartrain_01": {
+        "id": "ardelia_chartrain_01",
         "maxMemberCount": 1,
         "presetCharList": [
-            "player_60_chr_0032_lizhiyan"
+            "player_80_chr_0025_ardelia_usp02"
         ],
         "presetTeam": [
-            "player_60_chr_0032_lizhiyan"
+            "player_80_chr_0025_ardelia_usp02"
         ],
         "requireCharTids": []
     },
-    "std_90_lizhiyan_shuchu": {
-        "id": "std_90_lizhiyan_shuchu",
+    "dung_rdg001_wolfgd": {
+        "id": "dung_rdg001_wolfgd",
         "maxMemberCount": 4,
         "presetCharList": [
-            "std_90_chr_0032_lizhiyan"
+            "player_50_chr_0006_wolfgd",
+            "player_50_chr_9000_endmin"
         ],
-        "presetTeam": [
-            "std_90_chr_0032_lizhiyan"
-        ],
-        "requireCharTids": []
+        "presetTeam": [],
+        "requireCharTids": [
+            "chr_0006_wolfgd",
+            "chr_9000_endmin"
+        ]
     },
     "Raid_physical_60": {
         "id": "Raid_physical_60",
@@ -119,45 +101,6 @@
             "std_60_chr_0005_chen",
             "std_60_chr_0020_meurs",
             "std_60_chr_0029_pograni"
-        ],
-        "requireCharTids": []
-    },
-    "focus_c6m2": {
-        "id": "focus_c6m2",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_50_chr_9000_endmin",
-            "player_50_chr_0006_wolfgd"
-        ],
-        "presetTeam": [
-            "player_50_chr_9000_endmin",
-            "player_50_chr_0006_wolfgd"
-        ],
-        "requireCharTids": []
-    },
-    "focus_e5m2d5": {
-        "id": "focus_e5m2d5",
-        "maxMemberCount": 3,
-        "presetCharList": [
-            "player_60_chr_9000_endmin",
-            "player_60_chr_0005_chen",
-            "player_60_chr_0004_pelica"
-        ],
-        "presetTeam": [
-            "player_60_chr_9000_endmin",
-            "player_60_chr_0005_chen",
-            "player_60_chr_0004_pelica"
-        ],
-        "requireCharTids": []
-    },
-    "mifu_chartrain_04": {
-        "id": "mifu_chartrain_04",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_0031_mifu"
-        ],
-        "presetTeam": [
-            "player_80_chr_0031_mifu"
         ],
         "requireCharTids": []
     },
@@ -178,6 +121,17 @@
         ],
         "requireCharTids": []
     },
+    "pograni_chartrain_01": {
+        "id": "pograni_chartrain_01",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0029_pograni"
+        ],
+        "presetTeam": [
+            "player_80_chr_0029_pograni"
+        ],
+        "requireCharTids": []
+    },
     "aglina_chartrain_01": {
         "id": "aglina_chartrain_01",
         "maxMemberCount": 1,
@@ -189,14 +143,38 @@
         ],
         "requireCharTids": []
     },
-    "lifeng_chartrain_02": {
-        "id": "lifeng_chartrain_02",
-        "maxMemberCount": 1,
+    "dung_activity_takestwo_default": {
+        "id": "dung_activity_takestwo_default",
+        "maxMemberCount": 2,
+        "presetCharList": [],
+        "presetTeam": [],
+        "requireCharTids": []
+    },
+    "lizhiyan_chartrain_09": {
+        "id": "lizhiyan_chartrain_09",
+        "maxMemberCount": 4,
         "presetCharList": [
-            "player_80_chr_0015_lifeng"
+            "player_80_chr_0032_lizhiyan_fuzhu",
+            "player_80_chr_0021_whiten",
+            "player_80_chr_0022_bounda",
+            "player_80_chr_0026_lastrite"
         ],
         "presetTeam": [
-            "player_80_chr_0015_lifeng"
+            "player_80_chr_0032_lizhiyan_fuzhu",
+            "player_80_chr_0021_whiten",
+            "player_80_chr_0022_bounda",
+            "player_80_chr_0026_lastrite"
+        ],
+        "requireCharTids": []
+    },
+    "tangtang_chartrain_03": {
+        "id": "tangtang_chartrain_03",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0027_tangtang"
+        ],
+        "presetTeam": [
+            "player_80_chr_0027_tangtang"
         ],
         "requireCharTids": []
     },
@@ -213,14 +191,14 @@
         ],
         "requireCharTids": []
     },
-    "lifeng_chartrain_03": {
-        "id": "lifeng_chartrain_03",
+    "tangtang_chartrain_02": {
+        "id": "tangtang_chartrain_02",
         "maxMemberCount": 1,
         "presetCharList": [
-            "player_80_chr_0015_lifeng"
+            "player_80_chr_0027_tangtang"
         ],
         "presetTeam": [
-            "player_80_chr_0015_lifeng"
+            "player_80_chr_0027_tangtang"
         ],
         "requireCharTids": []
     },
@@ -239,29 +217,27 @@
         ],
         "requireCharTids": []
     },
-    "dung_rdg007_wulfa": {
-        "id": "dung_rdg007_wulfa",
-        "maxMemberCount": 4,
+    "pelica_chartrain_03": {
+        "id": "pelica_chartrain_03",
+        "maxMemberCount": 2,
         "presetCharList": [
-            "player_40_chr_0028_wulfa",
-            "player_40_chr_9000_endmin"
+            "player_80_chr_0019_karin",
+            "player_80_chr_0004_pelica"
         ],
         "presetTeam": [
-            "player_40_chr_0028_wulfa",
-            "player_40_chr_9000_endmin"
+            "player_80_chr_0019_karin",
+            "player_80_chr_0004_pelica"
         ],
         "requireCharTids": []
     },
-    "lifeng_chartrain_04": {
-        "id": "lifeng_chartrain_04",
-        "maxMemberCount": 2,
+    "tangtang_chartrain_01": {
+        "id": "tangtang_chartrain_01",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "player_80_chr_0015_lifeng",
-            "player_80_chr_9000_endmin"
+            "player_80_chr_0027_tangtang"
         ],
         "presetTeam": [
-            "player_80_chr_0015_lifeng",
-            "player_80_chr_9000_endmin"
+            "player_80_chr_0027_tangtang"
         ],
         "requireCharTids": []
     },
@@ -277,6 +253,19 @@
             "player_80_chr_0019_karin",
             "player_80_chr_0004_pelica",
             "player_80_chr_0013_aglina_usp02"
+        ],
+        "requireCharTids": []
+    },
+    "pelica_chartrain_02": {
+        "id": "pelica_chartrain_02",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0004_pelica",
+            "player_80_chr_0019_karin"
+        ],
+        "presetTeam": [
+            "player_80_chr_0004_pelica",
+            "player_80_chr_0019_karin"
         ],
         "requireCharTids": []
     },
@@ -297,53 +286,55 @@
         ],
         "requireCharTids": []
     },
-    "ardelia_chartrain_01": {
-        "id": "ardelia_chartrain_01",
+    "focus_e5m2d5_3": {
+        "id": "focus_e5m2d5_3",
         "maxMemberCount": 1,
         "presetCharList": [
-            "player_80_chr_0025_ardelia_usp02"
+            "player_60_chr_9000_endmin"
         ],
         "presetTeam": [
-            "player_80_chr_0025_ardelia_usp02"
+            "player_60_chr_9000_endmin"
         ],
         "requireCharTids": []
     },
-    "hd_80": {
-        "id": "hd_80",
-        "maxMemberCount": 4,
+    "lastrite_chartrain_03": {
+        "id": "lastrite_chartrain_03",
+        "maxMemberCount": 3,
         "presetCharList": [
-            "hd_80_chr_0004_pelica",
-            "hd_80_chr_9000_endmin",
-            "hd_80_chr_0005_chen_phy01",
-            "hd_80_chr_0006_wolfgd",
-            "hd_80_chr_0007_ikut",
-            "hd_80_chr_0009_azrila",
-            "hd_80_chr_0011_seraph",
-            "hd_80_chr_0012_avywen",
-            "hd_80_chr_0013_aglina_heal01",
-            "hd_80_chr_0014_aurora",
-            "hd_80_chr_0015_lifeng",
-            "hd_80_chr_0016_laevat",
-            "hd_80_chr_0017_yvonne",
-            "hd_80_chr_0018_dapan",
-            "hd_80_chr_0019_karin",
-            "hd_80_chr_0020_meurs",
-            "hd_80_chr_0021_whiten",
-            "hd_80_chr_0022_bounda",
-            "hd_80_chr_0023_antal",
-            "hd_80_chr_0024_deepfin",
-            "hd_80_chr_0025_ardelia_usp02",
-            "hd_80_chr_0026_lastrite",
-            "hd_80_chr_0029_pograni",
-            "hd_80_chr_0027_tangtang",
-            "hd_80_chr_0028_wulfa",
-            "hd_80_chr_0030_zhuangfy"
+            "player_80_chr_9000_endmin",
+            "player_80_chr_0019_karin",
+            "player_80_chr_0026_lastrite"
         ],
         "presetTeam": [
-            "hd_80_chr_0004_pelica",
-            "hd_80_chr_9000_endmin",
-            "hd_80_chr_0005_chen_phy01",
-            "hd_80_chr_0006_wolfgd"
+            "player_80_chr_9000_endmin",
+            "player_80_chr_0019_karin",
+            "player_80_chr_0026_lastrite"
+        ],
+        "requireCharTids": []
+    },
+    "wolfgd_chartrain_04": {
+        "id": "wolfgd_chartrain_04",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0006_wolfgd",
+            "player_80_chr_0004_pelica"
+        ],
+        "presetTeam": [
+            "player_80_chr_0006_wolfgd",
+            "player_80_chr_0004_pelica"
+        ],
+        "requireCharTids": []
+    },
+    "zhuangfy_chartrain_03": {
+        "id": "zhuangfy_chartrain_03",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0030_zhuangfy",
+            "player_80_chr_0004_pelica"
+        ],
+        "presetTeam": [
+            "player_80_chr_0030_zhuangfy",
+            "player_80_chr_0004_pelica"
         ],
         "requireCharTids": []
     },
@@ -360,32 +351,6 @@
         ],
         "requireCharTids": []
     },
-    "lizhiyan_chartrain_08": {
-        "id": "lizhiyan_chartrain_08",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0032_lizhiyan_fuzhu",
-            "player_80_chr_0021_whiten"
-        ],
-        "presetTeam": [
-            "player_80_chr_0032_lizhiyan_fuzhu",
-            "player_80_chr_0021_whiten"
-        ],
-        "requireCharTids": []
-    },
-    "ardelia_chartrain_03": {
-        "id": "ardelia_chartrain_03",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0025_ardelia_usp02",
-            "player_80_chr_9000_endmin"
-        ],
-        "presetTeam": [
-            "player_80_chr_0025_ardelia_usp02",
-            "player_80_chr_9000_endmin"
-        ],
-        "requireCharTids": []
-    },
     "ardelia_chartrain_04": {
         "id": "ardelia_chartrain_04",
         "maxMemberCount": 2,
@@ -399,16 +364,42 @@
         ],
         "requireCharTids": []
     },
-    "mifu_chartrain_03": {
-        "id": "mifu_chartrain_03",
-        "maxMemberCount": 2,
+    "mifu_chartrial": {
+        "id": "mifu_chartrial",
+        "maxMemberCount": 4,
         "presetCharList": [
             "player_80_chr_0031_mifu",
-            "player_80_chr_0005_chen_phy01"
+            "player_80_chr_0005_chen_phy01",
+            "player_80_chr_0029_pograni",
+            "player_80_chr_0015_lifeng"
         ],
         "presetTeam": [
             "player_80_chr_0031_mifu",
-            "player_80_chr_0005_chen_phy01"
+            "player_80_chr_0005_chen_phy01",
+            "player_80_chr_0029_pograni",
+            "player_80_chr_0015_lifeng"
+        ],
+        "requireCharTids": []
+    },
+    "aurora_chartrain_01": {
+        "id": "aurora_chartrain_01",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0014_aurora"
+        ],
+        "presetTeam": [
+            "player_80_chr_0014_aurora"
+        ],
+        "requireCharTids": []
+    },
+    "dung_rdg_kamiu_02": {
+        "id": "dung_rdg_kamiu_02",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_60_chr_9000_endmin"
+        ],
+        "presetTeam": [
+            "player_60_chr_9000_endmin"
         ],
         "requireCharTids": []
     },
@@ -438,6 +429,17 @@
         ],
         "requireCharTids": []
     },
+    "std_85_lizhiyan_fuzhu": {
+        "id": "std_85_lizhiyan_fuzhu",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "std_85_chr_0032_lizhiyan_fuzhu"
+        ],
+        "presetTeam": [
+            "std_85_chr_0032_lizhiyan_fuzhu"
+        ],
+        "requireCharTids": []
+    },
     "aurora_chartrain_04": {
         "id": "aurora_chartrain_04",
         "maxMemberCount": 2,
@@ -451,14 +453,14 @@
         ],
         "requireCharTids": []
     },
-    "deepfin_chartrain_01": {
-        "id": "deepfin_chartrain_01",
-        "maxMemberCount": 1,
+    "std_99_lizhiyan_fuzhu": {
+        "id": "std_99_lizhiyan_fuzhu",
+        "maxMemberCount": 4,
         "presetCharList": [
-            "player_80_chr_0024_deepfin"
+            "std_99_chr_0032_lizhiyan_fuzhu"
         ],
         "presetTeam": [
-            "player_80_chr_0024_deepfin"
+            "std_99_chr_0032_lizhiyan_fuzhu"
         ],
         "requireCharTids": []
     },
@@ -512,16 +514,18 @@
         ],
         "requireCharTids": []
     },
-    "focus_e5m2d5_2": {
-        "id": "focus_e5m2d5_2",
-        "maxMemberCount": 2,
+    "camille_chartrain_03": {
+        "id": "camille_chartrain_03",
+        "maxMemberCount": 3,
         "presetCharList": [
-            "player_60_chr_9000_endmin",
-            "player_60_chr_0005_chen"
+            "player_80_chr_0033_camille",
+            "player_80_chr_0004_pelica",
+            "player_80_chr_0007_ikut"
         ],
         "presetTeam": [
-            "player_60_chr_9000_endmin",
-            "player_60_chr_0005_chen"
+            "player_80_chr_0033_camille",
+            "player_80_chr_0004_pelica",
+            "player_80_chr_0007_ikut"
         ],
         "requireCharTids": []
     },
@@ -536,6 +540,17 @@
         ],
         "requireCharTids": []
     },
+    "ikut_chartrain_03": {
+        "id": "ikut_chartrain_03",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0007_ikut"
+        ],
+        "presetTeam": [
+            "player_80_chr_0007_ikut"
+        ],
+        "requireCharTids": []
+    },
     "azrila_chartrain_02": {
         "id": "azrila_chartrain_02",
         "maxMemberCount": 1,
@@ -544,6 +559,19 @@
         ],
         "presetTeam": [
             "player_80_chr_0009_azrila"
+        ],
+        "requireCharTids": []
+    },
+    "ikut_chartrain_02": {
+        "id": "ikut_chartrain_02",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0007_ikut",
+            "player_80_chr_0004_pelica"
+        ],
+        "presetTeam": [
+            "player_80_chr_0007_ikut",
+            "player_80_chr_0004_pelica"
         ],
         "requireCharTids": []
     },
@@ -558,39 +586,58 @@
         ],
         "requireCharTids": []
     },
-    "player_40": {
-        "id": "player_40",
-        "maxMemberCount": 4,
+    "ikut_chartrain_01": {
+        "id": "ikut_chartrain_01",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "player_40_chr_0004_pelica",
-            "player_40_chr_9000_endmin",
-            "player_40_chr_0005_chen",
-            "player_40_chr_0006_wolfgd",
-            "player_40_chr_0007_ikut",
-            "player_40_chr_0009_azrila",
-            "player_40_chr_0011_seraph",
-            "player_40_chr_0012_avywen",
-            "player_40_chr_0013_aglina",
-            "player_40_chr_0014_aurora",
-            "player_40_chr_0015_lifeng",
-            "player_40_chr_0016_laevat",
-            "player_40_chr_0017_yvonne",
-            "player_40_chr_0018_dapan",
-            "player_40_chr_0019_karin",
-            "player_40_chr_0020_meurs",
-            "player_40_chr_0021_whiten",
-            "player_40_chr_0022_bounda",
-            "player_40_chr_0023_antal",
-            "player_40_chr_0024_deepfin",
-            "player_40_chr_0025_ardelia",
-            "player_40_chr_0026_lastrite",
-            "player_40_chr_0029_pograni"
+            "player_80_chr_0007_ikut"
         ],
         "presetTeam": [
-            "player_40_chr_0004_pelica",
-            "player_40_chr_9000_endmin",
-            "player_40_chr_0005_chen",
-            "player_40_chr_0006_wolfgd"
+            "player_80_chr_0007_ikut"
+        ],
+        "requireCharTids": []
+    },
+    "std_80": {
+        "id": "std_80",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "std_80_chr_0004_pelica",
+            "std_80_chr_9000_endmin",
+            "std_80_chr_0005_chen",
+            "std_80_chr_0006_wolfgd",
+            "std_80_chr_0007_ikut",
+            "std_80_chr_0009_azrila",
+            "std_80_chr_0011_seraph",
+            "std_80_chr_0012_avywen",
+            "std_80_chr_0013_aglina",
+            "std_80_chr_0014_aurora",
+            "std_80_chr_0015_lifeng",
+            "std_80_chr_0016_laevat",
+            "std_80_chr_0017_yvonne",
+            "std_80_chr_0018_dapan",
+            "std_80_chr_0019_karin",
+            "std_80_chr_0020_meurs",
+            "std_80_chr_0021_whiten",
+            "std_80_chr_0022_bounda",
+            "std_80_chr_0023_antal",
+            "std_80_chr_0024_deepfin",
+            "std_80_chr_0025_ardelia",
+            "std_80_chr_0026_lastrite",
+            "std_80_chr_0029_pograni",
+            "std_80_chr_0027_tangtang",
+            "std_80_chr_0028_wulfa",
+            "std_80_chr_0030_zhuangfy",
+            "std_80_chr_0031_mifu",
+            "std_80_chr_0033_camille",
+            "std_80_chr_0032_lizhiyan_fuzhu",
+            "std_80_chr_0035_liino",
+            "std_80_chr_0034_typhoea"
+        ],
+        "presetTeam": [
+            "std_80_chr_0004_pelica",
+            "std_80_chr_9000_endmin",
+            "std_80_chr_0005_chen",
+            "std_80_chr_0006_wolfgd"
         ],
         "requireCharTids": []
     },
@@ -609,41 +656,41 @@
         ],
         "requireCharTids": []
     },
-    "std_50": {
-        "id": "std_50",
+    "std_10": {
+        "id": "std_10",
         "maxMemberCount": 4,
         "presetCharList": [
-            "std_50_chr_0004_pelica",
-            "std_50_chr_9000_endmin",
-            "std_50_chr_0005_chen",
-            "std_50_chr_0006_wolfgd",
-            "std_50_chr_0007_ikut",
-            "std_50_chr_0009_azrila",
-            "std_50_chr_0011_seraph",
-            "std_50_chr_0012_avywen",
-            "std_50_chr_0013_aglina",
-            "std_50_chr_0014_aurora",
-            "std_50_chr_0015_lifeng",
-            "std_50_chr_0016_laevat",
-            "std_50_chr_0017_yvonne",
-            "std_50_chr_0018_dapan",
-            "std_50_chr_0019_karin",
-            "std_50_chr_0020_meurs",
-            "std_50_chr_0021_whiten",
-            "std_50_chr_0022_bounda",
-            "std_50_chr_0023_antal",
-            "std_50_chr_0024_deepfin",
-            "std_50_chr_0025_ardelia",
-            "std_50_chr_0026_lastrite",
-            "std_50_chr_0029_pograni",
-            "std_50_chr_0027_tangtang",
-            "std_50_chr_0028_wulfa"
+            "std_10_chr_0004_pelica",
+            "std_10_chr_9000_endmin",
+            "std_10_chr_0005_chen",
+            "std_10_chr_0006_wolfgd",
+            "std_10_chr_0007_ikut",
+            "std_10_chr_0009_azrila",
+            "std_10_chr_0011_seraph",
+            "std_10_chr_0012_avywen",
+            "std_10_chr_0013_aglina",
+            "std_10_chr_0014_aurora",
+            "std_10_chr_0015_lifeng",
+            "std_10_chr_0016_laevat",
+            "std_10_chr_0017_yvonne",
+            "std_10_chr_0018_dapan",
+            "std_10_chr_0019_karin",
+            "std_10_chr_0020_meurs",
+            "std_10_chr_0021_whiten",
+            "std_10_chr_0022_bounda",
+            "std_10_chr_0023_antal",
+            "std_10_chr_0024_deepfin",
+            "std_10_chr_0025_ardelia",
+            "std_10_chr_0026_lastrite",
+            "std_10_chr_0029_pograni",
+            "std_10_chr_0027_tangtang",
+            "std_10_chr_0028_wulfa"
         ],
         "presetTeam": [
-            "std_50_chr_0004_pelica",
-            "std_50_chr_9000_endmin",
-            "std_50_chr_0005_chen",
-            "std_50_chr_0006_wolfgd"
+            "std_10_chr_0004_pelica",
+            "std_10_chr_9000_endmin",
+            "std_10_chr_0005_chen",
+            "std_10_chr_0006_wolfgd"
         ],
         "requireCharTids": []
     },
@@ -662,25 +709,41 @@
         ],
         "requireCharTids": []
     },
-    "dung_rdg004_laevat_no42": {
-        "id": "dung_rdg004_laevat_no42",
-        "maxMemberCount": 1,
+    "std_60": {
+        "id": "std_60",
+        "maxMemberCount": 4,
         "presetCharList": [
-            "player_40_chr_9000_endmin"
+            "std_60_chr_0004_pelica",
+            "std_60_chr_9000_endmin",
+            "std_60_chr_0005_chen",
+            "std_60_chr_0006_wolfgd",
+            "std_60_chr_0007_ikut",
+            "std_60_chr_0009_azrila",
+            "std_60_chr_0011_seraph",
+            "std_60_chr_0012_avywen",
+            "std_60_chr_0013_aglina",
+            "std_60_chr_0014_aurora",
+            "std_60_chr_0015_lifeng",
+            "std_60_chr_0016_laevat",
+            "std_60_chr_0017_yvonne",
+            "std_60_chr_0018_dapan",
+            "std_60_chr_0019_karin",
+            "std_60_chr_0020_meurs",
+            "std_60_chr_0021_whiten",
+            "std_60_chr_0022_bounda",
+            "std_60_chr_0023_antal",
+            "std_60_chr_0024_deepfin",
+            "std_60_chr_0025_ardelia",
+            "std_60_chr_0026_lastrite",
+            "std_60_chr_0029_pograni",
+            "std_60_chr_0027_tangtang",
+            "std_60_chr_0028_wulfa"
         ],
         "presetTeam": [
-            "player_40_chr_9000_endmin"
-        ],
-        "requireCharTids": []
-    },
-    "wulfa_chartrain_01": {
-        "id": "wulfa_chartrain_01",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "chartrain_80_chr_0028_wulfa"
-        ],
-        "presetTeam": [
-            "chartrain_80_chr_0028_wulfa"
+            "std_60_chr_0004_pelica",
+            "std_60_chr_9000_endmin",
+            "std_60_chr_0005_chen",
+            "std_60_chr_0006_wolfgd"
         ],
         "requireCharTids": []
     },
@@ -695,14 +758,54 @@
         ],
         "requireCharTids": []
     },
-    "tangtang_chartrain_06": {
-        "id": "tangtang_chartrain_06",
-        "maxMemberCount": 1,
+    "focus_e7m1d5": {
+        "id": "focus_e7m1d5",
+        "maxMemberCount": 3,
         "presetCharList": [
-            "player_80_chr_0027_tangtang"
+            "player_60_chr_9000_endmin",
+            "player_60_chr_0004_pelica",
+            "player_60_chr_0005_chen"
         ],
         "presetTeam": [
-            "player_80_chr_0027_tangtang"
+            "player_60_chr_9000_endmin",
+            "player_60_chr_0004_pelica",
+            "player_60_chr_0005_chen"
+        ],
+        "requireCharTids": []
+    },
+    "player_80": {
+        "id": "player_80",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "player_80_chr_0004_pelica",
+            "player_80_chr_9000_endmin",
+            "player_80_chr_0005_chen_phy01",
+            "player_80_chr_0006_wolfgd",
+            "player_80_chr_0007_ikut",
+            "player_80_chr_0009_azrila",
+            "player_80_chr_0011_seraph",
+            "player_80_chr_0012_avywen",
+            "player_80_chr_0013_aglina_usp02",
+            "player_80_chr_0014_aurora",
+            "player_80_chr_0015_lifeng",
+            "player_80_chr_0016_laevat",
+            "player_80_chr_0017_yvonne",
+            "player_80_chr_0018_dapan",
+            "player_80_chr_0019_karin",
+            "player_80_chr_0020_meurs",
+            "player_80_chr_0021_whiten",
+            "player_80_chr_0022_bounda",
+            "player_80_chr_0023_antal",
+            "player_80_chr_0024_deepfin",
+            "player_80_chr_0025_ardelia_usp02",
+            "player_80_chr_0026_lastrite",
+            "player_80_chr_0029_pograni"
+        ],
+        "presetTeam": [
+            "player_80_chr_0004_pelica",
+            "player_80_chr_9000_endmin",
+            "player_80_chr_0005_chen_phy01",
+            "player_80_chr_0006_wolfgd"
         ],
         "requireCharTids": []
     },
@@ -714,64 +817,6 @@
         ],
         "presetTeam": [
             "player_80_chr_0033_camille"
-        ],
-        "requireCharTids": []
-    },
-    "indie_boss": {
-        "id": "indie_boss",
-        "maxMemberCount": 4,
-        "presetCharList": [
-            "endminf_indie",
-            "pelica_indie",
-            "laevat_indie",
-            "aglina_indie"
-        ],
-        "presetTeam": [
-            "endminf_indie",
-            "pelica_indie",
-            "laevat_indie",
-            "aglina_indie"
-        ],
-        "requireCharTids": []
-    },
-    "seraph_chartrain_04": {
-        "id": "seraph_chartrain_04",
-        "maxMemberCount": 3,
-        "presetCharList": [
-            "player_80_chr_0019_karin",
-            "player_80_chr_0011_seraph",
-            "player_80_chr_0022_bounda"
-        ],
-        "presetTeam": [
-            "player_80_chr_0019_karin",
-            "player_80_chr_0011_seraph",
-            "player_80_chr_0022_bounda"
-        ],
-        "requireCharTids": []
-    },
-    "std_85_lizhiyan_shuchu": {
-        "id": "std_85_lizhiyan_shuchu",
-        "maxMemberCount": 4,
-        "presetCharList": [
-            "std_85_chr_0032_lizhiyan"
-        ],
-        "presetTeam": [
-            "std_85_chr_0032_lizhiyan"
-        ],
-        "requireCharTids": []
-    },
-    "camille_chartrain_03": {
-        "id": "camille_chartrain_03",
-        "maxMemberCount": 3,
-        "presetCharList": [
-            "player_80_chr_0033_camille",
-            "player_80_chr_0004_pelica",
-            "player_80_chr_0007_ikut"
-        ],
-        "presetTeam": [
-            "player_80_chr_0033_camille",
-            "player_80_chr_0004_pelica",
-            "player_80_chr_0007_ikut"
         ],
         "requireCharTids": []
     },
@@ -788,38 +833,16 @@
         ],
         "requireCharTids": []
     },
-    "lastrite_chartrain_05": {
-        "id": "lastrite_chartrain_05",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_0026_lastrite"
-        ],
-        "presetTeam": [
-            "player_80_chr_0026_lastrite"
-        ],
-        "requireCharTids": []
-    },
-    "lizhiyan_chartrain_10": {
-        "id": "lizhiyan_chartrain_10",
+    "focus_e10m2d5": {
+        "id": "focus_e10m2d5",
         "maxMemberCount": 2,
         "presetCharList": [
-            "player_80_chr_0032_lizhiyan_fuzhu",
-            "player_80_chr_0022_bounda"
+            "player_60_chr_0030_zhuangfy",
+            "player_60_chr_9000_endmin"
         ],
         "presetTeam": [
-            "player_80_chr_0032_lizhiyan_fuzhu",
-            "player_80_chr_0022_bounda"
-        ],
-        "requireCharTids": []
-    },
-    "tangtang_chartrain_03": {
-        "id": "tangtang_chartrain_03",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_0027_tangtang"
-        ],
-        "presetTeam": [
-            "player_80_chr_0027_tangtang"
+            "player_60_chr_0030_zhuangfy",
+            "player_60_chr_9000_endmin"
         ],
         "requireCharTids": []
     },
@@ -837,19 +860,6 @@
             "player_80_chr_0016_laevat",
             "player_80_chr_0006_wolfgd",
             "player_80_chr_0023_antal"
-        ],
-        "requireCharTids": []
-    },
-    "lizhiyan_chartrain_04": {
-        "id": "lizhiyan_chartrain_04",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0032_lizhiyan",
-            "player_80_chr_0004_pelica"
-        ],
-        "presetTeam": [
-            "player_80_chr_0032_lizhiyan",
-            "player_80_chr_0004_pelica"
         ],
         "requireCharTids": []
     },
@@ -872,17 +882,6 @@
         ],
         "presetTeam": [
             "player_80_chr_0005_chen_phy01"
-        ],
-        "requireCharTids": []
-    },
-    "focus_e10m3d5": {
-        "id": "focus_e10m3d5",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_60_chr_0030_zhuangfy"
-        ],
-        "presetTeam": [
-            "player_60_chr_0030_zhuangfy"
         ],
         "requireCharTids": []
     },
@@ -910,6 +909,13 @@
         ],
         "requireCharTids": []
     },
+    "dung_main_default": {
+        "id": "dung_main_default",
+        "maxMemberCount": 4,
+        "presetCharList": [],
+        "presetTeam": [],
+        "requireCharTids": []
+    },
     "dapan_chartrain_01": {
         "id": "dapan_chartrain_01",
         "maxMemberCount": 1,
@@ -921,19 +927,6 @@
         ],
         "requireCharTids": []
     },
-    "dung_rdg_lizhiyan_03": {
-        "id": "dung_rdg_lizhiyan_03",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_60_chr_0032_lizhiyan",
-            "player_60_chr_9000_endmin"
-        ],
-        "presetTeam": [
-            "player_60_chr_0032_lizhiyan",
-            "player_60_chr_9000_endmin"
-        ],
-        "requireCharTids": []
-    },
     "dapan_chartrain_02": {
         "id": "dapan_chartrain_02",
         "maxMemberCount": 1,
@@ -942,17 +935,6 @@
         ],
         "presetTeam": [
             "player_80_chr_0018_dapan"
-        ],
-        "requireCharTids": []
-    },
-    "seraph_chartrain_01": {
-        "id": "seraph_chartrain_01",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_0011_seraph"
-        ],
-        "presetTeam": [
-            "player_80_chr_0011_seraph"
         ],
         "requireCharTids": []
     },
@@ -982,14 +964,14 @@
         ],
         "requireCharTids": []
     },
-    "std_99_lizhiyan_shuchu": {
-        "id": "std_99_lizhiyan_shuchu",
-        "maxMemberCount": 4,
+    "deepfin_chartrain_01": {
+        "id": "deepfin_chartrain_01",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "std_99_chr_0032_lizhiyan"
+            "player_80_chr_0024_deepfin"
         ],
         "presetTeam": [
-            "std_99_chr_0032_lizhiyan"
+            "player_80_chr_0024_deepfin"
         ],
         "requireCharTids": []
     },
@@ -1006,14 +988,14 @@
         ],
         "requireCharTids": []
     },
-    "zhuangfy_chartrain_01": {
-        "id": "zhuangfy_chartrain_01",
+    "mifu_chartrain_02": {
+        "id": "mifu_chartrain_02",
         "maxMemberCount": 1,
         "presetCharList": [
-            "player_80_chr_0030_zhuangfy"
+            "player_80_chr_0031_mifu"
         ],
         "presetTeam": [
-            "player_80_chr_0030_zhuangfy"
+            "player_80_chr_0031_mifu"
         ],
         "requireCharTids": []
     },
@@ -1043,59 +1025,43 @@
         ],
         "requireCharTids": []
     },
-    "dung_rdg005_yvonne": {
-        "id": "dung_rdg005_yvonne",
-        "maxMemberCount": 4,
+    "laevat_chartrain_02": {
+        "id": "laevat_chartrain_02",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "player_50_chr_0017_yvonne",
-            "player_50_chr_9000_endmin"
+            "player_80_chr_0016_laevat"
         ],
-        "presetTeam": [],
-        "requireCharTids": [
-            "chr_0017_yvonne",
-            "chr_9000_endmin"
-        ]
+        "presetTeam": [
+            "player_80_chr_0016_laevat"
+        ],
+        "requireCharTids": []
     },
-    "dung_activity_takestwo_default": {
-        "id": "dung_activity_takestwo_default",
-        "maxMemberCount": 2,
+    "dung_activity_wuling_racing_default": {
+        "id": "dung_activity_wuling_racing_default",
+        "maxMemberCount": 1,
         "presetCharList": [],
         "presetTeam": [],
         "requireCharTids": []
     },
-    "fp_80": {
-        "id": "fp_80",
-        "maxMemberCount": 4,
+    "focus_e10m3d5": {
+        "id": "focus_e10m3d5",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "fp_80_chr_0004_pelica",
-            "fp_80_chr_9000_endmin",
-            "fp_80_chr_0005_chen_phy01",
-            "fp_80_chr_0006_wolfgd",
-            "fp_80_chr_0007_ikut",
-            "fp_80_chr_0009_azrila",
-            "fp_80_chr_0011_seraph",
-            "fp_80_chr_0012_avywen",
-            "fp_80_chr_0013_aglina_usp02",
-            "fp_80_chr_0014_aurora",
-            "fp_80_chr_0015_lifeng",
-            "fp_80_chr_0016_laevat",
-            "fp_80_chr_0017_yvonne",
-            "fp_80_chr_0018_dapan",
-            "fp_80_chr_0019_karin",
-            "fp_80_chr_0020_meurs",
-            "fp_80_chr_0021_whiten",
-            "fp_80_chr_0022_bounda",
-            "fp_80_chr_0023_antal",
-            "fp_80_chr_0024_deepfin",
-            "fp_80_chr_0025_ardelia_usp02",
-            "fp_80_chr_0026_lastrite",
-            "fp_80_chr_0029_pograni"
+            "player_60_chr_0030_zhuangfy"
         ],
         "presetTeam": [
-            "fp_80_chr_0004_pelica",
-            "fp_80_chr_9000_endmin",
-            "fp_80_chr_0005_chen_phy01",
-            "fp_80_chr_0006_wolfgd"
+            "player_60_chr_0030_zhuangfy"
+        ],
+        "requireCharTids": []
+    },
+    "laevat_chartrain_01": {
+        "id": "laevat_chartrain_01",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0016_laevat"
+        ],
+        "presetTeam": [
+            "player_80_chr_0016_laevat"
         ],
         "requireCharTids": []
     },
@@ -1106,49 +1072,29 @@
         "presetTeam": [],
         "requireCharTids": []
     },
-    "pograni_chartrain_04": {
-        "id": "pograni_chartrain_04",
+    "yvonne_chartrain_03": {
+        "id": "yvonne_chartrain_03",
         "maxMemberCount": 2,
         "presetCharList": [
-            "player_80_chr_0029_pograni",
-            "player_80_chr_0005_chen_phy01"
+            "player_80_chr_0017_yvonne",
+            "player_80_chr_0021_whiten"
         ],
         "presetTeam": [
-            "player_80_chr_0029_pograni",
-            "player_80_chr_0005_chen_phy01"
+            "player_80_chr_0017_yvonne",
+            "player_80_chr_0021_whiten"
         ],
         "requireCharTids": []
     },
-    "std_80_lizhiyan_fuzhu": {
-        "id": "std_80_lizhiyan_fuzhu",
-        "maxMemberCount": 4,
+    "dung_gdg_typhoea_01": {
+        "id": "dung_gdg_typhoea_01",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "std_80_chr_0032_lizhiyan_fuzhu"
+            "player_80_chr_0034_typhoea"
         ],
         "presetTeam": [
-            "std_80_chr_0032_lizhiyan_fuzhu"
+            "player_80_chr_0034_typhoea"
         ],
         "requireCharTids": []
-    },
-    "dung_main_default": {
-        "id": "dung_main_default",
-        "maxMemberCount": 4,
-        "presetCharList": [],
-        "presetTeam": [],
-        "requireCharTids": []
-    },
-    "dung_rdg001_wolfgd": {
-        "id": "dung_rdg001_wolfgd",
-        "maxMemberCount": 4,
-        "presetCharList": [
-            "player_50_chr_0006_wolfgd",
-            "player_50_chr_9000_endmin"
-        ],
-        "presetTeam": [],
-        "requireCharTids": [
-            "chr_0006_wolfgd",
-            "chr_9000_endmin"
-        ]
     },
     "dung_rdg002_aglina": {
         "id": "dung_rdg002_aglina",
@@ -1160,6 +1106,17 @@
         "presetTeam": [
             "player_50_chr_0013_aglina",
             "player_50_chr_9000_endmin"
+        ],
+        "requireCharTids": []
+    },
+    "endmin_chartrain_02": {
+        "id": "endmin_chartrain_02",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_9000_endmin"
+        ],
+        "presetTeam": [
+            "player_80_chr_9000_endmin"
         ],
         "requireCharTids": []
     },
@@ -1176,25 +1133,25 @@
         ],
         "requireCharTids": []
     },
-    "focus_f1m19d4": {
-        "id": "focus_f1m19d4",
+    "dung_rdg_liino_02": {
+        "id": "dung_rdg_liino_02",
         "maxMemberCount": 1,
         "presetCharList": [
-            "player_60_chr_9000_endmin"
+            "player_60_chr_0035_liino"
         ],
         "presetTeam": [
-            "player_60_chr_9000_endmin"
+            "player_60_chr_0035_liino"
         ],
         "requireCharTids": []
     },
-    "zhuangfy_chartrain_05": {
-        "id": "zhuangfy_chartrain_05",
+    "lizhiyan_chartrain_01": {
+        "id": "lizhiyan_chartrain_01",
         "maxMemberCount": 1,
         "presetCharList": [
-            "player_80_chr_0030_zhuangfy"
+            "player_80_chr_0032_lizhiyan"
         ],
         "presetTeam": [
-            "player_80_chr_0030_zhuangfy"
+            "player_80_chr_0032_lizhiyan"
         ],
         "requireCharTids": []
     },
@@ -1211,43 +1168,79 @@
         ],
         "requireCharTids": []
     },
-    "std_15": {
-        "id": "std_15",
-        "maxMemberCount": 4,
+    "dung_rdg_typhoea_04": {
+        "id": "dung_rdg_typhoea_04",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "std_15_chr_0004_pelica",
-            "std_15_chr_9000_endmin",
-            "std_15_chr_0005_chen",
-            "std_15_chr_0006_wolfgd",
-            "std_15_chr_0007_ikut",
-            "std_15_chr_0009_azrila",
-            "std_15_chr_0011_seraph",
-            "std_15_chr_0012_avywen",
-            "std_15_chr_0013_aglina",
-            "std_15_chr_0014_aurora",
-            "std_15_chr_0015_lifeng",
-            "std_15_chr_0016_laevat",
-            "std_15_chr_0017_yvonne",
-            "std_15_chr_0018_dapan",
-            "std_15_chr_0019_karin",
-            "std_15_chr_0020_meurs",
-            "std_15_chr_0021_whiten",
-            "std_15_chr_0022_bounda",
-            "std_15_chr_0023_antal",
-            "std_15_chr_0024_deepfin",
-            "std_15_chr_0025_ardelia",
-            "std_15_chr_0026_lastrite",
-            "std_15_chr_0029_pograni",
-            "std_15_chr_0027_tangtang",
-            "std_15_chr_0028_wulfa"
+            "player_60_chr_0034_typhoea"
         ],
         "presetTeam": [
-            "std_15_chr_0004_pelica",
-            "std_15_chr_9000_endmin",
-            "std_15_chr_0005_chen",
-            "std_15_chr_0006_wolfgd"
+            "player_60_chr_0034_typhoea"
         ],
         "requireCharTids": []
+    },
+    "laevat_chartrain_05": {
+        "id": "laevat_chartrain_05",
+        "maxMemberCount": 3,
+        "presetCharList": [
+            "player_80_chr_0016_laevat",
+            "player_80_chr_0019_karin",
+            "player_80_chr_0006_wolfgd"
+        ],
+        "presetTeam": [
+            "player_80_chr_0016_laevat",
+            "player_80_chr_0019_karin",
+            "player_80_chr_0006_wolfgd"
+        ],
+        "requireCharTids": []
+    },
+    "dung_rdg004_laevat_no42": {
+        "id": "dung_rdg004_laevat_no42",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_40_chr_9000_endmin"
+        ],
+        "presetTeam": [
+            "player_40_chr_9000_endmin"
+        ],
+        "requireCharTids": []
+    },
+    "focus_c27m2_1": {
+        "id": "focus_c27m2_1",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_60_chr_0027_tangtang"
+        ],
+        "presetTeam": [
+            "player_60_chr_0027_tangtang"
+        ],
+        "requireCharTids": []
+    },
+    "lizhiyan_chartrain_08": {
+        "id": "lizhiyan_chartrain_08",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0032_lizhiyan_fuzhu",
+            "player_80_chr_0021_whiten"
+        ],
+        "presetTeam": [
+            "player_80_chr_0032_lizhiyan_fuzhu",
+            "player_80_chr_0021_whiten"
+        ],
+        "requireCharTids": []
+    },
+    "dung_rdg005_yvonne": {
+        "id": "dung_rdg005_yvonne",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "player_50_chr_0017_yvonne",
+            "player_50_chr_9000_endmin"
+        ],
+        "presetTeam": [],
+        "requireCharTids": [
+            "chr_0017_yvonne",
+            "chr_9000_endmin"
+        ]
     },
     "dung_rdg005_yvonne_test": {
         "id": "dung_rdg005_yvonne_test",
@@ -1303,27 +1296,93 @@
         ],
         "requireCharTids": []
     },
-    "endmin_chartrain_03": {
-        "id": "endmin_chartrain_03",
-        "maxMemberCount": 2,
+    "dung_rdg_mifu_03": {
+        "id": "dung_rdg_mifu_03",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "player_80_chr_9000_endmin",
+            "player_60_chr_9000_endmin"
+        ],
+        "presetTeam": [
+            "player_60_chr_9000_endmin"
+        ],
+        "requireCharTids": []
+    },
+    "yvonne_chartrial": {
+        "id": "yvonne_chartrial",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "player_80_chr_0017_yvonne",
+            "player_80_chr_0021_whiten",
+            "player_80_chr_0024_deepfin",
             "player_80_chr_0004_pelica"
         ],
         "presetTeam": [
-            "player_80_chr_9000_endmin",
+            "player_80_chr_0017_yvonne",
+            "player_80_chr_0021_whiten",
+            "player_80_chr_0024_deepfin",
             "player_80_chr_0004_pelica"
         ],
         "requireCharTids": []
     },
-    "yvonne_chartrain_01": {
-        "id": "yvonne_chartrain_01",
-        "maxMemberCount": 1,
+    "dung_rdg007_wulfa": {
+        "id": "dung_rdg007_wulfa",
+        "maxMemberCount": 4,
         "presetCharList": [
-            "player_80_chr_0017_yvonne"
+            "player_40_chr_0028_wulfa",
+            "player_40_chr_9000_endmin"
         ],
         "presetTeam": [
-            "player_80_chr_0017_yvonne"
+            "player_40_chr_0028_wulfa",
+            "player_40_chr_9000_endmin"
+        ],
+        "requireCharTids": []
+    },
+    "ikut_chartrain_04": {
+        "id": "ikut_chartrain_04",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0007_ikut"
+        ],
+        "presetTeam": [
+            "player_80_chr_0007_ikut"
+        ],
+        "requireCharTids": []
+    },
+    "std_50": {
+        "id": "std_50",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "std_50_chr_0004_pelica",
+            "std_50_chr_9000_endmin",
+            "std_50_chr_0005_chen",
+            "std_50_chr_0006_wolfgd",
+            "std_50_chr_0007_ikut",
+            "std_50_chr_0009_azrila",
+            "std_50_chr_0011_seraph",
+            "std_50_chr_0012_avywen",
+            "std_50_chr_0013_aglina",
+            "std_50_chr_0014_aurora",
+            "std_50_chr_0015_lifeng",
+            "std_50_chr_0016_laevat",
+            "std_50_chr_0017_yvonne",
+            "std_50_chr_0018_dapan",
+            "std_50_chr_0019_karin",
+            "std_50_chr_0020_meurs",
+            "std_50_chr_0021_whiten",
+            "std_50_chr_0022_bounda",
+            "std_50_chr_0023_antal",
+            "std_50_chr_0024_deepfin",
+            "std_50_chr_0025_ardelia",
+            "std_50_chr_0026_lastrite",
+            "std_50_chr_0029_pograni",
+            "std_50_chr_0027_tangtang",
+            "std_50_chr_0028_wulfa"
+        ],
+        "presetTeam": [
+            "std_50_chr_0004_pelica",
+            "std_50_chr_9000_endmin",
+            "std_50_chr_0005_chen",
+            "std_50_chr_0006_wolfgd"
         ],
         "requireCharTids": []
     },
@@ -1351,6 +1410,19 @@
         ],
         "requireCharTids": []
     },
+    "dung_rdg_liino_01": {
+        "id": "dung_rdg_liino_01",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_60_chr_0035_liino",
+            "player_60_chr_9000_endmin"
+        ],
+        "presetTeam": [
+            "player_60_chr_0035_liino",
+            "player_60_chr_9000_endmin"
+        ],
+        "requireCharTids": []
+    },
     "lizhiyan_chartrain_06": {
         "id": "lizhiyan_chartrain_06",
         "maxMemberCount": 1,
@@ -1359,6 +1431,54 @@
         ],
         "presetTeam": [
             "player_80_chr_0032_lizhiyan"
+        ],
+        "requireCharTids": []
+    },
+    "pelica_chartrain_04": {
+        "id": "pelica_chartrain_04",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0019_karin",
+            "player_80_chr_0004_pelica"
+        ],
+        "presetTeam": [
+            "player_80_chr_0019_karin",
+            "player_80_chr_0004_pelica"
+        ],
+        "requireCharTids": []
+    },
+    "dung_rdg_liino_03": {
+        "id": "dung_rdg_liino_03",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_60_chr_9000_endmin"
+        ],
+        "presetTeam": [
+            "player_60_chr_9000_endmin"
+        ],
+        "requireCharTids": []
+    },
+    "tangtang_chartrain_04": {
+        "id": "tangtang_chartrain_04",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0027_tangtang",
+            "player_80_chr_0004_pelica"
+        ],
+        "presetTeam": [
+            "player_80_chr_0027_tangtang",
+            "player_80_chr_0004_pelica"
+        ],
+        "requireCharTids": []
+    },
+    "dung_rdg_lizhiyan_01": {
+        "id": "dung_rdg_lizhiyan_01",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_60_chr_0032_lizhiyan"
+        ],
+        "presetTeam": [
+            "player_60_chr_0032_lizhiyan"
         ],
         "requireCharTids": []
     },
@@ -1373,6 +1493,36 @@
         ],
         "requireCharTids": []
     },
+    "liino_chartrial": {
+        "id": "liino_chartrial",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "player_80_chr_0035_liino",
+            "player_80_chr_0030_zhuangfy",
+            "player_80_chr_0004_pelica",
+            "player_80_chr_0007_ikut"
+        ],
+        "presetTeam": [
+            "player_80_chr_0035_liino",
+            "player_80_chr_0030_zhuangfy",
+            "player_80_chr_0004_pelica",
+            "player_80_chr_0007_ikut"
+        ],
+        "requireCharTids": []
+    },
+    "dung_rdg_lizhiyan_03": {
+        "id": "dung_rdg_lizhiyan_03",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_60_chr_0032_lizhiyan",
+            "player_60_chr_9000_endmin"
+        ],
+        "presetTeam": [
+            "player_60_chr_0032_lizhiyan",
+            "player_60_chr_9000_endmin"
+        ],
+        "requireCharTids": []
+    },
     "dung_rdg_mifu_01": {
         "id": "dung_rdg_mifu_01",
         "maxMemberCount": 2,
@@ -1383,19 +1533,6 @@
         "presetTeam": [
             "player_60_chr_0031_mifu",
             "player_60_chr_9000_endmin"
-        ],
-        "requireCharTids": []
-    },
-    "train04": {
-        "id": "train04",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "train_20_chr_0009_azrila",
-            "train_20_chr_9000_endmin"
-        ],
-        "presetTeam": [
-            "train_20_chr_0009_azrila",
-            "train_20_chr_9000_endmin"
         ],
         "requireCharTids": []
     },
@@ -1425,19 +1562,28 @@
         ],
         "requireCharTids": []
     },
-    "train01": {
-        "id": "train01",
-        "maxMemberCount": 1,
+    "dung_rdg_typhoea_01": {
+        "id": "dung_rdg_typhoea_01",
+        "maxMemberCount": 4,
+        "presetCharList": [],
+        "presetTeam": [],
+        "requireCharTids": []
+    },
+    "dung_rdg_typhoea_02": {
+        "id": "dung_rdg_typhoea_02",
+        "maxMemberCount": 2,
         "presetCharList": [
-            "train_20_chr_9000_endmin"
+            "player_60_chr_0034_typhoea",
+            "player_60_chr_9000_endmin"
         ],
         "presetTeam": [
-            "train_20_chr_9000_endmin"
+            "player_60_chr_0034_typhoea",
+            "player_60_chr_9000_endmin"
         ],
         "requireCharTids": []
     },
-    "dung_rdg_mifu_03": {
-        "id": "dung_rdg_mifu_03",
+    "dung_rdg_typhoea_03": {
+        "id": "dung_rdg_typhoea_03",
         "maxMemberCount": 1,
         "presetCharList": [
             "player_60_chr_9000_endmin"
@@ -1447,14 +1593,29 @@
         ],
         "requireCharTids": []
     },
-    "ikut_chartrain_03": {
-        "id": "ikut_chartrain_03",
-        "maxMemberCount": 1,
+    "laevat_chartrain_04": {
+        "id": "laevat_chartrain_04",
+        "maxMemberCount": 2,
         "presetCharList": [
-            "player_80_chr_0007_ikut"
+            "player_80_chr_0016_laevat",
+            "player_80_chr_0019_karin"
         ],
         "presetTeam": [
-            "player_80_chr_0007_ikut"
+            "player_80_chr_0016_laevat",
+            "player_80_chr_0019_karin"
+        ],
+        "requireCharTids": []
+    },
+    "dung_rdg_typhoea_05": {
+        "id": "dung_rdg_typhoea_05",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_60_chr_0034_typhoea",
+            "player_60_chr_9000_endmin"
+        ],
+        "presetTeam": [
+            "player_60_chr_9000_endmin",
+            "player_60_chr_0034_typhoea"
         ],
         "requireCharTids": []
     },
@@ -1482,14 +1643,27 @@
         ],
         "requireCharTids": []
     },
-    "std_85_lizhiyan_fuzhu": {
-        "id": "std_85_lizhiyan_fuzhu",
-        "maxMemberCount": 4,
+    "focus_e8m4": {
+        "id": "focus_e8m4",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "std_85_chr_0032_lizhiyan_fuzhu"
+            "player_60_chr_9000_endmin"
         ],
         "presetTeam": [
-            "std_85_chr_0032_lizhiyan_fuzhu"
+            "player_60_chr_9000_endmin"
+        ],
+        "requireCharTids": []
+    },
+    "yvonne_chartrain_02": {
+        "id": "yvonne_chartrain_02",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0017_yvonne",
+            "player_80_chr_0021_whiten"
+        ],
+        "presetTeam": [
+            "player_80_chr_0017_yvonne",
+            "player_80_chr_0021_whiten"
         ],
         "requireCharTids": []
     },
@@ -1504,29 +1678,16 @@
         ],
         "requireCharTids": []
     },
-    "focus_e7m1d5": {
-        "id": "focus_e7m1d5",
-        "maxMemberCount": 3,
+    "endmin_chartrain_03": {
+        "id": "endmin_chartrain_03",
+        "maxMemberCount": 2,
         "presetCharList": [
-            "player_60_chr_9000_endmin",
-            "player_60_chr_0004_pelica",
-            "player_60_chr_0005_chen"
+            "player_80_chr_9000_endmin",
+            "player_80_chr_0004_pelica"
         ],
         "presetTeam": [
-            "player_60_chr_9000_endmin",
-            "player_60_chr_0004_pelica",
-            "player_60_chr_0005_chen"
-        ],
-        "requireCharTids": []
-    },
-    "endmin_chartrain_02": {
-        "id": "endmin_chartrain_02",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_9000_endmin"
-        ],
-        "presetTeam": [
-            "player_80_chr_9000_endmin"
+            "player_80_chr_9000_endmin",
+            "player_80_chr_0004_pelica"
         ],
         "requireCharTids": []
     },
@@ -1539,19 +1700,6 @@
         ],
         "presetTeam": [
             "player_80_chr_9000_endmin",
-            "player_80_chr_0004_pelica"
-        ],
-        "requireCharTids": []
-    },
-    "wolfgd_chartrain_02": {
-        "id": "wolfgd_chartrain_02",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0006_wolfgd",
-            "player_80_chr_0004_pelica"
-        ],
-        "presetTeam": [
-            "player_80_chr_0006_wolfgd",
             "player_80_chr_0004_pelica"
         ],
         "requireCharTids": []
@@ -1580,17 +1728,6 @@
         ],
         "requireCharTids": []
     },
-    "focus_c27m2_1": {
-        "id": "focus_c27m2_1",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_60_chr_0027_tangtang"
-        ],
-        "presetTeam": [
-            "player_60_chr_0027_tangtang"
-        ],
-        "requireCharTids": []
-    },
     "focus_c27m2_2": {
         "id": "focus_c27m2_2",
         "maxMemberCount": 2,
@@ -1601,19 +1738,6 @@
         "presetTeam": [
             "player_60_chr_0027_tangtang",
             "player_60_chr_9000_endmin"
-        ],
-        "requireCharTids": []
-    },
-    "train01b": {
-        "id": "train01b",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "train_20_chr_9000_endmin",
-            "train_20_chr_0004_pelica"
-        ],
-        "presetTeam": [
-            "train_20_chr_9000_endmin",
-            "train_20_chr_0004_pelica"
         ],
         "requireCharTids": []
     },
@@ -1628,44 +1752,79 @@
         ],
         "requireCharTids": []
     },
-    "focus_e10m2d5": {
-        "id": "focus_e10m2d5",
+    "focus_c35": {
+        "id": "focus_c35",
         "maxMemberCount": 2,
         "presetCharList": [
-            "player_60_chr_0030_zhuangfy",
-            "player_60_chr_9000_endmin"
+            "player_60_chr_9000_endmin",
+            "player_60_chr_0035_liino"
         ],
         "presetTeam": [
-            "player_60_chr_0030_zhuangfy",
-            "player_60_chr_9000_endmin"
+            "player_60_chr_9000_endmin",
+            "player_60_chr_0035_liino"
         ],
         "requireCharTids": []
     },
-    "lizhiyan_chartrain_09": {
-        "id": "lizhiyan_chartrain_09",
-        "maxMemberCount": 4,
+    "lifeng_chartrain_03": {
+        "id": "lifeng_chartrain_03",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "player_80_chr_0032_lizhiyan_fuzhu",
-            "player_80_chr_0021_whiten",
-            "player_80_chr_0022_bounda",
-            "player_80_chr_0026_lastrite"
+            "player_80_chr_0015_lifeng"
         ],
         "presetTeam": [
-            "player_80_chr_0032_lizhiyan_fuzhu",
-            "player_80_chr_0021_whiten",
-            "player_80_chr_0022_bounda",
-            "player_80_chr_0026_lastrite"
+            "player_80_chr_0015_lifeng"
         ],
         "requireCharTids": []
     },
-    "focus_e5m2d5_3": {
-        "id": "focus_e5m2d5_3",
+    "focus_c35m2": {
+        "id": "focus_c35m2",
         "maxMemberCount": 1,
         "presetCharList": [
             "player_60_chr_9000_endmin"
         ],
         "presetTeam": [
             "player_60_chr_9000_endmin"
+        ],
+        "requireCharTids": []
+    },
+    "focus_c6m2": {
+        "id": "focus_c6m2",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_50_chr_9000_endmin",
+            "player_50_chr_0006_wolfgd"
+        ],
+        "presetTeam": [
+            "player_50_chr_9000_endmin",
+            "player_50_chr_0006_wolfgd"
+        ],
+        "requireCharTids": []
+    },
+    "focus_e5m2d5": {
+        "id": "focus_e5m2d5",
+        "maxMemberCount": 3,
+        "presetCharList": [
+            "player_60_chr_9000_endmin",
+            "player_60_chr_0005_chen",
+            "player_60_chr_0004_pelica"
+        ],
+        "presetTeam": [
+            "player_60_chr_9000_endmin",
+            "player_60_chr_0005_chen",
+            "player_60_chr_0004_pelica"
+        ],
+        "requireCharTids": []
+    },
+    "focus_e5m2d5_2": {
+        "id": "focus_e5m2d5_2",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_60_chr_9000_endmin",
+            "player_60_chr_0005_chen"
+        ],
+        "presetTeam": [
+            "player_60_chr_9000_endmin",
+            "player_60_chr_0005_chen"
         ],
         "requireCharTids": []
     },
@@ -1684,32 +1843,6 @@
         ],
         "requireCharTids": []
     },
-    "wolfgd_chartrain_04": {
-        "id": "wolfgd_chartrain_04",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0006_wolfgd",
-            "player_80_chr_0004_pelica"
-        ],
-        "presetTeam": [
-            "player_80_chr_0006_wolfgd",
-            "player_80_chr_0004_pelica"
-        ],
-        "requireCharTids": []
-    },
-    "yvonne_chartrain_04": {
-        "id": "yvonne_chartrain_04",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0017_yvonne",
-            "player_80_chr_0021_whiten"
-        ],
-        "presetTeam": [
-            "player_80_chr_0017_yvonne",
-            "player_80_chr_0021_whiten"
-        ],
-        "requireCharTids": []
-    },
     "focus_e6m3d5": {
         "id": "focus_e6m3d5",
         "maxMemberCount": 1,
@@ -1721,76 +1854,14 @@
         ],
         "requireCharTids": []
     },
-    "lastrite_chartrain_01": {
-        "id": "lastrite_chartrain_01",
+    "mifu_chartrain_04": {
+        "id": "mifu_chartrain_04",
         "maxMemberCount": 1,
         "presetCharList": [
-            "player_80_chr_0026_lastrite"
+            "player_80_chr_0031_mifu"
         ],
         "presetTeam": [
-            "player_80_chr_0026_lastrite"
-        ],
-        "requireCharTids": []
-    },
-    "focus_e8m4": {
-        "id": "focus_e8m4",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_60_chr_9000_endmin"
-        ],
-        "presetTeam": [
-            "player_60_chr_9000_endmin"
-        ],
-        "requireCharTids": []
-    },
-    "std_10": {
-        "id": "std_10",
-        "maxMemberCount": 4,
-        "presetCharList": [
-            "std_10_chr_0004_pelica",
-            "std_10_chr_9000_endmin",
-            "std_10_chr_0005_chen",
-            "std_10_chr_0006_wolfgd",
-            "std_10_chr_0007_ikut",
-            "std_10_chr_0009_azrila",
-            "std_10_chr_0011_seraph",
-            "std_10_chr_0012_avywen",
-            "std_10_chr_0013_aglina",
-            "std_10_chr_0014_aurora",
-            "std_10_chr_0015_lifeng",
-            "std_10_chr_0016_laevat",
-            "std_10_chr_0017_yvonne",
-            "std_10_chr_0018_dapan",
-            "std_10_chr_0019_karin",
-            "std_10_chr_0020_meurs",
-            "std_10_chr_0021_whiten",
-            "std_10_chr_0022_bounda",
-            "std_10_chr_0023_antal",
-            "std_10_chr_0024_deepfin",
-            "std_10_chr_0025_ardelia",
-            "std_10_chr_0026_lastrite",
-            "std_10_chr_0029_pograni",
-            "std_10_chr_0027_tangtang",
-            "std_10_chr_0028_wulfa"
-        ],
-        "presetTeam": [
-            "std_10_chr_0004_pelica",
-            "std_10_chr_9000_endmin",
-            "std_10_chr_0005_chen",
-            "std_10_chr_0006_wolfgd"
-        ],
-        "requireCharTids": []
-    },
-    "wulfa_chartrain_04": {
-        "id": "wulfa_chartrain_04",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "chartrain_80_chr_0028_wulfa",
-            "player_80_chr_0021_whiten"
-        ],
-        "presetTeam": [
-            "chartrain_80_chr_0028_wulfa",
-            "player_80_chr_0021_whiten"
+            "player_80_chr_0031_mifu"
         ],
         "requireCharTids": []
     },
@@ -1806,19 +1877,6 @@
             "player_60_chr_9000_endmin",
             "player_60_chr_0004_pelica",
             "player_60_chr_0005_chen"
-        ],
-        "requireCharTids": []
-    },
-    "mifu_chartrain_05": {
-        "id": "mifu_chartrain_05",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0031_mifu",
-            "player_80_chr_0005_chen_phy01"
-        ],
-        "presetTeam": [
-            "player_80_chr_0031_mifu",
-            "player_80_chr_0005_chen_phy01"
         ],
         "requireCharTids": []
     },
@@ -1839,6 +1897,34 @@
         ],
         "requireCharTids": []
     },
+    "train09": {
+        "id": "train09",
+        "maxMemberCount": 3,
+        "presetCharList": [
+            "train_20_chr_0022_bounda",
+            "train_20_chr_0004_pelica",
+            "train_20_chr_9000_endmin"
+        ],
+        "presetTeam": [
+            "train_20_chr_0022_bounda",
+            "train_20_chr_0004_pelica",
+            "train_20_chr_9000_endmin"
+        ],
+        "requireCharTids": []
+    },
+    "tt_60_laevat": {
+        "id": "tt_60_laevat",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "tt_60_chr_0016_laevat",
+            "tt_60_chr_0006_wolfgd"
+        ],
+        "presetTeam": [],
+        "requireCharTids": [
+            "chr_0016_laevat",
+            "chr_0006_wolfgd"
+        ]
+    },
     "focus_f1m18d4": {
         "id": "focus_f1m18d4",
         "maxMemberCount": 3,
@@ -1854,39 +1940,25 @@
         ],
         "requireCharTids": []
     },
-    "player_20": {
-        "id": "player_20",
-        "maxMemberCount": 4,
+    "focus_f1m19d4": {
+        "id": "focus_f1m19d4",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "player_20_chr_0004_pelica",
-            "player_20_chr_9000_endmin",
-            "player_20_chr_0005_chen",
-            "player_20_chr_0006_wolfgd",
-            "player_20_chr_0007_ikut",
-            "player_20_chr_0009_azrila",
-            "player_20_chr_0011_seraph",
-            "player_20_chr_0012_avywen",
-            "player_20_chr_0013_aglina",
-            "player_20_chr_0014_aurora",
-            "player_20_chr_0015_lifeng",
-            "player_20_chr_0016_laevat",
-            "player_20_chr_0017_yvonne",
-            "player_20_chr_0018_dapan",
-            "player_20_chr_0019_karin",
-            "player_20_chr_0020_meurs",
-            "player_20_chr_0021_whiten",
-            "player_20_chr_0022_bounda",
-            "player_20_chr_0023_antal",
-            "player_20_chr_0024_deepfin",
-            "player_20_chr_0025_ardelia",
-            "player_20_chr_0026_lastrite",
-            "player_20_chr_0029_pograni"
+            "player_60_chr_9000_endmin"
         ],
         "presetTeam": [
-            "player_20_chr_0004_pelica",
-            "player_20_chr_9000_endmin",
-            "player_20_chr_0005_chen",
-            "player_20_chr_0006_wolfgd"
+            "player_60_chr_9000_endmin"
+        ],
+        "requireCharTids": []
+    },
+    "train01": {
+        "id": "train01",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "train_20_chr_9000_endmin"
+        ],
+        "presetTeam": [
+            "train_20_chr_9000_endmin"
         ],
         "requireCharTids": []
     },
@@ -1901,16 +1973,61 @@
         ],
         "requireCharTids": []
     },
-    "zhuangfy_chartrain_04": {
-        "id": "zhuangfy_chartrain_04",
-        "maxMemberCount": 2,
+    "fp_80": {
+        "id": "fp_80",
+        "maxMemberCount": 4,
         "presetCharList": [
-            "player_80_chr_0030_zhuangfy",
-            "player_80_chr_0004_pelica"
+            "fp_80_chr_0004_pelica",
+            "fp_80_chr_9000_endmin",
+            "fp_80_chr_0005_chen_phy01",
+            "fp_80_chr_0006_wolfgd",
+            "fp_80_chr_0007_ikut",
+            "fp_80_chr_0009_azrila",
+            "fp_80_chr_0011_seraph",
+            "fp_80_chr_0012_avywen",
+            "fp_80_chr_0013_aglina_usp02",
+            "fp_80_chr_0014_aurora",
+            "fp_80_chr_0015_lifeng",
+            "fp_80_chr_0016_laevat",
+            "fp_80_chr_0017_yvonne",
+            "fp_80_chr_0018_dapan",
+            "fp_80_chr_0019_karin",
+            "fp_80_chr_0020_meurs",
+            "fp_80_chr_0021_whiten",
+            "fp_80_chr_0022_bounda",
+            "fp_80_chr_0023_antal",
+            "fp_80_chr_0024_deepfin",
+            "fp_80_chr_0025_ardelia_usp02",
+            "fp_80_chr_0026_lastrite",
+            "fp_80_chr_0029_pograni"
         ],
         "presetTeam": [
-            "player_80_chr_0030_zhuangfy",
-            "player_80_chr_0004_pelica"
+            "fp_80_chr_0004_pelica",
+            "fp_80_chr_9000_endmin",
+            "fp_80_chr_0005_chen_phy01",
+            "fp_80_chr_0006_wolfgd"
+        ],
+        "requireCharTids": []
+    },
+    "mifu_chartrain_06": {
+        "id": "mifu_chartrain_06",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0031_mifu"
+        ],
+        "presetTeam": [
+            "player_80_chr_0031_mifu"
+        ],
+        "requireCharTids": []
+    },
+    "typhoea_chartrain_03": {
+        "id": "typhoea_chartrain_03",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0034_typhoea"
+        ],
+        "presetTeam": [
+            "player_80_chr_0034_typhoea"
         ],
         "requireCharTids": []
     },
@@ -1950,15 +2067,67 @@
         ],
         "requireCharTids": []
     },
-    "train02": {
-        "id": "train02",
+    "typhoea_chartrain_04": {
+        "id": "typhoea_chartrain_04",
         "maxMemberCount": 2,
         "presetCharList": [
-            "train_20_chr_9000_endmin",
+            "player_80_chr_0034_typhoea",
+            "player_80_chr_0022_bounda"
+        ],
+        "presetTeam": [
+            "player_80_chr_0034_typhoea",
+            "player_80_chr_0022_bounda"
+        ],
+        "requireCharTids": []
+    },
+    "hd_80": {
+        "id": "hd_80",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "hd_80_chr_0004_pelica",
+            "hd_80_chr_9000_endmin",
+            "hd_80_chr_0005_chen_phy01",
+            "hd_80_chr_0006_wolfgd",
+            "hd_80_chr_0007_ikut",
+            "hd_80_chr_0009_azrila",
+            "hd_80_chr_0011_seraph",
+            "hd_80_chr_0012_avywen",
+            "hd_80_chr_0013_aglina_heal01",
+            "hd_80_chr_0014_aurora",
+            "hd_80_chr_0015_lifeng",
+            "hd_80_chr_0016_laevat",
+            "hd_80_chr_0017_yvonne",
+            "hd_80_chr_0018_dapan",
+            "hd_80_chr_0019_karin",
+            "hd_80_chr_0020_meurs",
+            "hd_80_chr_0021_whiten",
+            "hd_80_chr_0022_bounda",
+            "hd_80_chr_0023_antal",
+            "hd_80_chr_0024_deepfin",
+            "hd_80_chr_0025_ardelia_usp02",
+            "hd_80_chr_0026_lastrite",
+            "hd_80_chr_0029_pograni",
+            "hd_80_chr_0027_tangtang",
+            "hd_80_chr_0028_wulfa",
+            "hd_80_chr_0030_zhuangfy"
+        ],
+        "presetTeam": [
+            "hd_80_chr_0004_pelica",
+            "hd_80_chr_9000_endmin",
+            "hd_80_chr_0005_chen_phy01",
+            "hd_80_chr_0006_wolfgd"
+        ],
+        "requireCharTids": []
+    },
+    "train12": {
+        "id": "train12",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "train_20_chr_0029_pograni",
             "train_20_chr_0005_chen"
         ],
         "presetTeam": [
-            "train_20_chr_9000_endmin",
+            "train_20_chr_0029_pograni",
             "train_20_chr_0005_chen"
         ],
         "requireCharTids": []
@@ -2002,19 +2171,6 @@
         ],
         "requireCharTids": []
     },
-    "seraph_chartrain_03": {
-        "id": "seraph_chartrain_03",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0019_karin",
-            "player_80_chr_0011_seraph"
-        ],
-        "presetTeam": [
-            "player_80_chr_0019_karin",
-            "player_80_chr_0011_seraph"
-        ],
-        "requireCharTids": []
-    },
     "hd_99": {
         "id": "hd_99",
         "maxMemberCount": 4,
@@ -2054,38 +2210,31 @@
         ],
         "requireCharTids": []
     },
-    "ikut_chartrain_01": {
-        "id": "ikut_chartrain_01",
-        "maxMemberCount": 1,
+    "indie_boss": {
+        "id": "indie_boss",
+        "maxMemberCount": 4,
         "presetCharList": [
-            "player_80_chr_0007_ikut"
+            "endminf_indie",
+            "pelica_indie",
+            "laevat_indie",
+            "aglina_indie"
         ],
         "presetTeam": [
-            "player_80_chr_0007_ikut"
+            "endminf_indie",
+            "pelica_indie",
+            "laevat_indie",
+            "aglina_indie"
         ],
         "requireCharTids": []
     },
-    "ikut_chartrain_02": {
-        "id": "ikut_chartrain_02",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0007_ikut",
-            "player_80_chr_0004_pelica"
-        ],
-        "presetTeam": [
-            "player_80_chr_0007_ikut",
-            "player_80_chr_0004_pelica"
-        ],
-        "requireCharTids": []
-    },
-    "ikut_chartrain_04": {
-        "id": "ikut_chartrain_04",
+    "train10": {
+        "id": "train10",
         "maxMemberCount": 1,
         "presetCharList": [
-            "player_80_chr_0007_ikut"
+            "train_20_chr_9000_endmin"
         ],
         "presetTeam": [
-            "player_80_chr_0007_ikut"
+            "train_20_chr_9000_endmin"
         ],
         "requireCharTids": []
     },
@@ -2100,25 +2249,46 @@
         ],
         "requireCharTids": []
     },
-    "laevat_chartrain_01": {
-        "id": "laevat_chartrain_01",
-        "maxMemberCount": 1,
+    "train05": {
+        "id": "train05",
+        "maxMemberCount": 2,
         "presetCharList": [
-            "player_80_chr_0016_laevat"
+            "train_20_chr_0004_pelica",
+            "train_20_chr_9000_endmin"
         ],
         "presetTeam": [
-            "player_80_chr_0016_laevat"
+            "train_20_chr_0004_pelica",
+            "train_20_chr_9000_endmin"
         ],
         "requireCharTids": []
     },
-    "laevat_chartrain_02": {
-        "id": "laevat_chartrain_02",
-        "maxMemberCount": 1,
+    "tt_60_yvonne": {
+        "id": "tt_60_yvonne",
+        "maxMemberCount": 2,
         "presetCharList": [
-            "player_80_chr_0016_laevat"
+            "tt_60_chr_0017_yvonne",
+            "tt_60_chr_0013_aglina"
+        ],
+        "presetTeam": [],
+        "requireCharTids": [
+            "chr_0017_yvonne",
+            "chr_0013_aglina"
+        ]
+    },
+    "typhoea_chartrial": {
+        "id": "typhoea_chartrial",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "player_80_chr_0034_typhoea",
+            "player_80_chr_0032_lizhiyan_fuzhu",
+            "player_80_chr_0022_bounda",
+            "player_80_chr_0023_antal"
         ],
         "presetTeam": [
-            "player_80_chr_0016_laevat"
+            "player_80_chr_0034_typhoea",
+            "player_80_chr_0032_lizhiyan_fuzhu",
+            "player_80_chr_0022_bounda",
+            "player_80_chr_0023_antal"
         ],
         "requireCharTids": []
     },
@@ -2135,44 +2305,25 @@
         ],
         "requireCharTids": []
     },
-    "laevat_chartrain_04": {
-        "id": "laevat_chartrain_04",
-        "maxMemberCount": 2,
+    "lastrite_chartrain_01": {
+        "id": "lastrite_chartrain_01",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "player_80_chr_0016_laevat",
-            "player_80_chr_0019_karin"
+            "player_80_chr_0026_lastrite"
         ],
         "presetTeam": [
-            "player_80_chr_0016_laevat",
-            "player_80_chr_0019_karin"
+            "player_80_chr_0026_lastrite"
         ],
         "requireCharTids": []
     },
-    "tt_60_laevat": {
-        "id": "tt_60_laevat",
-        "maxMemberCount": 2,
+    "zhuangfy_chartrain_01": {
+        "id": "zhuangfy_chartrain_01",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "tt_60_chr_0016_laevat",
-            "tt_60_chr_0006_wolfgd"
-        ],
-        "presetTeam": [],
-        "requireCharTids": [
-            "chr_0016_laevat",
-            "chr_0006_wolfgd"
-        ]
-    },
-    "laevat_chartrain_05": {
-        "id": "laevat_chartrain_05",
-        "maxMemberCount": 3,
-        "presetCharList": [
-            "player_80_chr_0016_laevat",
-            "player_80_chr_0019_karin",
-            "player_80_chr_0006_wolfgd"
+            "player_80_chr_0030_zhuangfy"
         ],
         "presetTeam": [
-            "player_80_chr_0016_laevat",
-            "player_80_chr_0019_karin",
-            "player_80_chr_0006_wolfgd"
+            "player_80_chr_0030_zhuangfy"
         ],
         "requireCharTids": []
     },
@@ -2187,43 +2338,15 @@
         ],
         "requireCharTids": []
     },
-    "tangtang_chartrain_04": {
-        "id": "tangtang_chartrain_04",
+    "wolfgd_chartrain_03": {
+        "id": "wolfgd_chartrain_03",
         "maxMemberCount": 2,
         "presetCharList": [
-            "player_80_chr_0027_tangtang",
+            "player_80_chr_0006_wolfgd",
             "player_80_chr_0004_pelica"
         ],
         "presetTeam": [
-            "player_80_chr_0027_tangtang",
-            "player_80_chr_0004_pelica"
-        ],
-        "requireCharTids": []
-    },
-    "lastrite_chartrain_03": {
-        "id": "lastrite_chartrain_03",
-        "maxMemberCount": 3,
-        "presetCharList": [
-            "player_80_chr_9000_endmin",
-            "player_80_chr_0019_karin",
-            "player_80_chr_0026_lastrite"
-        ],
-        "presetTeam": [
-            "player_80_chr_9000_endmin",
-            "player_80_chr_0019_karin",
-            "player_80_chr_0026_lastrite"
-        ],
-        "requireCharTids": []
-    },
-    "tangtang_chartrain_05": {
-        "id": "tangtang_chartrain_05",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0027_tangtang",
-            "player_80_chr_0004_pelica"
-        ],
-        "presetTeam": [
-            "player_80_chr_0027_tangtang",
+            "player_80_chr_0006_wolfgd",
             "player_80_chr_0004_pelica"
         ],
         "requireCharTids": []
@@ -2241,14 +2364,38 @@
         ],
         "requireCharTids": []
     },
-    "tangtang_chartrain_02": {
-        "id": "tangtang_chartrain_02",
+    "lastrite_chartrain_05": {
+        "id": "lastrite_chartrain_05",
         "maxMemberCount": 1,
         "presetCharList": [
-            "player_80_chr_0027_tangtang"
+            "player_80_chr_0026_lastrite"
         ],
         "presetTeam": [
-            "player_80_chr_0027_tangtang"
+            "player_80_chr_0026_lastrite"
+        ],
+        "requireCharTids": []
+    },
+    "train01b": {
+        "id": "train01b",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "train_20_chr_9000_endmin",
+            "train_20_chr_0004_pelica"
+        ],
+        "presetTeam": [
+            "train_20_chr_9000_endmin",
+            "train_20_chr_0004_pelica"
+        ],
+        "requireCharTids": []
+    },
+    "zhuangfy_chartrain_05": {
+        "id": "zhuangfy_chartrain_05",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0030_zhuangfy"
+        ],
+        "presetTeam": [
+            "player_80_chr_0030_zhuangfy"
         ],
         "requireCharTids": []
     },
@@ -2260,6 +2407,117 @@
         ],
         "presetTeam": [
             "player_80_chr_0015_lifeng"
+        ],
+        "requireCharTids": []
+    },
+    "std_99_lizhiyan_shuchu": {
+        "id": "std_99_lizhiyan_shuchu",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "std_99_chr_0032_lizhiyan"
+        ],
+        "presetTeam": [
+            "std_99_chr_0032_lizhiyan"
+        ],
+        "requireCharTids": []
+    },
+    "lifeng_chartrain_02": {
+        "id": "lifeng_chartrain_02",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0015_lifeng"
+        ],
+        "presetTeam": [
+            "player_80_chr_0015_lifeng"
+        ],
+        "requireCharTids": []
+    },
+    "lifeng_chartrain_04": {
+        "id": "lifeng_chartrain_04",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0015_lifeng",
+            "player_80_chr_9000_endmin"
+        ],
+        "presetTeam": [
+            "player_80_chr_0015_lifeng",
+            "player_80_chr_9000_endmin"
+        ],
+        "requireCharTids": []
+    },
+    "liino_chartrain_01": {
+        "id": "liino_chartrain_01",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0035_liino"
+        ],
+        "presetTeam": [
+            "player_80_chr_0035_liino"
+        ],
+        "requireCharTids": []
+    },
+    "liino_chartrain_02": {
+        "id": "liino_chartrain_02",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0035_liino",
+            "player_80_chr_0004_pelica"
+        ],
+        "presetTeam": [
+            "player_80_chr_0035_liino",
+            "player_80_chr_0004_pelica"
+        ],
+        "requireCharTids": []
+    },
+    "liino_chartrain_03": {
+        "id": "liino_chartrain_03",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0004_pelica",
+            "player_80_chr_0035_liino"
+        ],
+        "presetTeam": [
+            "player_80_chr_0004_pelica",
+            "player_80_chr_0035_liino"
+        ],
+        "requireCharTids": []
+    },
+    "zhuangfy_chartrain_04": {
+        "id": "zhuangfy_chartrain_04",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0030_zhuangfy",
+            "player_80_chr_0004_pelica"
+        ],
+        "presetTeam": [
+            "player_80_chr_0030_zhuangfy",
+            "player_80_chr_0004_pelica"
+        ],
+        "requireCharTids": []
+    },
+    "liino_chartrain_04": {
+        "id": "liino_chartrain_04",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0035_liino",
+            "player_80_chr_0007_ikut"
+        ],
+        "presetTeam": [
+            "player_80_chr_0035_liino",
+            "player_80_chr_0007_ikut"
+        ],
+        "requireCharTids": []
+    },
+    "liino_chartrain_05": {
+        "id": "liino_chartrain_05",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0035_liino",
+            "player_80_chr_0004_pelica"
+        ],
+        "presetTeam": [
+            "player_80_chr_0035_liino",
+            "player_80_chr_0004_pelica"
         ],
         "requireCharTids": []
     },
@@ -2276,6 +2534,17 @@
         ],
         "requireCharTids": []
     },
+    "tangtang_chartrain_06": {
+        "id": "tangtang_chartrain_06",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0027_tangtang"
+        ],
+        "presetTeam": [
+            "player_80_chr_0027_tangtang"
+        ],
+        "requireCharTids": []
+    },
     "lizhiyan_chartrain_03": {
         "id": "lizhiyan_chartrain_03",
         "maxMemberCount": 1,
@@ -2284,6 +2553,32 @@
         ],
         "presetTeam": [
             "player_80_chr_0032_lizhiyan"
+        ],
+        "requireCharTids": []
+    },
+    "tangtang_chartrain_05": {
+        "id": "tangtang_chartrain_05",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0027_tangtang",
+            "player_80_chr_0004_pelica"
+        ],
+        "presetTeam": [
+            "player_80_chr_0027_tangtang",
+            "player_80_chr_0004_pelica"
+        ],
+        "requireCharTids": []
+    },
+    "lizhiyan_chartrain_04": {
+        "id": "lizhiyan_chartrain_04",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0032_lizhiyan",
+            "player_80_chr_0004_pelica"
+        ],
+        "presetTeam": [
+            "player_80_chr_0032_lizhiyan",
+            "player_80_chr_0004_pelica"
         ],
         "requireCharTids": []
     },
@@ -2298,16 +2593,16 @@
         ],
         "requireCharTids": []
     },
-    "train12": {
-        "id": "train12",
+    "wulfa_chartrain_04": {
+        "id": "wulfa_chartrain_04",
         "maxMemberCount": 2,
         "presetCharList": [
-            "train_20_chr_0029_pograni",
-            "train_20_chr_0005_chen"
+            "chartrain_80_chr_0028_wulfa",
+            "player_80_chr_0021_whiten"
         ],
         "presetTeam": [
-            "train_20_chr_0029_pograni",
-            "train_20_chr_0005_chen"
+            "chartrain_80_chr_0028_wulfa",
+            "player_80_chr_0021_whiten"
         ],
         "requireCharTids": []
     },
@@ -2319,6 +2614,40 @@
         ],
         "presetTeam": [
             "player_80_chr_0032_lizhiyan_fuzhu"
+        ],
+        "requireCharTids": []
+    },
+    "lizhiyan_chartrain_10": {
+        "id": "lizhiyan_chartrain_10",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0032_lizhiyan_fuzhu",
+            "player_80_chr_0022_bounda"
+        ],
+        "presetTeam": [
+            "player_80_chr_0032_lizhiyan_fuzhu",
+            "player_80_chr_0022_bounda"
+        ],
+        "requireCharTids": []
+    },
+    "std_70": {
+        "id": "std_70",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "std_70_chr_0016_laevat",
+            "std_70_chr_0006_wolfgd",
+            "std_70_chr_0019_karin",
+            "std_70_chr_0025_ardelia",
+            "std_70_chr_0018_dapan",
+            "std_70_chr_0005_chen",
+            "std_70_chr_0009_azrila",
+            "std_70_chr_0029_pograni"
+        ],
+        "presetTeam": [
+            "std_70_chr_0016_laevat",
+            "std_70_chr_0006_wolfgd",
+            "std_70_chr_0019_karin",
+            "std_70_chr_0025_ardelia"
         ],
         "requireCharTids": []
     },
@@ -2339,6 +2668,19 @@
         ],
         "requireCharTids": []
     },
+    "tt_60_endmin": {
+        "id": "tt_60_endmin",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "tt_60_chr_9000_endmin",
+            "tt_60_chr_0005_chen"
+        ],
+        "presetTeam": [],
+        "requireCharTids": [
+            "chr_9000_endmin",
+            "chr_0005_chen"
+        ]
+    },
     "mifu_chartrain_01": {
         "id": "mifu_chartrain_01",
         "maxMemberCount": 1,
@@ -2350,80 +2692,65 @@
         ],
         "requireCharTids": []
     },
-    "mifu_chartrain_02": {
-        "id": "mifu_chartrain_02",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_0031_mifu"
-        ],
-        "presetTeam": [
-            "player_80_chr_0031_mifu"
-        ],
-        "requireCharTids": []
-    },
-    "mifu_chartrain_06": {
-        "id": "mifu_chartrain_06",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_0031_mifu"
-        ],
-        "presetTeam": [
-            "player_80_chr_0031_mifu"
-        ],
-        "requireCharTids": []
-    },
-    "mifu_chartrial": {
-        "id": "mifu_chartrial",
-        "maxMemberCount": 4,
+    "mifu_chartrain_03": {
+        "id": "mifu_chartrain_03",
+        "maxMemberCount": 2,
         "presetCharList": [
             "player_80_chr_0031_mifu",
-            "player_80_chr_0005_chen_phy01",
-            "player_80_chr_0029_pograni",
-            "player_80_chr_0015_lifeng"
+            "player_80_chr_0005_chen_phy01"
         ],
         "presetTeam": [
             "player_80_chr_0031_mifu",
-            "player_80_chr_0005_chen_phy01",
-            "player_80_chr_0029_pograni",
-            "player_80_chr_0015_lifeng"
+            "player_80_chr_0005_chen_phy01"
         ],
         "requireCharTids": []
     },
-    "std_20": {
-        "id": "std_20",
-        "maxMemberCount": 4,
+    "mifu_chartrain_05": {
+        "id": "mifu_chartrain_05",
+        "maxMemberCount": 2,
         "presetCharList": [
-            "std_20_chr_0004_pelica",
-            "std_20_chr_9000_endmin",
-            "std_20_chr_0005_chen",
-            "std_20_chr_0006_wolfgd",
-            "std_20_chr_0007_ikut",
-            "std_20_chr_0009_azrila",
-            "std_20_chr_0011_seraph",
-            "std_20_chr_0012_avywen",
-            "std_20_chr_0013_aglina",
-            "std_20_chr_0014_aurora",
-            "std_20_chr_0015_lifeng",
-            "std_20_chr_0016_laevat",
-            "std_20_chr_0017_yvonne",
-            "std_20_chr_0018_dapan",
-            "std_20_chr_0019_karin",
-            "std_20_chr_0020_meurs",
-            "std_20_chr_0021_whiten",
-            "std_20_chr_0022_bounda",
-            "std_20_chr_0023_antal",
-            "std_20_chr_0024_deepfin",
-            "std_20_chr_0025_ardelia",
-            "std_20_chr_0026_lastrite",
-            "std_20_chr_0029_pograni",
-            "std_20_chr_0027_tangtang",
-            "std_20_chr_0028_wulfa"
+            "player_80_chr_0031_mifu",
+            "player_80_chr_0005_chen_phy01"
         ],
         "presetTeam": [
-            "std_20_chr_0004_pelica",
-            "std_20_chr_9000_endmin",
-            "std_20_chr_0005_chen",
-            "std_20_chr_0006_wolfgd"
+            "player_80_chr_0031_mifu",
+            "player_80_chr_0005_chen_phy01"
+        ],
+        "requireCharTids": []
+    },
+    "player_40": {
+        "id": "player_40",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "player_40_chr_0004_pelica",
+            "player_40_chr_9000_endmin",
+            "player_40_chr_0005_chen",
+            "player_40_chr_0006_wolfgd",
+            "player_40_chr_0007_ikut",
+            "player_40_chr_0009_azrila",
+            "player_40_chr_0011_seraph",
+            "player_40_chr_0012_avywen",
+            "player_40_chr_0013_aglina",
+            "player_40_chr_0014_aurora",
+            "player_40_chr_0015_lifeng",
+            "player_40_chr_0016_laevat",
+            "player_40_chr_0017_yvonne",
+            "player_40_chr_0018_dapan",
+            "player_40_chr_0019_karin",
+            "player_40_chr_0020_meurs",
+            "player_40_chr_0021_whiten",
+            "player_40_chr_0022_bounda",
+            "player_40_chr_0023_antal",
+            "player_40_chr_0024_deepfin",
+            "player_40_chr_0025_ardelia",
+            "player_40_chr_0026_lastrite",
+            "player_40_chr_0029_pograni"
+        ],
+        "presetTeam": [
+            "player_40_chr_0004_pelica",
+            "player_40_chr_9000_endmin",
+            "player_40_chr_0005_chen",
+            "player_40_chr_0006_wolfgd"
         ],
         "requireCharTids": []
     },
@@ -2438,68 +2765,39 @@
         ],
         "requireCharTids": []
     },
-    "yvonne_chartrain_02": {
-        "id": "yvonne_chartrain_02",
-        "maxMemberCount": 2,
+    "player_20": {
+        "id": "player_20",
+        "maxMemberCount": 4,
         "presetCharList": [
-            "player_80_chr_0017_yvonne",
-            "player_80_chr_0021_whiten"
+            "player_20_chr_0004_pelica",
+            "player_20_chr_9000_endmin",
+            "player_20_chr_0005_chen",
+            "player_20_chr_0006_wolfgd",
+            "player_20_chr_0007_ikut",
+            "player_20_chr_0009_azrila",
+            "player_20_chr_0011_seraph",
+            "player_20_chr_0012_avywen",
+            "player_20_chr_0013_aglina",
+            "player_20_chr_0014_aurora",
+            "player_20_chr_0015_lifeng",
+            "player_20_chr_0016_laevat",
+            "player_20_chr_0017_yvonne",
+            "player_20_chr_0018_dapan",
+            "player_20_chr_0019_karin",
+            "player_20_chr_0020_meurs",
+            "player_20_chr_0021_whiten",
+            "player_20_chr_0022_bounda",
+            "player_20_chr_0023_antal",
+            "player_20_chr_0024_deepfin",
+            "player_20_chr_0025_ardelia",
+            "player_20_chr_0026_lastrite",
+            "player_20_chr_0029_pograni"
         ],
         "presetTeam": [
-            "player_80_chr_0017_yvonne",
-            "player_80_chr_0021_whiten"
-        ],
-        "requireCharTids": []
-    },
-    "pelica_chartrain_02": {
-        "id": "pelica_chartrain_02",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0004_pelica",
-            "player_80_chr_0019_karin"
-        ],
-        "presetTeam": [
-            "player_80_chr_0004_pelica",
-            "player_80_chr_0019_karin"
-        ],
-        "requireCharTids": []
-    },
-    "yvonne_chartrain_03": {
-        "id": "yvonne_chartrain_03",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0017_yvonne",
-            "player_80_chr_0021_whiten"
-        ],
-        "presetTeam": [
-            "player_80_chr_0017_yvonne",
-            "player_80_chr_0021_whiten"
-        ],
-        "requireCharTids": []
-    },
-    "pelica_chartrain_03": {
-        "id": "pelica_chartrain_03",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0019_karin",
-            "player_80_chr_0004_pelica"
-        ],
-        "presetTeam": [
-            "player_80_chr_0019_karin",
-            "player_80_chr_0004_pelica"
-        ],
-        "requireCharTids": []
-    },
-    "pelica_chartrain_04": {
-        "id": "pelica_chartrain_04",
-        "maxMemberCount": 2,
-        "presetCharList": [
-            "player_80_chr_0019_karin",
-            "player_80_chr_0004_pelica"
-        ],
-        "presetTeam": [
-            "player_80_chr_0019_karin",
-            "player_80_chr_0004_pelica"
+            "player_20_chr_0004_pelica",
+            "player_20_chr_9000_endmin",
+            "player_20_chr_0005_chen",
+            "player_20_chr_0006_wolfgd"
         ],
         "requireCharTids": []
     },
@@ -2539,53 +2837,6 @@
         ],
         "requireCharTids": []
     },
-    "yvonne_chartrain_05": {
-        "id": "yvonne_chartrain_05",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_0017_yvonne"
-        ],
-        "presetTeam": [
-            "player_80_chr_0017_yvonne"
-        ],
-        "requireCharTids": []
-    },
-    "player_80": {
-        "id": "player_80",
-        "maxMemberCount": 4,
-        "presetCharList": [
-            "player_80_chr_0004_pelica",
-            "player_80_chr_9000_endmin",
-            "player_80_chr_0005_chen_phy01",
-            "player_80_chr_0006_wolfgd",
-            "player_80_chr_0007_ikut",
-            "player_80_chr_0009_azrila",
-            "player_80_chr_0011_seraph",
-            "player_80_chr_0012_avywen",
-            "player_80_chr_0013_aglina_usp02",
-            "player_80_chr_0014_aurora",
-            "player_80_chr_0015_lifeng",
-            "player_80_chr_0016_laevat",
-            "player_80_chr_0017_yvonne",
-            "player_80_chr_0018_dapan",
-            "player_80_chr_0019_karin",
-            "player_80_chr_0020_meurs",
-            "player_80_chr_0021_whiten",
-            "player_80_chr_0022_bounda",
-            "player_80_chr_0023_antal",
-            "player_80_chr_0024_deepfin",
-            "player_80_chr_0025_ardelia_usp02",
-            "player_80_chr_0026_lastrite",
-            "player_80_chr_0029_pograni"
-        ],
-        "presetTeam": [
-            "player_80_chr_0004_pelica",
-            "player_80_chr_9000_endmin",
-            "player_80_chr_0005_chen_phy01",
-            "player_80_chr_0006_wolfgd"
-        ],
-        "requireCharTids": []
-    },
     "player_90": {
         "id": "player_90",
         "maxMemberCount": 4,
@@ -2622,17 +2873,6 @@
         ],
         "requireCharTids": []
     },
-    "pograni_chartrain_01": {
-        "id": "pograni_chartrain_01",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_0029_pograni"
-        ],
-        "presetTeam": [
-            "player_80_chr_0029_pograni"
-        ],
-        "requireCharTids": []
-    },
     "pograni_chartrain_02": {
         "id": "pograni_chartrain_02",
         "maxMemberCount": 1,
@@ -2641,17 +2881,6 @@
         ],
         "presetTeam": [
             "player_80_chr_0029_pograni"
-        ],
-        "requireCharTids": []
-    },
-    "zhuangfy_chartrain_02": {
-        "id": "zhuangfy_chartrain_02",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_0030_zhuangfy"
-        ],
-        "presetTeam": [
-            "player_80_chr_0030_zhuangfy"
         ],
         "requireCharTids": []
     },
@@ -2668,6 +2897,30 @@
         ],
         "requireCharTids": []
     },
+    "pograni_chartrain_04": {
+        "id": "pograni_chartrain_04",
+        "maxMemberCount": 2,
+        "presetCharList": [
+            "player_80_chr_0029_pograni",
+            "player_80_chr_0005_chen_phy01"
+        ],
+        "presetTeam": [
+            "player_80_chr_0029_pograni",
+            "player_80_chr_0005_chen_phy01"
+        ],
+        "requireCharTids": []
+    },
+    "seraph_chartrain_01": {
+        "id": "seraph_chartrain_01",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0011_seraph"
+        ],
+        "presetTeam": [
+            "player_80_chr_0011_seraph"
+        ],
+        "requireCharTids": []
+    },
     "seraph_chartrain_02": {
         "id": "seraph_chartrain_02",
         "maxMemberCount": 2,
@@ -2681,54 +2934,113 @@
         ],
         "requireCharTids": []
     },
-    "tt_60_yvonne": {
-        "id": "tt_60_yvonne",
+    "seraph_chartrain_03": {
+        "id": "seraph_chartrain_03",
         "maxMemberCount": 2,
         "presetCharList": [
-            "tt_60_chr_0017_yvonne",
-            "tt_60_chr_0013_aglina"
-        ],
-        "presetTeam": [],
-        "requireCharTids": [
-            "chr_0017_yvonne",
-            "chr_0013_aglina"
-        ]
-    },
-    "std_30": {
-        "id": "std_30",
-        "maxMemberCount": 4,
-        "presetCharList": [
-            "std_30_chr_0004_pelica",
-            "std_30_chr_9000_endmin",
-            "std_30_chr_0005_chen",
-            "std_30_chr_0006_wolfgd",
-            "std_30_chr_0007_ikut",
-            "std_30_chr_0009_azrila",
-            "std_30_chr_0011_seraph",
-            "std_30_chr_0012_avywen",
-            "std_30_chr_0013_aglina",
-            "std_30_chr_0014_aurora",
-            "std_30_chr_0015_lifeng",
-            "std_30_chr_0016_laevat",
-            "std_30_chr_0017_yvonne",
-            "std_30_chr_0018_dapan",
-            "std_30_chr_0019_karin",
-            "std_30_chr_0020_meurs",
-            "std_30_chr_0021_whiten",
-            "std_30_chr_0022_bounda",
-            "std_30_chr_0023_antal",
-            "std_30_chr_0024_deepfin",
-            "std_30_chr_0025_ardelia",
-            "std_30_chr_0026_lastrite",
-            "std_30_chr_0029_pograni",
-            "std_30_chr_0027_tangtang",
-            "std_30_chr_0028_wulfa"
+            "player_80_chr_0019_karin",
+            "player_80_chr_0011_seraph"
         ],
         "presetTeam": [
-            "std_30_chr_0004_pelica",
-            "std_30_chr_9000_endmin",
-            "std_30_chr_0005_chen",
-            "std_30_chr_0006_wolfgd"
+            "player_80_chr_0019_karin",
+            "player_80_chr_0011_seraph"
+        ],
+        "requireCharTids": []
+    },
+    "seraph_chartrain_04": {
+        "id": "seraph_chartrain_04",
+        "maxMemberCount": 3,
+        "presetCharList": [
+            "player_80_chr_0019_karin",
+            "player_80_chr_0011_seraph",
+            "player_80_chr_0022_bounda"
+        ],
+        "presetTeam": [
+            "player_80_chr_0019_karin",
+            "player_80_chr_0011_seraph",
+            "player_80_chr_0022_bounda"
+        ],
+        "requireCharTids": []
+    },
+    "std_90": {
+        "id": "std_90",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "std_90_chr_0004_pelica",
+            "std_90_chr_9000_endmin",
+            "std_90_chr_0005_chen",
+            "std_90_chr_0006_wolfgd",
+            "std_90_chr_0007_ikut",
+            "std_90_chr_0009_azrila",
+            "std_90_chr_0011_seraph",
+            "std_90_chr_0012_avywen",
+            "std_90_chr_0013_aglina",
+            "std_90_chr_0014_aurora",
+            "std_90_chr_0015_lifeng",
+            "std_90_chr_0016_laevat",
+            "std_90_chr_0017_yvonne",
+            "std_90_chr_0018_dapan",
+            "std_90_chr_0019_karin",
+            "std_90_chr_0020_meurs",
+            "std_90_chr_0021_whiten",
+            "std_90_chr_0022_bounda",
+            "std_90_chr_0023_antal",
+            "std_90_chr_0024_deepfin",
+            "std_90_chr_0025_ardelia",
+            "std_90_chr_0026_lastrite",
+            "std_90_chr_0029_pograni",
+            "std_90_chr_0027_tangtang",
+            "std_90_chr_0028_wulfa",
+            "std_90_chr_0030_zhuangfy",
+            "std_90_chr_0031_mifu",
+            "std_90_chr_0033_camille",
+            "std_90_chr_0032_lizhiyan_fuzhu",
+            "std_90_chr_0035_liino",
+            "std_90_chr_0034_typhoea"
+        ],
+        "presetTeam": [
+            "std_90_chr_0004_pelica",
+            "std_90_chr_9000_endmin",
+            "std_90_chr_0005_chen",
+            "std_90_chr_0006_wolfgd"
+        ],
+        "requireCharTids": []
+    },
+    "std_15": {
+        "id": "std_15",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "std_15_chr_0004_pelica",
+            "std_15_chr_9000_endmin",
+            "std_15_chr_0005_chen",
+            "std_15_chr_0006_wolfgd",
+            "std_15_chr_0007_ikut",
+            "std_15_chr_0009_azrila",
+            "std_15_chr_0011_seraph",
+            "std_15_chr_0012_avywen",
+            "std_15_chr_0013_aglina",
+            "std_15_chr_0014_aurora",
+            "std_15_chr_0015_lifeng",
+            "std_15_chr_0016_laevat",
+            "std_15_chr_0017_yvonne",
+            "std_15_chr_0018_dapan",
+            "std_15_chr_0019_karin",
+            "std_15_chr_0020_meurs",
+            "std_15_chr_0021_whiten",
+            "std_15_chr_0022_bounda",
+            "std_15_chr_0023_antal",
+            "std_15_chr_0024_deepfin",
+            "std_15_chr_0025_ardelia",
+            "std_15_chr_0026_lastrite",
+            "std_15_chr_0029_pograni",
+            "std_15_chr_0027_tangtang",
+            "std_15_chr_0028_wulfa"
+        ],
+        "presetTeam": [
+            "std_15_chr_0004_pelica",
+            "std_15_chr_9000_endmin",
+            "std_15_chr_0005_chen",
+            "std_15_chr_0006_wolfgd"
         ],
         "requireCharTids": []
     },
@@ -2770,62 +3082,101 @@
         ],
         "requireCharTids": []
     },
-    "std_60": {
-        "id": "std_60",
+    "std_20": {
+        "id": "std_20",
         "maxMemberCount": 4,
         "presetCharList": [
-            "std_60_chr_0004_pelica",
-            "std_60_chr_9000_endmin",
-            "std_60_chr_0005_chen",
-            "std_60_chr_0006_wolfgd",
-            "std_60_chr_0007_ikut",
-            "std_60_chr_0009_azrila",
-            "std_60_chr_0011_seraph",
-            "std_60_chr_0012_avywen",
-            "std_60_chr_0013_aglina",
-            "std_60_chr_0014_aurora",
-            "std_60_chr_0015_lifeng",
-            "std_60_chr_0016_laevat",
-            "std_60_chr_0017_yvonne",
-            "std_60_chr_0018_dapan",
-            "std_60_chr_0019_karin",
-            "std_60_chr_0020_meurs",
-            "std_60_chr_0021_whiten",
-            "std_60_chr_0022_bounda",
-            "std_60_chr_0023_antal",
-            "std_60_chr_0024_deepfin",
-            "std_60_chr_0025_ardelia",
-            "std_60_chr_0026_lastrite",
-            "std_60_chr_0029_pograni",
-            "std_60_chr_0027_tangtang",
-            "std_60_chr_0028_wulfa"
+            "std_20_chr_0004_pelica",
+            "std_20_chr_9000_endmin",
+            "std_20_chr_0005_chen",
+            "std_20_chr_0006_wolfgd",
+            "std_20_chr_0007_ikut",
+            "std_20_chr_0009_azrila",
+            "std_20_chr_0011_seraph",
+            "std_20_chr_0012_avywen",
+            "std_20_chr_0013_aglina",
+            "std_20_chr_0014_aurora",
+            "std_20_chr_0015_lifeng",
+            "std_20_chr_0016_laevat",
+            "std_20_chr_0017_yvonne",
+            "std_20_chr_0018_dapan",
+            "std_20_chr_0019_karin",
+            "std_20_chr_0020_meurs",
+            "std_20_chr_0021_whiten",
+            "std_20_chr_0022_bounda",
+            "std_20_chr_0023_antal",
+            "std_20_chr_0024_deepfin",
+            "std_20_chr_0025_ardelia",
+            "std_20_chr_0026_lastrite",
+            "std_20_chr_0029_pograni",
+            "std_20_chr_0027_tangtang",
+            "std_20_chr_0028_wulfa"
         ],
         "presetTeam": [
-            "std_60_chr_0004_pelica",
-            "std_60_chr_9000_endmin",
-            "std_60_chr_0005_chen",
-            "std_60_chr_0006_wolfgd"
+            "std_20_chr_0004_pelica",
+            "std_20_chr_9000_endmin",
+            "std_20_chr_0005_chen",
+            "std_20_chr_0006_wolfgd"
         ],
         "requireCharTids": []
     },
-    "std_70": {
-        "id": "std_70",
+    "std_30": {
+        "id": "std_30",
         "maxMemberCount": 4,
         "presetCharList": [
-            "std_70_chr_0016_laevat",
-            "std_70_chr_0006_wolfgd",
-            "std_70_chr_0019_karin",
-            "std_70_chr_0025_ardelia",
-            "std_70_chr_0018_dapan",
-            "std_70_chr_0005_chen",
-            "std_70_chr_0009_azrila",
-            "std_70_chr_0029_pograni"
+            "std_30_chr_0004_pelica",
+            "std_30_chr_9000_endmin",
+            "std_30_chr_0005_chen",
+            "std_30_chr_0006_wolfgd",
+            "std_30_chr_0007_ikut",
+            "std_30_chr_0009_azrila",
+            "std_30_chr_0011_seraph",
+            "std_30_chr_0012_avywen",
+            "std_30_chr_0013_aglina",
+            "std_30_chr_0014_aurora",
+            "std_30_chr_0015_lifeng",
+            "std_30_chr_0016_laevat",
+            "std_30_chr_0017_yvonne",
+            "std_30_chr_0018_dapan",
+            "std_30_chr_0019_karin",
+            "std_30_chr_0020_meurs",
+            "std_30_chr_0021_whiten",
+            "std_30_chr_0022_bounda",
+            "std_30_chr_0023_antal",
+            "std_30_chr_0024_deepfin",
+            "std_30_chr_0025_ardelia",
+            "std_30_chr_0026_lastrite",
+            "std_30_chr_0029_pograni",
+            "std_30_chr_0027_tangtang",
+            "std_30_chr_0028_wulfa"
         ],
         "presetTeam": [
-            "std_70_chr_0016_laevat",
-            "std_70_chr_0006_wolfgd",
-            "std_70_chr_0019_karin",
-            "std_70_chr_0025_ardelia"
+            "std_30_chr_0004_pelica",
+            "std_30_chr_9000_endmin",
+            "std_30_chr_0005_chen",
+            "std_30_chr_0006_wolfgd"
+        ],
+        "requireCharTids": []
+    },
+    "std_80_lizhiyan_fuzhu": {
+        "id": "std_80_lizhiyan_fuzhu",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "std_80_chr_0032_lizhiyan_fuzhu"
+        ],
+        "presetTeam": [
+            "std_80_chr_0032_lizhiyan_fuzhu"
+        ],
+        "requireCharTids": []
+    },
+    "std_80_lizhiyan_shuchu": {
+        "id": "std_80_lizhiyan_shuchu",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "std_80_chr_0032_lizhiyan"
+        ],
+        "presetTeam": [
+            "std_80_chr_0032_lizhiyan"
         ],
         "requireCharTids": []
     },
@@ -2861,7 +3212,9 @@
             "std_85_chr_0030_zhuangfy",
             "std_85_chr_0031_mifu",
             "std_85_chr_0033_camille",
-            "std_85_chr_0032_lizhiyan"
+            "std_85_chr_0032_lizhiyan_fuzhu",
+            "std_85_chr_0035_liino",
+            "std_85_chr_0034_typhoea"
         ],
         "presetTeam": [
             "std_85_chr_0004_pelica",
@@ -2871,122 +3224,25 @@
         ],
         "requireCharTids": []
     },
-    "tt_60_endmin": {
-        "id": "tt_60_endmin",
-        "maxMemberCount": 2,
+    "wulfa_chartrain_02": {
+        "id": "wulfa_chartrain_02",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "tt_60_chr_9000_endmin",
-            "tt_60_chr_0005_chen"
-        ],
-        "presetTeam": [],
-        "requireCharTids": [
-            "chr_9000_endmin",
-            "chr_0005_chen"
-        ]
-    },
-    "std_80": {
-        "id": "std_80",
-        "maxMemberCount": 4,
-        "presetCharList": [
-            "std_80_chr_0004_pelica",
-            "std_80_chr_9000_endmin",
-            "std_80_chr_0005_chen",
-            "std_80_chr_0006_wolfgd",
-            "std_80_chr_0007_ikut",
-            "std_80_chr_0009_azrila",
-            "std_80_chr_0011_seraph",
-            "std_80_chr_0012_avywen",
-            "std_80_chr_0013_aglina",
-            "std_80_chr_0014_aurora",
-            "std_80_chr_0015_lifeng",
-            "std_80_chr_0016_laevat",
-            "std_80_chr_0017_yvonne",
-            "std_80_chr_0018_dapan",
-            "std_80_chr_0019_karin",
-            "std_80_chr_0020_meurs",
-            "std_80_chr_0021_whiten",
-            "std_80_chr_0022_bounda",
-            "std_80_chr_0023_antal",
-            "std_80_chr_0024_deepfin",
-            "std_80_chr_0025_ardelia",
-            "std_80_chr_0026_lastrite",
-            "std_80_chr_0029_pograni",
-            "std_80_chr_0027_tangtang",
-            "std_80_chr_0028_wulfa",
-            "std_80_chr_0030_zhuangfy",
-            "std_80_chr_0031_mifu",
-            "std_80_chr_0033_camille",
-            "std_80_chr_0032_lizhiyan"
+            "chartrain_80_chr_0028_wulfa"
         ],
         "presetTeam": [
-            "std_80_chr_0004_pelica",
-            "std_80_chr_9000_endmin",
-            "std_80_chr_0005_chen",
-            "std_80_chr_0006_wolfgd"
+            "chartrain_80_chr_0028_wulfa"
         ],
         "requireCharTids": []
     },
-    "std_99_lizhiyan_fuzhu": {
-        "id": "std_99_lizhiyan_fuzhu",
+    "std_85_lizhiyan_shuchu": {
+        "id": "std_85_lizhiyan_shuchu",
         "maxMemberCount": 4,
         "presetCharList": [
-            "std_99_chr_0032_lizhiyan_fuzhu"
+            "std_85_chr_0032_lizhiyan"
         ],
         "presetTeam": [
-            "std_99_chr_0032_lizhiyan_fuzhu"
-        ],
-        "requireCharTids": []
-    },
-    "std_80_lizhiyan_shuchu": {
-        "id": "std_80_lizhiyan_shuchu",
-        "maxMemberCount": 4,
-        "presetCharList": [
-            "std_80_chr_0032_lizhiyan"
-        ],
-        "presetTeam": [
-            "std_80_chr_0032_lizhiyan"
-        ],
-        "requireCharTids": []
-    },
-    "std_90": {
-        "id": "std_90",
-        "maxMemberCount": 4,
-        "presetCharList": [
-            "std_90_chr_0004_pelica",
-            "std_90_chr_9000_endmin",
-            "std_90_chr_0005_chen",
-            "std_90_chr_0006_wolfgd",
-            "std_90_chr_0007_ikut",
-            "std_90_chr_0009_azrila",
-            "std_90_chr_0011_seraph",
-            "std_90_chr_0012_avywen",
-            "std_90_chr_0013_aglina",
-            "std_90_chr_0014_aurora",
-            "std_90_chr_0015_lifeng",
-            "std_90_chr_0016_laevat",
-            "std_90_chr_0017_yvonne",
-            "std_90_chr_0018_dapan",
-            "std_90_chr_0019_karin",
-            "std_90_chr_0020_meurs",
-            "std_90_chr_0021_whiten",
-            "std_90_chr_0022_bounda",
-            "std_90_chr_0023_antal",
-            "std_90_chr_0024_deepfin",
-            "std_90_chr_0025_ardelia",
-            "std_90_chr_0026_lastrite",
-            "std_90_chr_0029_pograni",
-            "std_90_chr_0027_tangtang",
-            "std_90_chr_0028_wulfa",
-            "std_90_chr_0030_zhuangfy",
-            "std_90_chr_0031_mifu",
-            "std_90_chr_0033_camille",
-            "std_90_chr_0032_lizhiyan"
-        ],
-        "presetTeam": [
-            "std_90_chr_0004_pelica",
-            "std_90_chr_9000_endmin",
-            "std_90_chr_0005_chen",
-            "std_90_chr_0006_wolfgd"
+            "std_85_chr_0032_lizhiyan"
         ],
         "requireCharTids": []
     },
@@ -2998,6 +3254,17 @@
         ],
         "presetTeam": [
             "std_90_chr_0032_lizhiyan_fuzhu"
+        ],
+        "requireCharTids": []
+    },
+    "std_90_lizhiyan_shuchu": {
+        "id": "std_90_lizhiyan_shuchu",
+        "maxMemberCount": 4,
+        "presetCharList": [
+            "std_90_chr_0032_lizhiyan"
+        ],
+        "presetTeam": [
+            "std_90_chr_0032_lizhiyan"
         ],
         "requireCharTids": []
     },
@@ -3033,24 +3300,15 @@
             "std_99_chr_0030_zhuangfy",
             "std_99_chr_0031_mifu",
             "std_99_chr_0033_camille",
-            "std_99_chr_0032_lizhiyan"
+            "std_99_chr_0032_lizhiyan_fuzhu",
+            "std_99_chr_0035_liino",
+            "std_99_chr_0034_typhoea"
         ],
         "presetTeam": [
             "std_99_chr_0004_pelica",
             "std_99_chr_9000_endmin",
             "std_99_chr_0005_chen",
             "std_99_chr_0006_wolfgd"
-        ],
-        "requireCharTids": []
-    },
-    "tangtang_chartrain_01": {
-        "id": "tangtang_chartrain_01",
-        "maxMemberCount": 1,
-        "presetCharList": [
-            "player_80_chr_0027_tangtang"
-        ],
-        "presetTeam": [
-            "player_80_chr_0027_tangtang"
         ],
         "requireCharTids": []
     },
@@ -3071,14 +3329,16 @@
         ],
         "requireCharTids": []
     },
-    "train10": {
-        "id": "train10",
-        "maxMemberCount": 1,
+    "train02": {
+        "id": "train02",
+        "maxMemberCount": 2,
         "presetCharList": [
-            "train_20_chr_9000_endmin"
+            "train_20_chr_9000_endmin",
+            "train_20_chr_0005_chen"
         ],
         "presetTeam": [
-            "train_20_chr_9000_endmin"
+            "train_20_chr_9000_endmin",
+            "train_20_chr_0005_chen"
         ],
         "requireCharTids": []
     },
@@ -3095,15 +3355,15 @@
         ],
         "requireCharTids": []
     },
-    "train05": {
-        "id": "train05",
+    "train04": {
+        "id": "train04",
         "maxMemberCount": 2,
         "presetCharList": [
-            "train_20_chr_0004_pelica",
+            "train_20_chr_0009_azrila",
             "train_20_chr_9000_endmin"
         ],
         "presetTeam": [
-            "train_20_chr_0004_pelica",
+            "train_20_chr_0009_azrila",
             "train_20_chr_9000_endmin"
         ],
         "requireCharTids": []
@@ -3149,21 +3409,6 @@
         ],
         "requireCharTids": []
     },
-    "train09": {
-        "id": "train09",
-        "maxMemberCount": 3,
-        "presetCharList": [
-            "train_20_chr_0022_bounda",
-            "train_20_chr_0004_pelica",
-            "train_20_chr_9000_endmin"
-        ],
-        "presetTeam": [
-            "train_20_chr_0022_bounda",
-            "train_20_chr_0004_pelica",
-            "train_20_chr_9000_endmin"
-        ],
-        "requireCharTids": []
-    },
     "train11": {
         "id": "train11",
         "maxMemberCount": 3,
@@ -3179,6 +3424,39 @@
         ],
         "requireCharTids": []
     },
+    "typhoea_chartrain_01": {
+        "id": "typhoea_chartrain_01",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0034_typhoea"
+        ],
+        "presetTeam": [
+            "player_80_chr_0034_typhoea"
+        ],
+        "requireCharTids": []
+    },
+    "typhoea_chartrain_02": {
+        "id": "typhoea_chartrain_02",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0034_typhoea"
+        ],
+        "presetTeam": [
+            "player_80_chr_0034_typhoea"
+        ],
+        "requireCharTids": []
+    },
+    "typhoea_chartrain_05": {
+        "id": "typhoea_chartrain_05",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0034_typhoea"
+        ],
+        "presetTeam": [
+            "player_80_chr_0034_typhoea"
+        ],
+        "requireCharTids": []
+    },
     "wolfgd_chartrain_01": {
         "id": "wolfgd_chartrain_01",
         "maxMemberCount": 1,
@@ -3190,8 +3468,8 @@
         ],
         "requireCharTids": []
     },
-    "wolfgd_chartrain_03": {
-        "id": "wolfgd_chartrain_03",
+    "wolfgd_chartrain_02": {
+        "id": "wolfgd_chartrain_02",
         "maxMemberCount": 2,
         "presetCharList": [
             "player_80_chr_0006_wolfgd",
@@ -3203,8 +3481,8 @@
         ],
         "requireCharTids": []
     },
-    "wulfa_chartrain_02": {
-        "id": "wulfa_chartrain_02",
+    "wulfa_chartrain_01": {
+        "id": "wulfa_chartrain_01",
         "maxMemberCount": 1,
         "presetCharList": [
             "chartrain_80_chr_0028_wulfa"
@@ -3244,33 +3522,49 @@
         ],
         "requireCharTids": []
     },
-    "yvonne_chartrial": {
-        "id": "yvonne_chartrial",
-        "maxMemberCount": 4,
+    "yvonne_chartrain_01": {
+        "id": "yvonne_chartrain_01",
+        "maxMemberCount": 1,
         "presetCharList": [
-            "player_80_chr_0017_yvonne",
-            "player_80_chr_0021_whiten",
-            "player_80_chr_0024_deepfin",
-            "player_80_chr_0004_pelica"
+            "player_80_chr_0017_yvonne"
         ],
         "presetTeam": [
-            "player_80_chr_0017_yvonne",
-            "player_80_chr_0021_whiten",
-            "player_80_chr_0024_deepfin",
-            "player_80_chr_0004_pelica"
+            "player_80_chr_0017_yvonne"
         ],
         "requireCharTids": []
     },
-    "zhuangfy_chartrain_03": {
-        "id": "zhuangfy_chartrain_03",
+    "yvonne_chartrain_04": {
+        "id": "yvonne_chartrain_04",
         "maxMemberCount": 2,
         "presetCharList": [
-            "player_80_chr_0030_zhuangfy",
-            "player_80_chr_0004_pelica"
+            "player_80_chr_0017_yvonne",
+            "player_80_chr_0021_whiten"
         ],
         "presetTeam": [
-            "player_80_chr_0030_zhuangfy",
-            "player_80_chr_0004_pelica"
+            "player_80_chr_0017_yvonne",
+            "player_80_chr_0021_whiten"
+        ],
+        "requireCharTids": []
+    },
+    "yvonne_chartrain_05": {
+        "id": "yvonne_chartrain_05",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0017_yvonne"
+        ],
+        "presetTeam": [
+            "player_80_chr_0017_yvonne"
+        ],
+        "requireCharTids": []
+    },
+    "zhuangfy_chartrain_02": {
+        "id": "zhuangfy_chartrain_02",
+        "maxMemberCount": 1,
+        "presetCharList": [
+            "player_80_chr_0030_zhuangfy"
+        ],
+        "presetTeam": [
+            "player_80_chr_0030_zhuangfy"
         ],
         "requireCharTids": []
     },

@@ -1,189 +1,28 @@
 {
-    "activitybenefits.black": {
-        "id": "activitybenefits.black",
+    "2ddlg.option": {
+        "id": "2ddlg.option",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=#000000>",
-            "<color=#000000>",
-            "<color=#000000>"
+            "<color=#fff589>",
+            "<color=#fff589>",
+            "<color=#fff589>"
         ]
     },
-    "ba.crystinflict": {
-        "id": "ba.crystinflict",
+    "ct.key": {
+        "id": "ct.key",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<image=\"TermIcon/icon_term_ba_crystinflict\" scale=1.25><color=#30d6e0>",
-            "<image=\"TermIcon/icon_term_ba_crystinflict\" scale=1.25><color=#f45511>",
-            "<image=\"TermIcon/icon_term_ba_crystinflict\" scale=1.25><color=#009cad>"
-        ]
-    },
-    "ba.fracture": {
-        "id": "ba.fracture",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<image=\"TermIcon/icon_term_ba_fracture\" scale=1.25><color=#e3c19a>",
-            "<image=\"TermIcon/icon_term_ba_fracture\" scale=1.25><color=#e8ceb0>",
-            "<image=\"TermIcon/icon_term_ba_fracture\" scale=1.25><color=#a68360>"
-        ]
-    },
-    "cul.red": {
-        "id": "cul.red",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#ff7100>",
-            "<color=#ff7100>",
-            "<color=#e56700>"
-        ]
-    },
-    "activitybenefits.blue": {
-        "id": "activitybenefits.blue",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#5988ff>",
-            "<color=#5988ff>",
-            "<color=#5988ff>"
-        ]
-    },
-    "nar.enter": {
-        "id": "nar.enter",
-        "postDef": [],
-        "preDef": [
-            "<br>",
-            "<br>",
-            "<br>"
-        ]
-    },
-    "activitybenefits.diamond": {
-        "id": "activitybenefits.diamond",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#ff8080>",
-            "<color=#ff8080>",
-            "<color=#ff8080>"
-        ]
-    },
-    "obt.key": {
-        "id": "obt.key",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#000000>",
-            "<color=#000000>",
-            "<color=#000000>"
-        ]
-    },
-    "activitybenefits.grey": {
-        "id": "activitybenefits.grey",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#808080>",
-            "<color=#808080>",
-            "<color=#808080>"
-        ]
-    },
-    "activitybenefits.originium": {
-        "id": "activitybenefits.originium",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#ff7100>",
-            "<color=#ff7100>",
-            "<color=#ff7100>"
-        ]
-    },
-    "activitypopup_color1": {
-        "id": "activitypopup_color1",
-        "postDef": [
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#ffffff>",
-            "<color=#ffffff>"
-        ]
-    },
-    "ba.crystbreak": {
-        "id": "ba.crystbreak",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<image=\"TermIcon/icon_term_ba_crystbreak\" scale=1.25><color=#30d6e0>",
-            "<image=\"TermIcon/icon_term_ba_crystbreak\" scale=1.25><color=#f45511>",
-            "<image=\"TermIcon/icon_term_ba_crystbreak\" scale=1.25><color=#009cad>"
-        ]
-    },
-    "ba.fire": {
-        "id": "ba.fire",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#ff8e59>",
-            "<color=#f45511>",
-            "<color=#f45511>"
-        ]
-    },
-    "cul.blue": {
-        "id": "cul.blue",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#33c2ff>",
-            "<color=#33c2ff>",
-            "<color=#1da6e0>"
-        ]
-    },
-    "activitypopup_color2": {
-        "id": "activitypopup_color2",
-        "postDef": [
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#333333>",
-            "<color=#333333>"
+            "<color=#dcdcdc>",
+            "<color=#dcdcdc>",
+            "<color=#dcdcdc>"
         ]
     },
     "tips.orange": {
@@ -199,30 +38,30 @@
             "<color=#bb6a26>"
         ]
     },
-    "ap.key": {
-        "id": "ap.key",
+    "activitybenefits.black": {
+        "id": "activitybenefits.black",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=#46C1F8>",
-            "<color=#46C1F8>",
-            "<color=yellow>"
+            "<color=#000000>",
+            "<color=#000000>",
+            "<color=#000000>"
         ]
     },
-    "ba.frozen": {
-        "id": "ba.frozen",
+    "activitybenefits.blue": {
+        "id": "activitybenefits.blue",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<image=\"TermIcon/icon_term_ba_frozen\" scale=1.25><color=#30d6e0>",
-            "<image=\"TermIcon/icon_term_ba_frozen\" scale=1.25><color=#08edfb>",
-            "<image=\"TermIcon/icon_term_ba_frozen\" scale=1.25><color=#009cad>"
+            "<color=#5988ff>",
+            "<color=#5988ff>",
+            "<color=#5988ff>"
         ]
     },
     "scene_grade.up": {
@@ -238,212 +77,17 @@
             "<color=#ABCD47>"
         ]
     },
-    "ba.airborne": {
-        "id": "ba.airborne",
+    "activitybenefits.diamond": {
+        "id": "activitybenefits.diamond",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<image=\"TermIcon/icon_term_ba_airborne\" scale=1.25><color=#e3c19a>",
-            "<image=\"TermIcon/icon_term_ba_airborne\" scale=1.25><color=#e8ceb0>",
-            "<image=\"TermIcon/icon_term_ba_airborne\" scale=1.25><color=#a68360>"
-        ]
-    },
-    "ba.pulse": {
-        "id": "ba.pulse",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#ffcc00>",
-            "<color=#ffcc00>",
-            "<color=#cc9900>"
-        ]
-    },
-    "opt.key": {
-        "id": "opt.key",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#5ECDFF>",
-            "<color=#5ECDFF>",
-            "<color=#5ECDFF>"
-        ]
-    },
-    "ba.burning": {
-        "id": "ba.burning",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<image=\"TermIcon/icon_term_ba_burning\" scale=1.25><color=#ff8e59>",
-            "<image=\"TermIcon/icon_term_ba_burning\" scale=1.25><color=#f45511>",
-            "<image=\"TermIcon/icon_term_ba_burning\" scale=1.25><color=#f45511>"
-        ]
-    },
-    "ba.conduct": {
-        "id": "ba.conduct",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<image=\"TermIcon/icon_term_ba_conduct\" scale=1.25><color=#ffcc00>",
-            "<image=\"TermIcon/icon_term_ba_conduct\" scale=1.25><color=#ffcc00>",
-            "<image=\"TermIcon/icon_term_ba_conduct\" scale=1.25><color=#cc9900>"
-        ]
-    },
-    "usableitem.num": {
-        "id": "usableitem.num",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#FFF200>",
-            "<color=#FFF200>",
-            "<color=#FFF200>"
-        ]
-    },
-    "weekraid.key": {
-        "id": "weekraid.key",
-        "postDef": [
-            "</u></color>",
-            "</u></color>",
-            "</u></color>"
-        ],
-        "preDef": [
-            "<color=#ffcc00><u>",
-            "<color=#ffcc00><u>",
-            "<color=#cc9900><u>"
-        ]
-    },
-    "ba.corrupt": {
-        "id": "ba.corrupt",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<image=\"TermIcon/icon_term_ba_corrupt\" scale=1.25><color=#b4d945>",
-            "<image=\"TermIcon/icon_term_ba_corrupt\" scale=1.25><color=#ade131>",
-            "<image=\"TermIcon/icon_term_ba_corrupt\" scale=1.25><color=#6d9a00>"
-        ]
-    },
-    "nar.key": {
-        "id": "nar.key",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#a67c00>",
-            "<color=#ffcc00>",
-            "<color=#a67c00>"
-        ]
-    },
-    "ba.crush": {
-        "id": "ba.crush",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<image=\"TermIcon/icon_term_ba_crush\" scale=1.25><color=#e3c19a>",
-            "<image=\"TermIcon/icon_term_ba_crush\" scale=1.25><color=#e8ceb0>",
-            "<image=\"TermIcon/icon_term_ba_crush\" scale=1.25><color=#a68360>"
-        ]
-    },
-    "cul.green": {
-        "id": "cul.green",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#b4d945>",
-            "<color=#b4d945>",
-            "<color=#6d9a00>"
-        ]
-    },
-    "ba.cryst": {
-        "id": "ba.cryst",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#30d6e0>",
-            "<color=#08edfb>",
-            "<color=#009cad>"
-        ]
-    },
-    "ba.knockdown": {
-        "id": "ba.knockdown",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<image=\"TermIcon/icon_term_ba_knockdown\" scale=1.25><color=#e3c19a>",
-            "<image=\"TermIcon/icon_term_ba_knockdown\" scale=1.25><color=#e8ceb0>",
-            "<image=\"TermIcon/icon_term_ba_knockdown\" scale=1.25><color=#a68360>"
-        ]
-    },
-    "ba.ether": {
-        "id": "ba.ether",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#c59eff>",
-            "<color=#832cf9>",
-            "<color=#9959ff>"
-        ]
-    },
-    "ba.fireinflict": {
-        "id": "ba.fireinflict",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<image=\"TermIcon/icon_term_ba_fireinflict\" scale=1.25><color=#ff8e59>",
-            "<image=\"TermIcon/icon_term_ba_fireinflict\" scale=1.25><color=#ff8e59>",
-            "<image=\"TermIcon/icon_term_ba_fireinflict\" scale=1.25><color=#f45511>"
-        ]
-    },
-    "fac.blue": {
-        "id": "fac.blue",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#2f8baf>",
-            "<color=#2f8baf>",
-            "<color=#2f8baf>"
+            "<color=#ff8080>",
+            "<color=#ff8080>",
+            "<color=#ff8080>"
         ]
     },
     "ba.heal": {
@@ -472,186 +116,113 @@
             "<color=#8c8c8c>"
         ]
     },
-    "gembox.num": {
-        "id": "gembox.num",
+    "ld.key": {
+        "id": "ld.key",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=#fff100>",
-            "<color=#fff100>",
-            "<color=#fff100>"
+            "<color=#ffffff>",
+            "<color=#ffffff>",
+            "<color=#ffffff>"
         ]
     },
-    "sshop.key": {
-        "id": "sshop.key",
+    "nar.enter": {
+        "id": "nar.enter",
+        "postDef": [],
+        "preDef": [
+            "<br>",
+            "<br>",
+            "<br>"
+        ]
+    },
+    "qu.largenumdown": {
+        "id": "qu.largenumdown",
+        "postDef": [
+            "</color></size>",
+            "</color></size>",
+            "</color></size>"
+        ],
+        "preDef": [
+            "<size=54><color=#e74414>",
+            "<size=54><color=#e74414>",
+            "<size=54><color=#e74414>"
+        ]
+    },
+    "activitybenefits.grey": {
+        "id": "activitybenefits.grey",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=#FF0000>",
-            "<color=#FF0000>",
-            "<color=#FF0000>"
+            "<color=#808080>",
+            "<color=#808080>",
+            "<color=#808080>"
         ]
     },
-    "ba.key": {
-        "id": "ba.key",
+    "activitybenefits.originium": {
+        "id": "activitybenefits.originium",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=#33c2ff>",
-            "<color=#00a8ff>",
-            "<color=#1da6e0>"
+            "<color=#ff7100>",
+            "<color=#ff7100>",
+            "<color=#ff7100>"
         ]
     },
-    "ba.naturalinflict": {
-        "id": "ba.naturalinflict",
+    "ba.fireinflict": {
+        "id": "ba.fireinflict",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<image=\"TermIcon/icon_term_ba_naturalinflict\" scale=1.25><color=#b4d945>",
-            "<image=\"TermIcon/icon_term_ba_naturalinflict\" scale=1.25><color=#ade131>",
-            "<image=\"TermIcon/icon_term_ba_naturalinflict\" scale=1.25><color=#6d9a00>"
+            "<image=\"TermIcon/icon_term_ba_fireinflict\" scale=1.25><color=#ff8e59>",
+            "<image=\"TermIcon/icon_term_ba_fireinflict\" scale=1.25><color=#ff8e59>",
+            "<image=\"TermIcon/icon_term_ba_fireinflict\" scale=1.25><color=#f45511>"
         ]
     },
-    "ba.natur": {
-        "id": "ba.natur",
+    "activitypopup_color1": {
+        "id": "activitypopup_color1",
+        "postDef": [
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#ffffff>",
+            "<color=#ffffff>"
+        ]
+    },
+    "nar.key": {
+        "id": "nar.key",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=#b4d945>",
-            "<color=#ade131>",
-            "<color=#6d9a00>"
+            "<color=#a67c00>",
+            "<color=#ffcc00>",
+            "<color=#a67c00>"
         ]
     },
-    "ba.noguard": {
-        "id": "ba.noguard",
+    "activitypopup_color2": {
+        "id": "activitypopup_color2",
         "postDef": [
-            "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<image=\"TermIcon/icon_term_ba_noguard\" scale=1.25><color=#e3c19a>",
-            "<image=\"TermIcon/icon_term_ba_noguard\" scale=1.25><color=#e8ceb0>",
-            "<image=\"TermIcon/icon_term_ba_noguard\" scale=1.25><color=#a68360>"
-        ]
-    },
-    "ba.pd": {
-        "id": "ba.pd",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#e3c19a>",
-            "<color=#7d582d>",
-            "<color=#a68360>"
-        ]
-    },
-    "ba.phy": {
-        "id": "ba.phy",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#e3c19a>",
-            "<color=#7d582d>",
-            "<color=#a68360>"
-        ]
-    },
-    "ba.poise": {
-        "id": "ba.poise",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#ffae6b>",
-            "<color=#ffd399>",
-            "<color=#bb6a26>"
-        ]
-    },
-    "nar.left": {
-        "id": "nar.left",
-        "postDef": [
-            "</align>",
-            "</align>",
-            "</align>"
-        ],
-        "preDef": [
-            "<align=\"left\">",
-            "<align=\"left\">",
-            "<align=\"left\">"
-        ]
-    },
-    "nar.quote": {
-        "id": "nar.quote",
-        "postDef": [
-            "</i>",
-            "</i>",
-            "</i>"
-        ],
-        "preDef": [
-            "<i>",
-            "<i>",
-            "<i>"
-        ]
-    },
-    "ba.pulseinflict": {
-        "id": "ba.pulseinflict",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<image=\"TermIcon/icon_term_ba_pulseinflict\" scale=1.25><color=#ffcc00>",
-            "<image=\"TermIcon/icon_term_ba_pulseinflict\" scale=1.25><color=#ffcc00>",
-            "<image=\"TermIcon/icon_term_ba_pulseinflict\" scale=1.25><color=#cc9900>"
-        ]
-    },
-    "bl.key": {
-        "id": "bl.key",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#ffbb03>",
-            "<color=#ffbb03>",
-            "<color=#ffbb03>"
-        ]
-    },
-    "ct.key": {
-        "id": "ct.key",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#dcdcdc>",
-            "<color=#dcdcdc>",
-            "<color=#dcdcdc>"
+            "<color=#333333>",
+            "<color=#333333>"
         ]
     },
     "ba.vdown": {
@@ -667,17 +238,485 @@
             "<color=#e54545>"
         ]
     },
-    "scene_grade.down": {
-        "id": "scene_grade.down",
+    "ap.key": {
+        "id": "ap.key",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=#D12E42>",
-            "<color=#D12E42>",
-            "<color=#D12E42>"
+            "<color=#46C1F8>",
+            "<color=#46C1F8>",
+            "<color=yellow>"
+        ]
+    },
+    "toast_focal.key": {
+        "id": "toast_focal.key",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#FFFFFF>",
+            "<color=#FFFFFF>",
+            "<color=#FFFFFF>"
+        ]
+    },
+    "ba.airborne": {
+        "id": "ba.airborne",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_airborne\" scale=1.25><color=#e3c19a>",
+            "<image=\"TermIcon/icon_term_ba_airborne\" scale=1.25><color=#e8ceb0>",
+            "<image=\"TermIcon/icon_term_ba_airborne\" scale=1.25><color=#a68360>"
+        ]
+    },
+    "dung.green": {
+        "id": "dung.green",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#00c695>",
+            "<color=#00c695>",
+            "<color=#00c695>"
+        ]
+    },
+    "ba.burning": {
+        "id": "ba.burning",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_burning\" scale=1.25><color=#ff8e59>",
+            "<image=\"TermIcon/icon_term_ba_burning\" scale=1.25><color=#f45511>",
+            "<image=\"TermIcon/icon_term_ba_burning\" scale=1.25><color=#f45511>"
+        ]
+    },
+    "dlg.r_title": {
+        "id": "dlg.r_title",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=white>",
+            "<color=white>",
+            "<color=white>"
+        ]
+    },
+    "nar.center": {
+        "id": "nar.center",
+        "postDef": [
+            "</align>",
+            "</align>",
+            "</align>"
+        ],
+        "preDef": [
+            "<align=\"center\">",
+            "<align=\"center\">",
+            "<align=\"center\">"
+        ]
+    },
+    "opt.key": {
+        "id": "opt.key",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#5ECDFF>",
+            "<color=#5ECDFF>",
+            "<color=#5ECDFF>"
+        ]
+    },
+    "ba.conduct": {
+        "id": "ba.conduct",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_conduct\" scale=1.25><color=#ffcc00>",
+            "<image=\"TermIcon/icon_term_ba_conduct\" scale=1.25><color=#ffcc00>",
+            "<image=\"TermIcon/icon_term_ba_conduct\" scale=1.25><color=#cc9900>"
+        ]
+    },
+    "qu.key": {
+        "id": "qu.key",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#ffcc00>",
+            "<color=#ffcc00>",
+            "<color=#cc9900>"
+        ]
+    },
+    "ba.corrupt": {
+        "id": "ba.corrupt",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_corrupt\" scale=1.25><color=#b4d945>",
+            "<image=\"TermIcon/icon_term_ba_corrupt\" scale=1.25><color=#ade131>",
+            "<image=\"TermIcon/icon_term_ba_corrupt\" scale=1.25><color=#6d9a00>"
+        ]
+    },
+    "obt.key": {
+        "id": "obt.key",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#000000>",
+            "<color=#000000>",
+            "<color=#000000>"
+        ]
+    },
+    "ba.crush": {
+        "id": "ba.crush",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_crush\" scale=1.25><color=#e3c19a>",
+            "<image=\"TermIcon/icon_term_ba_crush\" scale=1.25><color=#e8ceb0>",
+            "<image=\"TermIcon/icon_term_ba_crush\" scale=1.25><color=#a68360>"
+        ]
+    },
+    "qu.numdown": {
+        "id": "qu.numdown",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#e74414>",
+            "<color=#e74414>",
+            "<color=#e74414>"
+        ]
+    },
+    "ba.cryst": {
+        "id": "ba.cryst",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#30d6e0>",
+            "<color=#08edfb>",
+            "<color=#009cad>"
+        ]
+    },
+    "ba.crystbreak": {
+        "id": "ba.crystbreak",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_crystbreak\" scale=1.25><color=#30d6e0>",
+            "<image=\"TermIcon/icon_term_ba_crystbreak\" scale=1.25><color=#f45511>",
+            "<image=\"TermIcon/icon_term_ba_crystbreak\" scale=1.25><color=#009cad>"
+        ]
+    },
+    "ba.ether": {
+        "id": "ba.ether",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#c59eff>",
+            "<color=#832cf9>",
+            "<color=#9959ff>"
+        ]
+    },
+    "ba.fracture": {
+        "id": "ba.fracture",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_fracture\" scale=1.25><color=#e3c19a>",
+            "<image=\"TermIcon/icon_term_ba_fracture\" scale=1.25><color=#e8ceb0>",
+            "<image=\"TermIcon/icon_term_ba_fracture\" scale=1.25><color=#a68360>"
+        ]
+    },
+    "ba.crystinflict": {
+        "id": "ba.crystinflict",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_crystinflict\" scale=1.25><color=#30d6e0>",
+            "<image=\"TermIcon/icon_term_ba_crystinflict\" scale=1.25><color=#f45511>",
+            "<image=\"TermIcon/icon_term_ba_crystinflict\" scale=1.25><color=#009cad>"
+        ]
+    },
+    "ba.fire": {
+        "id": "ba.fire",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#ff8e59>",
+            "<color=#f45511>",
+            "<color=#f45511>"
+        ]
+    },
+    "ba.frozen": {
+        "id": "ba.frozen",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_frozen\" scale=1.25><color=#30d6e0>",
+            "<image=\"TermIcon/icon_term_ba_frozen\" scale=1.25><color=#08edfb>",
+            "<image=\"TermIcon/icon_term_ba_frozen\" scale=1.25><color=#009cad>"
+        ]
+    },
+    "qu.numup": {
+        "id": "qu.numup",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#c7fe02>",
+            "<color=#c7fe02>",
+            "<color=#c7fe02>"
+        ]
+    },
+    "ba.key": {
+        "id": "ba.key",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#33c2ff>",
+            "<color=#00a8ff>",
+            "<color=#1da6e0>"
+        ]
+    },
+    "ba.knockdown": {
+        "id": "ba.knockdown",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_knockdown\" scale=1.25><color=#e3c19a>",
+            "<image=\"TermIcon/icon_term_ba_knockdown\" scale=1.25><color=#e8ceb0>",
+            "<image=\"TermIcon/icon_term_ba_knockdown\" scale=1.25><color=#a68360>"
+        ]
+    },
+    "ba.noguard": {
+        "id": "ba.noguard",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_noguard\" scale=1.25><color=#e3c19a>",
+            "<image=\"TermIcon/icon_term_ba_noguard\" scale=1.25><color=#e8ceb0>",
+            "<image=\"TermIcon/icon_term_ba_noguard\" scale=1.25><color=#a68360>"
+        ]
+    },
+    "dung.red": {
+        "id": "dung.red",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=red>",
+            "<color=red>",
+            "<color=red>"
+        ]
+    },
+    "ba.natur": {
+        "id": "ba.natur",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#b4d945>",
+            "<color=#ade131>",
+            "<color=#6d9a00>"
+        ]
+    },
+    "nar.quote": {
+        "id": "nar.quote",
+        "postDef": [
+            "</i>",
+            "</i>",
+            "</i>"
+        ],
+        "preDef": [
+            "<i>",
+            "<i>",
+            "<i>"
+        ]
+    },
+    "ba.naturalburst": {
+        "id": "ba.naturalburst",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_naturalburst\" scale=1.25><color=#b4d945>",
+            "<image=\"TermIcon/icon_term_ba_naturalburst\" scale=1.25><color=#ade131>",
+            "<image=\"TermIcon/icon_term_ba_naturalburst\" scale=1.25><color=#6d9a00>"
+        ]
+    },
+    "ba.naturalinflict": {
+        "id": "ba.naturalinflict",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_naturalinflict\" scale=1.25><color=#b4d945>",
+            "<image=\"TermIcon/icon_term_ba_naturalinflict\" scale=1.25><color=#ade131>",
+            "<image=\"TermIcon/icon_term_ba_naturalinflict\" scale=1.25><color=#6d9a00>"
+        ]
+    },
+    "ba.pd": {
+        "id": "ba.pd",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#e3c19a>",
+            "<color=#7d582d>",
+            "<color=#a68360>"
+        ]
+    },
+    "nar.right": {
+        "id": "nar.right",
+        "postDef": [
+            "</align>",
+            "</align>",
+            "</align>"
+        ],
+        "preDef": [
+            "<align=\"right\">",
+            "<align=\"right\">",
+            "<align=\"right\">"
+        ]
+    },
+    "ba.phy": {
+        "id": "ba.phy",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#e3c19a>",
+            "<color=#7d582d>",
+            "<color=#a68360>"
+        ]
+    },
+    "nar.clue": {
+        "id": "nar.clue",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=##333333>",
+            "<color=#f2f2f2>",
+            "<color=#333333>"
+        ]
+    },
+    "ba.poise": {
+        "id": "ba.poise",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#ffae6b>",
+            "<color=#ffd399>",
+            "<color=#bb6a26>"
+        ]
+    },
+    "ba.pulse": {
+        "id": "ba.pulse",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#ffcc00>",
+            "<color=#ffcc00>",
+            "<color=#cc9900>"
+        ]
+    },
+    "ba.pulseinflict": {
+        "id": "ba.pulseinflict",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<image=\"TermIcon/icon_term_ba_pulseinflict\" scale=1.25><color=#ffcc00>",
+            "<image=\"TermIcon/icon_term_ba_pulseinflict\" scale=1.25><color=#ffcc00>",
+            "<image=\"TermIcon/icon_term_ba_pulseinflict\" scale=1.25><color=#cc9900>"
         ]
     },
     "ba.vup": {
@@ -693,30 +732,17 @@
             "<color=#5988ff>"
         ]
     },
-    "set.key": {
-        "id": "set.key",
+    "bl.key": {
+        "id": "bl.key",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=#A7A7A7>",
-            "<color=#A7A7A7>",
-            "<color=#A7A7A7>"
-        ]
-    },
-    "sns.key": {
-        "id": "sns.key",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#169ED9>",
-            "<color=#169ED9>",
-            "<color=#169ED9>"
+            "<color=#ffbb03>",
+            "<color=#ffbb03>",
+            "<color=#ffbb03>"
         ]
     },
     "cc.vdown": {
@@ -730,6 +756,32 @@
             "<color=#F74612>",
             "<color=#F74612>",
             "<color=#F74612>"
+        ]
+    },
+    "cul.blue": {
+        "id": "cul.blue",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#33c2ff>",
+            "<color=#33c2ff>",
+            "<color=#1da6e0>"
+        ]
+    },
+    "toast.key": {
+        "id": "toast.key",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#ffcc00>",
+            "<color=#ffcc00>",
+            "<color=#cc9900>"
         ]
     },
     "cc.vup": {
@@ -758,6 +810,19 @@
             "<color=#cc9900>"
         ]
     },
+    "cul.green": {
+        "id": "cul.green",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#b4d945>",
+            "<color=#b4d945>",
+            "<color=#6d9a00>"
+        ]
+    },
     "cul.grey": {
         "id": "cul.grey",
         "postDef": [
@@ -769,19 +834,6 @@
             "<color=#b2b2b2>",
             "<color=#b2b2b2>",
             "<color=#8c8c8c>"
-        ]
-    },
-    "tech.get": {
-        "id": "tech.get",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#1e1e1e>",
-            "<color=#1e1e1e>",
-            "<color=#1e1e1e>"
         ]
     },
     "cul.purple": {
@@ -797,6 +849,19 @@
             "<color=#9959f>"
         ]
     },
+    "cul.red": {
+        "id": "cul.red",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#ff7100>",
+            "<color=#ff7100>",
+            "<color=#e56700>"
+        ]
+    },
     "dlg.r_name": {
         "id": "dlg.r_name",
         "postDef": [
@@ -810,17 +875,30 @@
             "<color=#87CEFA>"
         ]
     },
-    "dlg.r_title": {
-        "id": "dlg.r_title",
+    "nar.blue": {
+        "id": "nar.blue",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=white>",
-            "<color=white>",
-            "<color=white>"
+            "<color=#33c2ff>",
+            "<color=#00ffff>",
+            "<color=#1da6e0>"
+        ]
+    },
+    "toast_craft.key": {
+        "id": "toast_craft.key",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#ffcc00>",
+            "<color=#ffcc00>",
+            "<color=#cc9900>"
         ]
     },
     "dung.feature": {
@@ -849,17 +927,56 @@
             "<color=#ffcc00>"
         ]
     },
-    "dung.red": {
-        "id": "dung.red",
+    "sred.key": {
+        "id": "sred.key",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=red>",
-            "<color=red>",
-            "<color=red>"
+            "<color=#D25F69>",
+            "<color=#D25F69>",
+            "<color=#D25F69>"
+        ]
+    },
+    "fac.blue": {
+        "id": "fac.blue",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#2f8baf>",
+            "<color=#2f8baf>",
+            "<color=#2f8baf>"
+        ]
+    },
+    "nar.left": {
+        "id": "nar.left",
+        "postDef": [
+            "</align>",
+            "</align>",
+            "</align>"
+        ],
+        "preDef": [
+            "<align=\"left\">",
+            "<align=\"left\">",
+            "<align=\"left\">"
+        ]
+    },
+    "nar.mark": {
+        "id": "nar.mark",
+        "postDef": [
+            "</color></mark>",
+            "</color></mark>",
+            "</color></mark>"
+        ],
+        "preDef": [
+            "<mark=#444444><color=#44444400>",
+            "<mark=#E6E6E6><color=#E6E6E600>",
+            "<mark=#444444><color=#44444400>"
         ]
     },
     "gd.key": {
@@ -873,6 +990,19 @@
             "<color=#ffcc00>",
             "<color=#ffcc00>",
             "<color=#cc9900>"
+        ]
+    },
+    "gembox.num": {
+        "id": "gembox.num",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#fff100>",
+            "<color=#fff100>",
+            "<color=#fff100>"
         ]
     },
     "gray.note": {
@@ -901,17 +1031,17 @@
             "<b>"
         ]
     },
-    "ld.key": {
-        "id": "ld.key",
+    "nar.note": {
+        "id": "nar.note",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=#ffffff>",
-            "<color=#ffffff>",
-            "<color=#ffffff>"
+            "<color=#ffcc00>",
+            "<color=#ffcc00>",
+            "<color=#cc9900>"
         ]
     },
     "profile.key": {
@@ -927,110 +1057,6 @@
             "<align=\"justified\">"
         ]
     },
-    "nar.center": {
-        "id": "nar.center",
-        "postDef": [
-            "</align>",
-            "</align>",
-            "</align>"
-        ],
-        "preDef": [
-            "<align=\"center\">",
-            "<align=\"center\">",
-            "<align=\"center\">"
-        ]
-    },
-    "toast.key": {
-        "id": "toast.key",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#ffcc00>",
-            "<color=#ffcc00>",
-            "<color=#cc9900>"
-        ]
-    },
-    "nar.clue": {
-        "id": "nar.clue",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=##333333>",
-            "<color=#f2f2f2>",
-            "<color=#333333>"
-        ]
-    },
-    "tech.key": {
-        "id": "tech.key",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#ffcc00>",
-            "<color=#ffcc00>",
-            "<color=#ffcc00>"
-        ]
-    },
-    "nar.mark": {
-        "id": "nar.mark",
-        "postDef": [
-            "</color></mark>",
-            "</color></mark>",
-            "</color></mark>"
-        ],
-        "preDef": [
-            "<mark=#444444><color=#44444400>",
-            "<mark=#E6E6E6><color=#E6E6E600>",
-            "<mark=#444444><color=#44444400>"
-        ]
-    },
-    "nar.note": {
-        "id": "nar.note",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#ffcc00>",
-            "<color=#ffcc00>",
-            "<color=#cc9900>"
-        ]
-    },
-    "nar.right": {
-        "id": "nar.right",
-        "postDef": [
-            "</align>",
-            "</align>",
-            "</align>"
-        ],
-        "preDef": [
-            "<align=\"right\">",
-            "<align=\"right\">",
-            "<align=\"right\">"
-        ]
-    },
-    "qu.key": {
-        "id": "qu.key",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#ffcc00>",
-            "<color=#ffcc00>",
-            "<color=#cc9900>"
-        ]
-    },
     "rac.tec": {
         "id": "rac.tec",
         "postDef": [
@@ -1044,17 +1070,56 @@
             "<color=#FFCC00>"
         ]
     },
-    "sred.key": {
-        "id": "sred.key",
+    "scene_grade.down": {
+        "id": "scene_grade.down",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=#D25F69>",
-            "<color=#D25F69>",
-            "<color=#D25F69>"
+            "<color=#D12E42>",
+            "<color=#D12E42>",
+            "<color=#D12E42>"
+        ]
+    },
+    "set.key": {
+        "id": "set.key",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#A7A7A7>",
+            "<color=#A7A7A7>",
+            "<color=#A7A7A7>"
+        ]
+    },
+    "worldlvl.adj": {
+        "id": "worldlvl.adj",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#24B8FA>",
+            "<color=#24B8FA>",
+            "<color=#24B8FA>"
+        ]
+    },
+    "sns.key": {
+        "id": "sns.key",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#169ED9>",
+            "<color=#169ED9>",
+            "<color=#169ED9>"
         ]
     },
     "ss.key": {
@@ -1068,6 +1133,45 @@
             "<color=#22BBFF>",
             "<color=#22BBFF>",
             "<color=#22BBFF>"
+        ]
+    },
+    "sshop.key": {
+        "id": "sshop.key",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#FF0000>",
+            "<color=#FF0000>",
+            "<color=#FF0000>"
+        ]
+    },
+    "tech.get": {
+        "id": "tech.get",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#1e1e1e>",
+            "<color=#1e1e1e>",
+            "<color=#1e1e1e>"
+        ]
+    },
+    "tech.key": {
+        "id": "tech.key",
+        "postDef": [
+            "</color>",
+            "</color>",
+            "</color>"
+        ],
+        "preDef": [
+            "<color=#ffcc00>",
+            "<color=#ffcc00>",
+            "<color=#ffcc00>"
         ]
     },
     "tips.key": {
@@ -1096,30 +1200,17 @@
             "<color=#9959ff>"
         ]
     },
-    "toast_craft.key": {
-        "id": "toast_craft.key",
+    "usableitem.num": {
+        "id": "usableitem.num",
         "postDef": [
             "</color>",
             "</color>",
             "</color>"
         ],
         "preDef": [
-            "<color=#ffcc00>",
-            "<color=#ffcc00>",
-            "<color=#cc9900>"
-        ]
-    },
-    "toast_focal.key": {
-        "id": "toast_focal.key",
-        "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
-        ],
-        "preDef": [
-            "<color=#FFFFFF>",
-            "<color=#FFFFFF>",
-            "<color=#FFFFFF>"
+            "<color=#FFF200>",
+            "<color=#FFF200>",
+            "<color=#FFF200>"
         ]
     },
     "weapon.stress": {
@@ -1135,17 +1226,17 @@
             "<color=#fe5a00>"
         ]
     },
-    "worldlvl.adj": {
-        "id": "worldlvl.adj",
+    "weekraid.key": {
+        "id": "weekraid.key",
         "postDef": [
-            "</color>",
-            "</color>",
-            "</color>"
+            "</u></color>",
+            "</u></color>",
+            "</u></color>"
         ],
         "preDef": [
-            "<color=#24B8FA>",
-            "<color=#24B8FA>",
-            "<color=#24B8FA>"
+            "<color=#ffcc00><u>",
+            "<color=#ffcc00><u>",
+            "<color=#cc9900><u>"
         ]
     }
 }

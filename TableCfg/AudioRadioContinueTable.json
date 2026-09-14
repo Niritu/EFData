@@ -15,13 +15,27 @@
         ],
         "speaker": "antal"
     },
-    "dapan": {
+    "deepfin": {
         "otherContinue": [],
         "selfContinue": [
-            "radio_continue_self_dapan_01",
-            "radio_continue_self_dapan_02"
+            "radio_continue_self_deepfin_01",
+            "radio_continue_self_deepfin_02"
         ],
-        "speaker": "dapan"
+        "speaker": "deepfin"
+    },
+    "endminf": {
+        "otherContinue": [
+            "radio_continue_other_endminf_01",
+            "radio_continue_other_endminf_02",
+            "radio_continue_other_endminf_03",
+            "radio_continue_other_endminf_04",
+            "radio_continue_other_endminf_05"
+        ],
+        "selfContinue": [
+            "radio_continue_self_endminf_01",
+            "radio_continue_self_endminf_02"
+        ],
+        "speaker": "endminf"
     },
     "ardelia": {
         "otherContinue": [],
@@ -39,19 +53,13 @@
         ],
         "speaker": "aurora"
     },
-    "endminf": {
-        "otherContinue": [
-            "radio_continue_other_endminf_01",
-            "radio_continue_other_endminf_02",
-            "radio_continue_other_endminf_03",
-            "radio_continue_other_endminf_04",
-            "radio_continue_other_endminf_05"
-        ],
+    "wulfa": {
+        "otherContinue": [],
         "selfContinue": [
-            "radio_continue_self_endminf_01",
-            "radio_continue_self_endminf_02"
+            "radio_continue_self_wulfa_01",
+            "radio_continue_self_wulfa_02"
         ],
-        "speaker": "endminf"
+        "speaker": "wulfa"
     },
     "avywen": {
         "otherContinue": [],
@@ -61,22 +69,6 @@
         ],
         "speaker": "avywen"
     },
-    "lizhiyan": {
-        "otherContinue": [],
-        "selfContinue": [
-            "radio_continue_self_lizhiyan_01",
-            "radio_continue_self_lizhiyan_02"
-        ],
-        "speaker": "lizhiyan"
-    },
-    "meurs": {
-        "otherContinue": [],
-        "selfContinue": [
-            "radio_continue_self_meurs_01",
-            "radio_continue_self_meurs_02"
-        ],
-        "speaker": "meurs"
-    },
     "azrila": {
         "otherContinue": [],
         "selfContinue": [
@@ -84,22 +76,6 @@
             "radio_continue_self_azrila_02"
         ],
         "speaker": "azrila"
-    },
-    "seraph": {
-        "otherContinue": [],
-        "selfContinue": [
-            "radio_continue_self_seraph_01",
-            "radio_continue_self_seraph_02"
-        ],
-        "speaker": "seraph"
-    },
-    "wulfa": {
-        "otherContinue": [],
-        "selfContinue": [
-            "radio_continue_self_wulfa_01",
-            "radio_continue_self_wulfa_02"
-        ],
-        "speaker": "wulfa"
     },
     "bounda": {
         "otherContinue": [],
@@ -109,14 +85,6 @@
         ],
         "speaker": "bounda"
     },
-    "karin": {
-        "otherContinue": [],
-        "selfContinue": [
-            "radio_continue_self_karin_01",
-            "radio_continue_self_karin_02"
-        ],
-        "speaker": "karin"
-    },
     "camille": {
         "otherContinue": [],
         "selfContinue": [
@@ -124,6 +92,14 @@
             "radio_continue_self_camille_02"
         ],
         "speaker": "camille"
+    },
+    "ikut": {
+        "otherContinue": [],
+        "selfContinue": [
+            "radio_continue_self_ikut_01",
+            "radio_continue_self_ikut_02"
+        ],
+        "speaker": "ikut"
     },
     "chen": {
         "otherContinue": [
@@ -139,21 +115,21 @@
         ],
         "speaker": "chen"
     },
-    "deepfin": {
+    "zhuangfy": {
         "otherContinue": [],
         "selfContinue": [
-            "radio_continue_self_deepfin_01",
-            "radio_continue_self_deepfin_02"
+            "radio_continue_self_zhuangfy_01",
+            "radio_continue_self_zhuangfy_02"
         ],
-        "speaker": "deepfin"
+        "speaker": "zhuangfy"
     },
-    "whiten": {
+    "dapan": {
         "otherContinue": [],
         "selfContinue": [
-            "radio_continue_self_whiten_01",
-            "radio_continue_self_whiten_02"
+            "radio_continue_self_dapan_01",
+            "radio_continue_self_dapan_02"
         ],
-        "speaker": "whiten"
+        "speaker": "dapan"
     },
     "endminm": {
         "otherContinue": [
@@ -169,14 +145,6 @@
         ],
         "speaker": "endminm"
     },
-    "ikut": {
-        "otherContinue": [],
-        "selfContinue": [
-            "radio_continue_self_ikut_01",
-            "radio_continue_self_ikut_02"
-        ],
-        "speaker": "ikut"
-    },
     "jsspsi": {
         "otherContinue": [],
         "selfContinue": [
@@ -184,6 +152,14 @@
             "radio_continue_self_jsspsi_02"
         ],
         "speaker": "jsspsi"
+    },
+    "karin": {
+        "otherContinue": [],
+        "selfContinue": [
+            "radio_continue_self_karin_01",
+            "radio_continue_self_karin_02"
+        ],
+        "speaker": "karin"
     },
     "laevat": {
         "otherContinue": [],
@@ -193,38 +169,6 @@
         ],
         "speaker": "laevat"
     },
-    "lastrite": {
-        "otherContinue": [],
-        "selfContinue": [
-            "radio_continue_self_lastrite_01",
-            "radio_continue_self_lastrite_02"
-        ],
-        "speaker": "lastrite"
-    },
-    "pograni": {
-        "otherContinue": [],
-        "selfContinue": [
-            "radio_continue_self_pograni_01",
-            "radio_continue_self_pograni_02"
-        ],
-        "speaker": "pograni"
-    },
-    "yvonne": {
-        "otherContinue": [],
-        "selfContinue": [
-            "radio_continue_self_yvonne_01",
-            "radio_continue_self_yvonne_02"
-        ],
-        "speaker": "yvonne"
-    },
-    "zhuangfy": {
-        "otherContinue": [],
-        "selfContinue": [
-            "radio_continue_self_zhuangfy_01",
-            "radio_continue_self_zhuangfy_02"
-        ],
-        "speaker": "zhuangfy"
-    },
     "lifeng": {
         "otherContinue": [],
         "selfContinue": [
@@ -233,13 +177,45 @@
         ],
         "speaker": "lifeng"
     },
-    "mifu": {
+    "lastrite": {
         "otherContinue": [],
         "selfContinue": [
-            "radio_continue_self_mifu_01",
-            "radio_continue_self_mifu_02"
+            "radio_continue_self_lastrite_01",
+            "radio_continue_self_lastrite_02"
         ],
-        "speaker": "mifu"
+        "speaker": "lastrite"
+    },
+    "liino": {
+        "otherContinue": [],
+        "selfContinue": [
+            "radio_continue_self_liino_01",
+            "radio_continue_self_liino_02"
+        ],
+        "speaker": "liino"
+    },
+    "lizhiyan": {
+        "otherContinue": [],
+        "selfContinue": [
+            "radio_continue_self_lizhiyan_01",
+            "radio_continue_self_lizhiyan_02"
+        ],
+        "speaker": "lizhiyan"
+    },
+    "wolfgd": {
+        "otherContinue": [],
+        "selfContinue": [
+            "radio_continue_self_wolfgd_01",
+            "radio_continue_self_wolfgd_02"
+        ],
+        "speaker": "wolfgd"
+    },
+    "meurs": {
+        "otherContinue": [],
+        "selfContinue": [
+            "radio_continue_self_meurs_01",
+            "radio_continue_self_meurs_02"
+        ],
+        "speaker": "meurs"
     },
     "pelica": {
         "otherContinue": [
@@ -255,6 +231,38 @@
         ],
         "speaker": "pelica"
     },
+    "mifu": {
+        "otherContinue": [],
+        "selfContinue": [
+            "radio_continue_self_mifu_01",
+            "radio_continue_self_mifu_02"
+        ],
+        "speaker": "mifu"
+    },
+    "pograni": {
+        "otherContinue": [],
+        "selfContinue": [
+            "radio_continue_self_pograni_01",
+            "radio_continue_self_pograni_02"
+        ],
+        "speaker": "pograni"
+    },
+    "typhoea": {
+        "otherContinue": [],
+        "selfContinue": [
+            "radio_continue_self_typhoea_01",
+            "radio_continue_self_typhoea_02"
+        ],
+        "speaker": "typhoea"
+    },
+    "seraph": {
+        "otherContinue": [],
+        "selfContinue": [
+            "radio_continue_self_seraph_01",
+            "radio_continue_self_seraph_02"
+        ],
+        "speaker": "seraph"
+    },
     "tangtang": {
         "otherContinue": [],
         "selfContinue": [
@@ -263,12 +271,20 @@
         ],
         "speaker": "tangtang"
     },
-    "wolfgd": {
+    "whiten": {
         "otherContinue": [],
         "selfContinue": [
-            "radio_continue_self_wolfgd_01",
-            "radio_continue_self_wolfgd_02"
+            "radio_continue_self_whiten_01",
+            "radio_continue_self_whiten_02"
         ],
-        "speaker": "wolfgd"
+        "speaker": "whiten"
+    },
+    "yvonne": {
+        "otherContinue": [],
+        "selfContinue": [
+            "radio_continue_self_yvonne_01",
+            "radio_continue_self_yvonne_02"
+        ],
+        "speaker": "yvonne"
     }
 }

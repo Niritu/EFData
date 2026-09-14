@@ -21,6 +21,28 @@
         },
         "videoPath": "ui_snapshot_anim_ardelia_s_1"
     },
+    "item_shot_anim_gift": {
+        "desc": {
+            "id": -5891198305829671836,
+            "text": ""
+        },
+        "icon": "icon_shot_anim_com_14",
+        "id": "item_shot_anim_gift",
+        "isDefaultUnlock": true,
+        "itemId": "",
+        "jumpId": "",
+        "name": {
+            "id": 7761758026680857471,
+            "text": ""
+        },
+        "rewardTaskId": "",
+        "sortId": 2004,
+        "sourceText": {
+            "id": -110326729190246067,
+            "text": ""
+        },
+        "videoPath": ""
+    },
     "item_shot_anim_chen_s_1": {
         "desc": {
             "id": -8820400068297017255,
@@ -43,6 +65,50 @@
         },
         "videoPath": "ui_snapshot_anim_chen_s_1"
     },
+    "item_shot_anim_lino_m_1": {
+        "desc": {
+            "id": 5784842701276267600,
+            "text": ""
+        },
+        "icon": "icon_shot_anim_lino_m_1",
+        "id": "item_shot_anim_lino_m_1",
+        "isDefaultUnlock": false,
+        "itemId": "item_shot_anim_lino_m_1",
+        "jumpId": "item_obtain_shop_star",
+        "name": {
+            "id": 5326618310474427550,
+            "text": ""
+        },
+        "rewardTaskId": "",
+        "sortId": 1002,
+        "sourceText": {
+            "id": -7944066290991503897,
+            "text": ""
+        },
+        "videoPath": "ui_snapshot_anim_lino_m_1"
+    },
+    "item_shot_anim_lizhiyan_m_1": {
+        "desc": {
+            "id": 4682512704537221230,
+            "text": ""
+        },
+        "icon": "icon_shot_anim_lizhiyan_m_1",
+        "id": "item_shot_anim_lizhiyan_m_1",
+        "isDefaultUnlock": false,
+        "itemId": "item_shot_anim_lizhiyan_m_1",
+        "jumpId": "item_obtain_shop_star",
+        "name": {
+            "id": 6625977692750543400,
+            "text": ""
+        },
+        "rewardTaskId": "",
+        "sortId": 1001,
+        "sourceText": {
+            "id": -4118711830158580495,
+            "text": ""
+        },
+        "videoPath": "ui_snapshot_anim_lizhiyan_m_1"
+    },
     "item_shot_anim_com_1": {
         "desc": {
             "id": -2391621433880989904,
@@ -64,6 +130,50 @@
             "text": ""
         },
         "videoPath": ""
+    },
+    "item_shot_anim_spi_2": {
+        "desc": {
+            "id": 2889649237585691527,
+            "text": ""
+        },
+        "icon": "icon_shot_anim_com_12",
+        "id": "item_shot_anim_spi_2",
+        "isDefaultUnlock": true,
+        "itemId": "",
+        "jumpId": "",
+        "name": {
+            "id": 3632032001259081336,
+            "text": ""
+        },
+        "rewardTaskId": "",
+        "sortId": 2002,
+        "sourceText": {
+            "id": -6379103835775919833,
+            "text": ""
+        },
+        "videoPath": ""
+    },
+    "item_shot_anim_yvonne_m_1": {
+        "desc": {
+            "id": 8908534356156972046,
+            "text": ""
+        },
+        "icon": "icon_shot_anim_yvonne_m_1",
+        "id": "item_shot_anim_yvonne_m_1",
+        "isDefaultUnlock": false,
+        "itemId": "item_shot_anim_yvonne_m_1",
+        "jumpId": "item_obtain_shop_star",
+        "name": {
+            "id": 4742753383659415208,
+            "text": ""
+        },
+        "rewardTaskId": "",
+        "sortId": 1010,
+        "sourceText": {
+            "id": 1915046028930385107,
+            "text": ""
+        },
+        "videoPath": "ui_snapshot_anim_yvonne_m_1"
     },
     "item_shot_anim_com_4": {
         "desc": {
@@ -175,50 +285,6 @@
         },
         "videoPath": "ui_snapshot_anim_laevat_s_1"
     },
-    "item_shot_anim_gift": {
-        "desc": {
-            "id": -5891198305829671836,
-            "text": ""
-        },
-        "icon": "icon_shot_anim_com_14",
-        "id": "item_shot_anim_gift",
-        "isDefaultUnlock": true,
-        "itemId": "",
-        "jumpId": "",
-        "name": {
-            "id": 7761758026680857471,
-            "text": ""
-        },
-        "rewardTaskId": "",
-        "sortId": 2004,
-        "sourceText": {
-            "id": -110326729190246067,
-            "text": ""
-        },
-        "videoPath": ""
-    },
-    "item_shot_anim_lizhiyan_m_1": {
-        "desc": {
-            "id": 4682512704537221230,
-            "text": ""
-        },
-        "icon": "icon_shot_anim_lizhiyan_m_1",
-        "id": "item_shot_anim_lizhiyan_m_1",
-        "isDefaultUnlock": false,
-        "itemId": "item_shot_anim_lizhiyan_m_1",
-        "jumpId": "item_obtain_shop_star",
-        "name": {
-            "id": 6625977692750543400,
-            "text": ""
-        },
-        "rewardTaskId": "",
-        "sortId": 1001,
-        "sourceText": {
-            "id": -4118711830158580495,
-            "text": ""
-        },
-        "videoPath": "ui_snapshot_anim_lizhiyan_m_1"
-    },
     "item_shot_anim_pelica_s_1": {
         "desc": {
             "id": -1877922434843335928,
@@ -240,28 +306,6 @@
             "text": ""
         },
         "videoPath": "ui_snapshot_anim_pelica_s_1"
-    },
-    "item_shot_anim_spi_2": {
-        "desc": {
-            "id": 2889649237585691527,
-            "text": ""
-        },
-        "icon": "icon_shot_anim_com_12",
-        "id": "item_shot_anim_spi_2",
-        "isDefaultUnlock": true,
-        "itemId": "",
-        "jumpId": "",
-        "name": {
-            "id": 3632032001259081336,
-            "text": ""
-        },
-        "rewardTaskId": "",
-        "sortId": 2002,
-        "sourceText": {
-            "id": -6379103835775919833,
-            "text": ""
-        },
-        "videoPath": ""
     },
     "item_shot_anim_pograni_s_1": {
         "desc": {
@@ -328,5 +372,27 @@
             "text": ""
         },
         "videoPath": ""
+    },
+    "item_shot_anim_typhoea_m_1": {
+        "desc": {
+            "id": -4432741486129391042,
+            "text": ""
+        },
+        "icon": "icon_shot_anim_typhoea_m_1",
+        "id": "item_shot_anim_typhoea_m_1",
+        "isDefaultUnlock": false,
+        "itemId": "item_shot_anim_typhoea_m_1",
+        "jumpId": "item_obtain_shop_star",
+        "name": {
+            "id": -6585476762016869164,
+            "text": ""
+        },
+        "rewardTaskId": "",
+        "sortId": 1008,
+        "sourceText": {
+            "id": 5940365863907214338,
+            "text": ""
+        },
+        "videoPath": "ui_snapshot_anim_typhoea_m_1"
     }
 }

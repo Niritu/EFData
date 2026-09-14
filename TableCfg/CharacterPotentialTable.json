@@ -90,6 +90,188 @@
             }
         ]
     },
+    "chr_0009_azrila": {
+        "firstItemId": "item_charpotentialup_chr_0009_azrila",
+        "potentialUnlockBundle": [
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0009_azrila"
+                ],
+                "level": 1,
+                "name": {
+                    "id": -1426287469284077902,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0009_azrila_potential_1",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_1_chr_0009_azrila"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0009_azrila"
+                ],
+                "level": 2,
+                "name": {
+                    "id": -762236442224330513,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0009_azrila_potential_2",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0009_azrila"
+                ],
+                "level": 3,
+                "name": {
+                    "id": 3330868543300186225,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0009_azrila_potential_3",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_3_chr_0009_azrila"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0009_azrila"
+                ],
+                "level": 4,
+                "name": {
+                    "id": -3991860379849945059,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0009_azrila_potential_4",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0009_azrila"
+                ],
+                "level": 5,
+                "name": {
+                    "id": 7903860619851605703,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0009_azrila_potential_5",
+                "unlockCardTopicItem": "business_card_topic_chr_0009_azrila",
+                "unlockCharPictureItemList": [
+                    "item_pic_5_chr_0009_azrila"
+                ]
+            }
+        ]
+    },
+    "chr_0013_aglina": {
+        "firstItemId": "item_charpotentialup_chr_0013_aglina",
+        "potentialUnlockBundle": [
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0013_aglina"
+                ],
+                "level": 1,
+                "name": {
+                    "id": 5192254944681005787,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0013_aglina_potential_1",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_1_chr_0013_aglina"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0013_aglina"
+                ],
+                "level": 2,
+                "name": {
+                    "id": 1628437562358496960,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0013_aglina_potential_2",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0013_aglina"
+                ],
+                "level": 3,
+                "name": {
+                    "id": -4865128079116615578,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0013_aglina_potential_3",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_3_chr_0013_aglina"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0013_aglina"
+                ],
+                "level": 4,
+                "name": {
+                    "id": 5019691528612581004,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0013_aglina_potential_4",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0013_aglina"
+                ],
+                "level": 5,
+                "name": {
+                    "id": 2729014488178077202,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0013_aglina_potential_5",
+                "unlockCardTopicItem": "business_card_topic_chr_0013_aglina",
+                "unlockCharPictureItemList": [
+                    "item_pic_5_chr_0013_aglina"
+                ]
+            }
+        ]
+    },
     "chr_0003_endminf": {
         "firstItemId": "item_charpotentialup_chr_9000_endmin",
         "potentialUnlockBundle": [
@@ -177,97 +359,6 @@
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": [
                     "item_pic_5_chr_0003_endminf"
-                ]
-            }
-        ]
-    },
-    "chr_0027_tangtang": {
-        "firstItemId": "item_charpotentialup_chr_0027_tangtang",
-        "potentialUnlockBundle": [
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0027_tangtang"
-                ],
-                "level": 1,
-                "name": {
-                    "id": 7720855645414647628,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0027_tangtang_potential_1",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_1_chr_0027_tangtang"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0027_tangtang"
-                ],
-                "level": 2,
-                "name": {
-                    "id": -3882103450313835460,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0027_tangtang_potential_2",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0027_tangtang"
-                ],
-                "level": 3,
-                "name": {
-                    "id": 685141525145178695,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0027_tangtang_potential_3",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_3_chr_0027_tangtang"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0027_tangtang"
-                ],
-                "level": 4,
-                "name": {
-                    "id": -4392278606509714203,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0027_tangtang_potential_4",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0027_tangtang"
-                ],
-                "level": 5,
-                "name": {
-                    "id": -4979447209159408058,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0027_tangtang_potential_5",
-                "unlockCardTopicItem": "business_card_topic_chr_0027_tangtang",
-                "unlockCharPictureItemList": [
-                    "item_pic_5_chr_0027_tangtang"
                 ]
             }
         ]
@@ -637,25 +728,25 @@
             }
         ]
     },
-    "chr_0009_azrila": {
-        "firstItemId": "item_charpotentialup_chr_0009_azrila",
+    "chr_0034_typhoea": {
+        "firstItemId": "item_charpotentialup_chr_0034_typhoea",
         "potentialUnlockBundle": [
             {
                 "itemCnts": [
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0009_azrila"
+                    "item_charpotentialup_chr_0034_typhoea"
                 ],
                 "level": 1,
                 "name": {
-                    "id": -1426287469284077902,
+                    "id": -4621734325227738034,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0009_azrila_potential_1",
+                "potentialEffectId": "chr_0034_typhoea_potential_1",
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": [
-                    "item_pic_1_chr_0009_azrila"
+                    "item_pic_1_chr_0034_typhoea"
                 ]
             },
             {
@@ -663,14 +754,14 @@
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0009_azrila"
+                    "item_charpotentialup_chr_0034_typhoea"
                 ],
                 "level": 2,
                 "name": {
-                    "id": -762236442224330513,
+                    "id": 4908199541874206750,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0009_azrila_potential_2",
+                "potentialEffectId": "chr_0034_typhoea_potential_2",
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": []
             },
@@ -679,17 +770,17 @@
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0009_azrila"
+                    "item_charpotentialup_chr_0034_typhoea"
                 ],
                 "level": 3,
                 "name": {
-                    "id": 3330868543300186225,
+                    "id": -3099690542019965136,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0009_azrila_potential_3",
+                "potentialEffectId": "chr_0034_typhoea_potential_3",
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": [
-                    "item_pic_3_chr_0009_azrila"
+                    "item_pic_3_chr_0034_typhoea"
                 ]
             },
             {
@@ -697,14 +788,14 @@
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0009_azrila"
+                    "item_charpotentialup_chr_0034_typhoea"
                 ],
                 "level": 4,
                 "name": {
-                    "id": -3991860379849945059,
+                    "id": -7180160760078947576,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0009_azrila_potential_4",
+                "potentialEffectId": "chr_0034_typhoea_potential_4",
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": []
             },
@@ -713,17 +804,108 @@
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0009_azrila"
+                    "item_charpotentialup_chr_0034_typhoea"
                 ],
                 "level": 5,
                 "name": {
-                    "id": 7903860619851605703,
+                    "id": 6480076990312319394,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0009_azrila_potential_5",
-                "unlockCardTopicItem": "business_card_topic_chr_0009_azrila",
+                "potentialEffectId": "chr_0034_typhoea_potential_5",
+                "unlockCardTopicItem": "business_card_topic_chr_0034_typhoea",
                 "unlockCharPictureItemList": [
-                    "item_pic_5_chr_0009_azrila"
+                    "item_pic_5_chr_0034_typhoea"
+                ]
+            }
+        ]
+    },
+    "chr_0035_liino": {
+        "firstItemId": "item_charpotentialup_chr_0035_liino",
+        "potentialUnlockBundle": [
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0035_liino"
+                ],
+                "level": 1,
+                "name": {
+                    "id": -8621635042760388779,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0035_liino_potential_1",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_1_chr_0035_liino"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0035_liino"
+                ],
+                "level": 2,
+                "name": {
+                    "id": 1703300732984915249,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0035_liino_potential_2",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0035_liino"
+                ],
+                "level": 3,
+                "name": {
+                    "id": -8606665122496057695,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0035_liino_potential_3",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_3_chr_0035_liino"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0035_liino"
+                ],
+                "level": 4,
+                "name": {
+                    "id": -7891050159716503718,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0035_liino_potential_4",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0035_liino"
+                ],
+                "level": 5,
+                "name": {
+                    "id": 6412424813489391802,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0035_liino_potential_5",
+                "unlockCardTopicItem": "business_card_topic_chr_0035_liino",
+                "unlockCharPictureItemList": [
+                    "item_pic_5_chr_0035_liino"
                 ]
             }
         ]
@@ -819,6 +1001,97 @@
             }
         ]
     },
+    "chr_0029_pograni": {
+        "firstItemId": "item_charpotentialup_chr_0029_pograni",
+        "potentialUnlockBundle": [
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0029_pograni"
+                ],
+                "level": 1,
+                "name": {
+                    "id": -1542163347525820720,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0029_pograni_potential_1",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_1_chr_0029_pograni"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0029_pograni"
+                ],
+                "level": 2,
+                "name": {
+                    "id": 8997344861731958354,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0029_pograni_potential_2",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0029_pograni"
+                ],
+                "level": 3,
+                "name": {
+                    "id": -9093858949068156949,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0029_pograni_potential_3",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_3_chr_0029_pograni"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0029_pograni"
+                ],
+                "level": 4,
+                "name": {
+                    "id": -4426269200618828734,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0029_pograni_potential_4",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0029_pograni"
+                ],
+                "level": 5,
+                "name": {
+                    "id": -874026485498649297,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0029_pograni_potential_5",
+                "unlockCardTopicItem": "business_card_topic_chr_0029_pograni",
+                "unlockCharPictureItemList": [
+                    "item_pic_5_chr_0029_pograni"
+                ]
+            }
+        ]
+    },
     "chr_0012_avywen": {
         "firstItemId": "item_charpotentialup_chr_0012_avywen",
         "potentialUnlockBundle": [
@@ -906,97 +1179,6 @@
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": [
                     "item_pic_5_chr_0012_avywen"
-                ]
-            }
-        ]
-    },
-    "chr_0013_aglina": {
-        "firstItemId": "item_charpotentialup_chr_0013_aglina",
-        "potentialUnlockBundle": [
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0013_aglina"
-                ],
-                "level": 1,
-                "name": {
-                    "id": 5192254944681005787,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0013_aglina_potential_1",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_1_chr_0013_aglina"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0013_aglina"
-                ],
-                "level": 2,
-                "name": {
-                    "id": 1628437562358496960,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0013_aglina_potential_2",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0013_aglina"
-                ],
-                "level": 3,
-                "name": {
-                    "id": -4865128079116615578,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0013_aglina_potential_3",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_3_chr_0013_aglina"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0013_aglina"
-                ],
-                "level": 4,
-                "name": {
-                    "id": 5019691528612581004,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0013_aglina_potential_4",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0013_aglina"
-                ],
-                "level": 5,
-                "name": {
-                    "id": 2729014488178077202,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0013_aglina_potential_5",
-                "unlockCardTopicItem": "business_card_topic_chr_0013_aglina",
-                "unlockCharPictureItemList": [
-                    "item_pic_5_chr_0013_aglina"
                 ]
             }
         ]
@@ -1365,25 +1547,25 @@
             }
         ]
     },
-    "chr_0021_whiten": {
-        "firstItemId": "item_charpotentialup_chr_0021_whiten",
+    "chr_0033_camille": {
+        "firstItemId": "item_charpotentialup_chr_0033_camille",
         "potentialUnlockBundle": [
             {
                 "itemCnts": [
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0021_whiten"
+                    "item_charpotentialup_chr_0033_camille"
                 ],
                 "level": 1,
                 "name": {
-                    "id": -1071637010407093801,
+                    "id": -5046862250549914570,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0021_whiten_potential_1",
+                "potentialEffectId": "chr_0033_camille_potential_1",
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": [
-                    "item_pic_1_chr_0021_whiten"
+                    "item_pic_1_chr_0033_camille"
                 ]
             },
             {
@@ -1391,14 +1573,14 @@
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0021_whiten"
+                    "item_charpotentialup_chr_0033_camille"
                 ],
                 "level": 2,
                 "name": {
-                    "id": 1041625121714955436,
+                    "id": -8460013764265577904,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0021_whiten_potential_2",
+                "potentialEffectId": "chr_0033_camille_potential_2",
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": []
             },
@@ -1407,17 +1589,17 @@
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0021_whiten"
+                    "item_charpotentialup_chr_0033_camille"
                 ],
                 "level": 3,
                 "name": {
-                    "id": -4538928478072592933,
+                    "id": 343200206877150111,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0021_whiten_potential_3",
+                "potentialEffectId": "chr_0033_camille_potential_3",
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": [
-                    "item_pic_3_chr_0021_whiten"
+                    "item_pic_3_chr_0033_camille"
                 ]
             },
             {
@@ -1425,14 +1607,14 @@
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0021_whiten"
+                    "item_charpotentialup_chr_0033_camille"
                 ],
                 "level": 4,
                 "name": {
-                    "id": -4381931064592393426,
+                    "id": -7479983286887788643,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0021_whiten_potential_4",
+                "potentialEffectId": "chr_0033_camille_potential_4",
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": []
             },
@@ -1441,199 +1623,17 @@
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0021_whiten"
+                    "item_charpotentialup_chr_0033_camille"
                 ],
                 "level": 5,
                 "name": {
-                    "id": -8980186861857021749,
+                    "id": 7015735202213208581,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0021_whiten_potential_5",
-                "unlockCardTopicItem": "",
+                "potentialEffectId": "chr_0033_camille_potential_5",
+                "unlockCardTopicItem": "business_card_topic_chr_0033_camille",
                 "unlockCharPictureItemList": [
-                    "item_pic_5_chr_0021_whiten"
-                ]
-            }
-        ]
-    },
-    "chr_0024_deepfin": {
-        "firstItemId": "item_charpotentialup_chr_0024_deepfin",
-        "potentialUnlockBundle": [
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0024_deepfin"
-                ],
-                "level": 1,
-                "name": {
-                    "id": 3369888384228960289,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0024_deepfin_potential_1",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_1_chr_0024_deepfin"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0024_deepfin"
-                ],
-                "level": 2,
-                "name": {
-                    "id": -5651161704462809060,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0024_deepfin_potential_2",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0024_deepfin"
-                ],
-                "level": 3,
-                "name": {
-                    "id": -283387503891582665,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0024_deepfin_potential_3",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_3_chr_0024_deepfin"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0024_deepfin"
-                ],
-                "level": 4,
-                "name": {
-                    "id": 206701076827704305,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0024_deepfin_potential_4",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0024_deepfin"
-                ],
-                "level": 5,
-                "name": {
-                    "id": -8120485324057872627,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0024_deepfin_potential_5",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_5_chr_0024_deepfin"
-                ]
-            }
-        ]
-    },
-    "chr_0032_lizhiyan": {
-        "firstItemId": "item_charpotentialup_chr_0032_lizhiyan",
-        "potentialUnlockBundle": [
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0032_lizhiyan"
-                ],
-                "level": 1,
-                "name": {
-                    "id": 3278385301726490286,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0032_lizhiyan_potential_1",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_1_chr_0032_lizhiyan"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0032_lizhiyan"
-                ],
-                "level": 2,
-                "name": {
-                    "id": -8061396899977740220,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0032_lizhiyan_potential_2",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0032_lizhiyan"
-                ],
-                "level": 3,
-                "name": {
-                    "id": 7609449539633243431,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0032_lizhiyan_potential_3",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_3_chr_0032_lizhiyan"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0032_lizhiyan"
-                ],
-                "level": 4,
-                "name": {
-                    "id": -8367545555360111209,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0032_lizhiyan_potential_4",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0032_lizhiyan"
-                ],
-                "level": 5,
-                "name": {
-                    "id": -7747030478969150449,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0032_lizhiyan_potential_5",
-                "unlockCardTopicItem": "business_card_topic_chr_0032_lizhiyan",
-                "unlockCharPictureItemList": [
-                    "item_pic_5_chr_0032_lizhiyan"
+                    "item_pic_5_chr_0033_camille"
                 ]
             }
         ]
@@ -1729,6 +1729,97 @@
             }
         ]
     },
+    "chr_0025_ardelia": {
+        "firstItemId": "item_charpotentialup_chr_0025_ardelia",
+        "potentialUnlockBundle": [
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0025_ardelia"
+                ],
+                "level": 1,
+                "name": {
+                    "id": 5205731053413100988,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0025_ardelia_potential_1",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_1_chr_0025_ardelia"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0025_ardelia"
+                ],
+                "level": 2,
+                "name": {
+                    "id": -990073503501213234,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0025_ardelia_potential_2",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0025_ardelia"
+                ],
+                "level": 3,
+                "name": {
+                    "id": 1183644782463132399,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0025_ardelia_potential_3",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_3_chr_0025_ardelia"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0025_ardelia"
+                ],
+                "level": 4,
+                "name": {
+                    "id": 3168709882733163632,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0025_ardelia_potential_4",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0025_ardelia"
+                ],
+                "level": 5,
+                "name": {
+                    "id": 5829139096188505475,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0025_ardelia_potential_5",
+                "unlockCardTopicItem": "business_card_topic_chr_0025_ardelia",
+                "unlockCharPictureItemList": [
+                    "item_pic_5_chr_0025_ardelia"
+                ]
+            }
+        ]
+    },
     "chr_0018_dapan": {
         "firstItemId": "item_charpotentialup_chr_0018_dapan",
         "potentialUnlockBundle": [
@@ -1816,97 +1907,6 @@
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": [
                     "item_pic_5_chr_0018_dapan"
-                ]
-            }
-        ]
-    },
-    "chr_0028_wulfa": {
-        "firstItemId": "item_charpotentialup_chr_0028_wulfa",
-        "potentialUnlockBundle": [
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0028_wulfa"
-                ],
-                "level": 1,
-                "name": {
-                    "id": -5832625470009719576,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0028_wulfa_potential_1",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_1_chr_0028_wulfa"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0028_wulfa"
-                ],
-                "level": 2,
-                "name": {
-                    "id": 8933246931565906032,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0028_wulfa_potential_2",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0028_wulfa"
-                ],
-                "level": 3,
-                "name": {
-                    "id": -1182241244304788346,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0028_wulfa_potential_3",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_3_chr_0028_wulfa"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0028_wulfa"
-                ],
-                "level": 4,
-                "name": {
-                    "id": 7586823435567111094,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0028_wulfa_potential_4",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0028_wulfa"
-                ],
-                "level": 5,
-                "name": {
-                    "id": 1003795583871453230,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0028_wulfa_potential_5",
-                "unlockCardTopicItem": "business_card_topic_chr_0028_wulfa",
-                "unlockCharPictureItemList": [
-                    "item_pic_5_chr_0028_wulfa"
                 ]
             }
         ]
@@ -2093,6 +2093,97 @@
             }
         ]
     },
+    "chr_0021_whiten": {
+        "firstItemId": "item_charpotentialup_chr_0021_whiten",
+        "potentialUnlockBundle": [
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0021_whiten"
+                ],
+                "level": 1,
+                "name": {
+                    "id": -1071637010407093801,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0021_whiten_potential_1",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_1_chr_0021_whiten"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0021_whiten"
+                ],
+                "level": 2,
+                "name": {
+                    "id": 1041625121714955436,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0021_whiten_potential_2",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0021_whiten"
+                ],
+                "level": 3,
+                "name": {
+                    "id": -4538928478072592933,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0021_whiten_potential_3",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_3_chr_0021_whiten"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0021_whiten"
+                ],
+                "level": 4,
+                "name": {
+                    "id": -4381931064592393426,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0021_whiten_potential_4",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0021_whiten"
+                ],
+                "level": 5,
+                "name": {
+                    "id": -8980186861857021749,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0021_whiten_potential_5",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_5_chr_0021_whiten"
+                ]
+            }
+        ]
+    },
     "chr_0022_bounda": {
         "firstItemId": "item_charpotentialup_chr_0022_bounda",
         "potentialUnlockBundle": [
@@ -2180,6 +2271,461 @@
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": [
                     "item_pic_5_chr_0022_bounda"
+                ]
+            }
+        ]
+    },
+    "chr_0024_deepfin": {
+        "firstItemId": "item_charpotentialup_chr_0024_deepfin",
+        "potentialUnlockBundle": [
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0024_deepfin"
+                ],
+                "level": 1,
+                "name": {
+                    "id": 3369888384228960289,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0024_deepfin_potential_1",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_1_chr_0024_deepfin"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0024_deepfin"
+                ],
+                "level": 2,
+                "name": {
+                    "id": -5651161704462809060,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0024_deepfin_potential_2",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0024_deepfin"
+                ],
+                "level": 3,
+                "name": {
+                    "id": -283387503891582665,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0024_deepfin_potential_3",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_3_chr_0024_deepfin"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0024_deepfin"
+                ],
+                "level": 4,
+                "name": {
+                    "id": 206701076827704305,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0024_deepfin_potential_4",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0024_deepfin"
+                ],
+                "level": 5,
+                "name": {
+                    "id": -8120485324057872627,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0024_deepfin_potential_5",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_5_chr_0024_deepfin"
+                ]
+            }
+        ]
+    },
+    "chr_0026_lastrite": {
+        "firstItemId": "item_charpotentialup_chr_0026_lastrite",
+        "potentialUnlockBundle": [
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0026_lastrite"
+                ],
+                "level": 1,
+                "name": {
+                    "id": 570735893744415767,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0026_lastrite_potential_1",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_1_chr_0026_lastrite"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0026_lastrite"
+                ],
+                "level": 2,
+                "name": {
+                    "id": -2018007613910761282,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0026_lastrite_potential_2",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0026_lastrite"
+                ],
+                "level": 3,
+                "name": {
+                    "id": -3190804156727000946,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0026_lastrite_potential_3",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_3_chr_0026_lastrite"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0026_lastrite"
+                ],
+                "level": 4,
+                "name": {
+                    "id": 1271380396515296694,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0026_lastrite_potential_4",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0026_lastrite"
+                ],
+                "level": 5,
+                "name": {
+                    "id": -5060766822623656273,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0026_lastrite_potential_5",
+                "unlockCardTopicItem": "business_card_topic_chr_0026_lastrite",
+                "unlockCharPictureItemList": [
+                    "item_pic_5_chr_0026_lastrite"
+                ]
+            }
+        ]
+    },
+    "chr_0030_zhuangfy": {
+        "firstItemId": "item_charpotentialup_chr_0030_zhuangfy",
+        "potentialUnlockBundle": [
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0030_zhuangfy"
+                ],
+                "level": 1,
+                "name": {
+                    "id": 6730125776815309379,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0030_zhuangfy_potential_1",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_1_chr_0030_zhuangfy"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0030_zhuangfy"
+                ],
+                "level": 2,
+                "name": {
+                    "id": 3335902979710117348,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0030_zhuangfy_potential_2",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0030_zhuangfy"
+                ],
+                "level": 3,
+                "name": {
+                    "id": 6612451817349961087,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0030_zhuangfy_potential_3",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_3_chr_0030_zhuangfy"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0030_zhuangfy"
+                ],
+                "level": 4,
+                "name": {
+                    "id": 1642850051208633367,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0030_zhuangfy_potential_4",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0030_zhuangfy"
+                ],
+                "level": 5,
+                "name": {
+                    "id": -4292124156333113282,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0030_zhuangfy_potential_5",
+                "unlockCardTopicItem": "business_card_topic_chr_0030_zhuangfy",
+                "unlockCharPictureItemList": [
+                    "item_pic_5_chr_0030_zhuangfy"
+                ]
+            }
+        ]
+    },
+    "chr_0027_tangtang": {
+        "firstItemId": "item_charpotentialup_chr_0027_tangtang",
+        "potentialUnlockBundle": [
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0027_tangtang"
+                ],
+                "level": 1,
+                "name": {
+                    "id": 7720855645414647628,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0027_tangtang_potential_1",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_1_chr_0027_tangtang"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0027_tangtang"
+                ],
+                "level": 2,
+                "name": {
+                    "id": -3882103450313835460,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0027_tangtang_potential_2",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0027_tangtang"
+                ],
+                "level": 3,
+                "name": {
+                    "id": 685141525145178695,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0027_tangtang_potential_3",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_3_chr_0027_tangtang"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0027_tangtang"
+                ],
+                "level": 4,
+                "name": {
+                    "id": -4392278606509714203,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0027_tangtang_potential_4",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0027_tangtang"
+                ],
+                "level": 5,
+                "name": {
+                    "id": -4979447209159408058,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0027_tangtang_potential_5",
+                "unlockCardTopicItem": "business_card_topic_chr_0027_tangtang",
+                "unlockCharPictureItemList": [
+                    "item_pic_5_chr_0027_tangtang"
+                ]
+            }
+        ]
+    },
+    "chr_0028_wulfa": {
+        "firstItemId": "item_charpotentialup_chr_0028_wulfa",
+        "potentialUnlockBundle": [
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0028_wulfa"
+                ],
+                "level": 1,
+                "name": {
+                    "id": -5832625470009719576,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0028_wulfa_potential_1",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_1_chr_0028_wulfa"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0028_wulfa"
+                ],
+                "level": 2,
+                "name": {
+                    "id": 8933246931565906032,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0028_wulfa_potential_2",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0028_wulfa"
+                ],
+                "level": 3,
+                "name": {
+                    "id": -1182241244304788346,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0028_wulfa_potential_3",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": [
+                    "item_pic_3_chr_0028_wulfa"
+                ]
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0028_wulfa"
+                ],
+                "level": 4,
+                "name": {
+                    "id": 7586823435567111094,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0028_wulfa_potential_4",
+                "unlockCardTopicItem": "",
+                "unlockCharPictureItemList": []
+            },
+            {
+                "itemCnts": [
+                    1
+                ],
+                "itemIds": [
+                    "item_charpotentialup_chr_0028_wulfa"
+                ],
+                "level": 5,
+                "name": {
+                    "id": 1003795583871453230,
+                    "text": ""
+                },
+                "potentialEffectId": "chr_0028_wulfa_potential_5",
+                "unlockCardTopicItem": "business_card_topic_chr_0028_wulfa",
+                "unlockCharPictureItemList": [
+                    "item_pic_5_chr_0028_wulfa"
                 ]
             }
         ]
@@ -2278,370 +2824,6 @@
             }
         ]
     },
-    "chr_0025_ardelia": {
-        "firstItemId": "item_charpotentialup_chr_0025_ardelia",
-        "potentialUnlockBundle": [
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0025_ardelia"
-                ],
-                "level": 1,
-                "name": {
-                    "id": 5205731053413100988,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0025_ardelia_potential_1",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_1_chr_0025_ardelia"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0025_ardelia"
-                ],
-                "level": 2,
-                "name": {
-                    "id": -990073503501213234,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0025_ardelia_potential_2",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0025_ardelia"
-                ],
-                "level": 3,
-                "name": {
-                    "id": 1183644782463132399,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0025_ardelia_potential_3",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_3_chr_0025_ardelia"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0025_ardelia"
-                ],
-                "level": 4,
-                "name": {
-                    "id": 3168709882733163632,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0025_ardelia_potential_4",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0025_ardelia"
-                ],
-                "level": 5,
-                "name": {
-                    "id": 5829139096188505475,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0025_ardelia_potential_5",
-                "unlockCardTopicItem": "business_card_topic_chr_0025_ardelia",
-                "unlockCharPictureItemList": [
-                    "item_pic_5_chr_0025_ardelia"
-                ]
-            }
-        ]
-    },
-    "chr_0026_lastrite": {
-        "firstItemId": "item_charpotentialup_chr_0026_lastrite",
-        "potentialUnlockBundle": [
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0026_lastrite"
-                ],
-                "level": 1,
-                "name": {
-                    "id": 570735893744415767,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0026_lastrite_potential_1",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_1_chr_0026_lastrite"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0026_lastrite"
-                ],
-                "level": 2,
-                "name": {
-                    "id": -2018007613910761282,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0026_lastrite_potential_2",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0026_lastrite"
-                ],
-                "level": 3,
-                "name": {
-                    "id": -3190804156727000946,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0026_lastrite_potential_3",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_3_chr_0026_lastrite"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0026_lastrite"
-                ],
-                "level": 4,
-                "name": {
-                    "id": 1271380396515296694,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0026_lastrite_potential_4",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0026_lastrite"
-                ],
-                "level": 5,
-                "name": {
-                    "id": -5060766822623656273,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0026_lastrite_potential_5",
-                "unlockCardTopicItem": "business_card_topic_chr_0026_lastrite",
-                "unlockCharPictureItemList": [
-                    "item_pic_5_chr_0026_lastrite"
-                ]
-            }
-        ]
-    },
-    "chr_0029_pograni": {
-        "firstItemId": "item_charpotentialup_chr_0029_pograni",
-        "potentialUnlockBundle": [
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0029_pograni"
-                ],
-                "level": 1,
-                "name": {
-                    "id": -1542163347525820720,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0029_pograni_potential_1",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_1_chr_0029_pograni"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0029_pograni"
-                ],
-                "level": 2,
-                "name": {
-                    "id": 8997344861731958354,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0029_pograni_potential_2",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0029_pograni"
-                ],
-                "level": 3,
-                "name": {
-                    "id": -9093858949068156949,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0029_pograni_potential_3",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_3_chr_0029_pograni"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0029_pograni"
-                ],
-                "level": 4,
-                "name": {
-                    "id": -4426269200618828734,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0029_pograni_potential_4",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0029_pograni"
-                ],
-                "level": 5,
-                "name": {
-                    "id": -874026485498649297,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0029_pograni_potential_5",
-                "unlockCardTopicItem": "business_card_topic_chr_0029_pograni",
-                "unlockCharPictureItemList": [
-                    "item_pic_5_chr_0029_pograni"
-                ]
-            }
-        ]
-    },
-    "chr_0030_zhuangfy": {
-        "firstItemId": "item_charpotentialup_chr_0030_zhuangfy",
-        "potentialUnlockBundle": [
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0030_zhuangfy"
-                ],
-                "level": 1,
-                "name": {
-                    "id": 6730125776815309379,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0030_zhuangfy_potential_1",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_1_chr_0030_zhuangfy"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0030_zhuangfy"
-                ],
-                "level": 2,
-                "name": {
-                    "id": 3335902979710117348,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0030_zhuangfy_potential_2",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0030_zhuangfy"
-                ],
-                "level": 3,
-                "name": {
-                    "id": 6612451817349961087,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0030_zhuangfy_potential_3",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": [
-                    "item_pic_3_chr_0030_zhuangfy"
-                ]
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0030_zhuangfy"
-                ],
-                "level": 4,
-                "name": {
-                    "id": 1642850051208633367,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0030_zhuangfy_potential_4",
-                "unlockCardTopicItem": "",
-                "unlockCharPictureItemList": []
-            },
-            {
-                "itemCnts": [
-                    1
-                ],
-                "itemIds": [
-                    "item_charpotentialup_chr_0030_zhuangfy"
-                ],
-                "level": 5,
-                "name": {
-                    "id": -4292124156333113282,
-                    "text": ""
-                },
-                "potentialEffectId": "chr_0030_zhuangfy_potential_5",
-                "unlockCardTopicItem": "business_card_topic_chr_0030_zhuangfy",
-                "unlockCharPictureItemList": [
-                    "item_pic_5_chr_0030_zhuangfy"
-                ]
-            }
-        ]
-    },
     "chr_0031_mifu": {
         "firstItemId": "item_charpotentialup_chr_0031_mifu",
         "potentialUnlockBundle": [
@@ -2733,25 +2915,25 @@
             }
         ]
     },
-    "chr_0033_camille": {
-        "firstItemId": "item_charpotentialup_chr_0033_camille",
+    "chr_0032_lizhiyan": {
+        "firstItemId": "item_charpotentialup_chr_0032_lizhiyan",
         "potentialUnlockBundle": [
             {
                 "itemCnts": [
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0033_camille"
+                    "item_charpotentialup_chr_0032_lizhiyan"
                 ],
                 "level": 1,
                 "name": {
-                    "id": -5046862250549914570,
+                    "id": 3278385301726490286,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0033_camille_potential_1",
+                "potentialEffectId": "chr_0032_lizhiyan_potential_1",
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": [
-                    "item_pic_1_chr_0033_camille"
+                    "item_pic_1_chr_0032_lizhiyan"
                 ]
             },
             {
@@ -2759,14 +2941,14 @@
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0033_camille"
+                    "item_charpotentialup_chr_0032_lizhiyan"
                 ],
                 "level": 2,
                 "name": {
-                    "id": -8460013764265577904,
+                    "id": -8061396899977740220,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0033_camille_potential_2",
+                "potentialEffectId": "chr_0032_lizhiyan_potential_2",
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": []
             },
@@ -2775,17 +2957,17 @@
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0033_camille"
+                    "item_charpotentialup_chr_0032_lizhiyan"
                 ],
                 "level": 3,
                 "name": {
-                    "id": 343200206877150111,
+                    "id": 7609449539633243431,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0033_camille_potential_3",
+                "potentialEffectId": "chr_0032_lizhiyan_potential_3",
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": [
-                    "item_pic_3_chr_0033_camille"
+                    "item_pic_3_chr_0032_lizhiyan"
                 ]
             },
             {
@@ -2793,14 +2975,14 @@
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0033_camille"
+                    "item_charpotentialup_chr_0032_lizhiyan"
                 ],
                 "level": 4,
                 "name": {
-                    "id": -7479983286887788643,
+                    "id": -8367545555360111209,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0033_camille_potential_4",
+                "potentialEffectId": "chr_0032_lizhiyan_potential_4",
                 "unlockCardTopicItem": "",
                 "unlockCharPictureItemList": []
             },
@@ -2809,17 +2991,17 @@
                     1
                 ],
                 "itemIds": [
-                    "item_charpotentialup_chr_0033_camille"
+                    "item_charpotentialup_chr_0032_lizhiyan"
                 ],
                 "level": 5,
                 "name": {
-                    "id": 7015735202213208581,
+                    "id": -7747030478969150449,
                     "text": ""
                 },
-                "potentialEffectId": "chr_0033_camille_potential_5",
-                "unlockCardTopicItem": "business_card_topic_chr_0033_camille",
+                "potentialEffectId": "chr_0032_lizhiyan_potential_5",
+                "unlockCardTopicItem": "business_card_topic_chr_0032_lizhiyan",
                 "unlockCharPictureItemList": [
-                    "item_pic_5_chr_0033_camille"
+                    "item_pic_5_chr_0032_lizhiyan"
                 ]
             }
         ]
