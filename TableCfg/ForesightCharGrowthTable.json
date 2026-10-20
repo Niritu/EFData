@@ -1,36 +1,36 @@
 {
-    "chr_0017_yvonne": {
+    "chr_0027_tangtang": {
         "activityId": "",
-        "charId": "chr_0017_yvonne",
+        "charId": "chr_0027_tangtang",
         "charTypeId": "Cryst",
         "isReplica": true,
         "name": {
-            "id": -6842430408048477723,
+            "id": 0,
             "text": ""
         },
-        "profession": 8,
+        "profession": 5,
         "rarity": 6,
         "showSkill": true,
         "sortWeight": 0,
         "stageMaterials": {},
         "weaponIds": [
-            "wpn_pistol_0010",
-            "wpn_pistol_0005"
+            "wpn_pistol_0011",
+            "wpn_pistol_0007"
         ]
     },
-    "chr_0038_purrche": {
-        "activityId": "activity_character_gift_purrche",
-        "charId": "chr_0038_purrche",
-        "charTypeId": "Physical",
+    "chr_0037_minghe": {
+        "activityId": "",
+        "charId": "chr_0037_minghe",
+        "charTypeId": "Pulse",
         "isReplica": false,
         "name": {
-            "id": -711333470662396775,
+            "id": -2210147275854977204,
             "text": ""
         },
-        "profession": 2,
-        "rarity": 5,
+        "profession": 0,
+        "rarity": 6,
         "showSkill": false,
-        "sortWeight": 0,
+        "sortWeight": 1,
         "stageMaterials": {
             "1": {
                 "skColCnt": [
@@ -220,7 +220,7 @@
                     20
                 ],
                 "upPreIds": [
-                    "item_char_skill_specialize_2"
+                    "item_char_skill_specialize_5"
                 ]
             },
             "4": {
@@ -234,7 +234,7 @@
                     "item_plant_crylplant_1_1",
                     "item_plant_crylplant_1_2",
                     "item_plant_crylplant_1_3",
-                    "item_plant_crylplant_2_2"
+                    "item_plant_crylplant_2_3"
                 ],
                 "skGoldCnt": [
                     787200
@@ -261,8 +261,8 @@
                     116
                 ],
                 "skPreMatIds": [
-                    "item_char_skill_specialize_1",
-                    "item_char_skill_specialize_5"
+                    "item_char_skill_specialize_4",
+                    "item_char_skill_specialize_6"
                 ],
                 "stageId": 4,
                 "upAdvCnt": [
@@ -303,13 +303,13 @@
                     20
                 ],
                 "upPreIds": [
-                    "item_char_skill_specialize_2"
+                    "item_char_skill_specialize_5"
                 ]
             }
         },
         "weaponIds": [
-            "wpn_sword_0023",
-            "wpn_sword_0026"
+            "wpn_sword_0025",
+            "wpn_sword_0024"
         ]
     }
 }

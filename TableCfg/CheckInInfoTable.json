@@ -13,33 +13,33 @@
         "maxRewardCnt": 0,
         "popupPanelWidgetName": ""
     },
-    "activity_checkin_brilliance": {
+    "activity_checkin_camille": {
         "autoClaimActivityIds": [],
         "checkInRewardChangeTime": 0,
         "checkinDes": {
             "id": 0,
             "text": ""
         },
-        "commonPanelWidgetName": "ActivityCharSignBrillianceInfo",
+        "commonPanelWidgetName": "ActivityCharSignCamilleInfo",
         "forceShowTwoDigits": true,
         "isImportantCheckin": false,
         "jumpId": "",
         "maxRewardCnt": 0,
-        "popupPanelWidgetName": "ActivityCharSignBrilliancePopUp"
+        "popupPanelWidgetName": "ActivityCharSignCamillePopUp"
     },
-    "activity_pristine_access_v1d2": {
+    "activity_checkin_v1d2_end": {
         "autoClaimActivityIds": [],
         "checkInRewardChangeTime": 0,
         "checkinDes": {
             "id": 0,
             "text": ""
         },
-        "commonPanelWidgetName": "ActivityFreeMonthlyPassPanel",
+        "commonPanelWidgetName": "ActivityV1d2CheckinSignInfo",
         "forceShowTwoDigits": false,
         "isImportantCheckin": false,
         "jumpId": "",
-        "maxRewardCnt": 30,
-        "popupPanelWidgetName": "ActivityFreeMonthlyPassPopUp"
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityV1d2CheckinSignPopUp"
     },
     "activity_checkin_agline": {
         "autoClaimActivityIds": [],
@@ -55,19 +55,19 @@
         "maxRewardCnt": 0,
         "popupPanelWidgetName": "ActivityCharSignAglinaPopUp"
     },
-    "activity_checkin_parkour": {
+    "activity_checkin_universe": {
         "autoClaimActivityIds": [],
         "checkInRewardChangeTime": 0,
         "checkinDes": {
             "id": 0,
             "text": ""
         },
-        "commonPanelWidgetName": "ActivityParkourCheckinSignInfo",
+        "commonPanelWidgetName": "ActivityUniverseCheckinSignInfo",
         "forceShowTwoDigits": false,
         "isImportantCheckin": false,
         "jumpId": "",
         "maxRewardCnt": 0,
-        "popupPanelWidgetName": "ActivityParkourCheckinSignPopUp"
+        "popupPanelWidgetName": "ActivityUniverseCheckinSignPopUp"
     },
     "activity_v1d4_01_returnback_new_1": {
         "autoClaimActivityIds": [],
@@ -83,47 +83,47 @@
         "maxRewardCnt": 0,
         "popupPanelWidgetName": ""
     },
-    "activity_checkin_camille": {
+    "activity_checkin_brilliance": {
         "autoClaimActivityIds": [],
         "checkInRewardChangeTime": 0,
         "checkinDes": {
             "id": 0,
             "text": ""
         },
-        "commonPanelWidgetName": "ActivityCharSignCamilleInfo",
+        "commonPanelWidgetName": "ActivityCharSignBrillianceInfo",
         "forceShowTwoDigits": true,
         "isImportantCheckin": false,
         "jumpId": "",
         "maxRewardCnt": 0,
-        "popupPanelWidgetName": "ActivityCharSignCamillePopUp"
+        "popupPanelWidgetName": "ActivityCharSignBrilliancePopUp"
     },
-    "activity_checkin_liino": {
+    "activity_checkin_parkour": {
         "autoClaimActivityIds": [],
         "checkInRewardChangeTime": 0,
         "checkinDes": {
             "id": 0,
             "text": ""
         },
-        "commonPanelWidgetName": "ActivityCharSignLiinoInfo",
-        "forceShowTwoDigits": true,
-        "isImportantCheckin": false,
-        "jumpId": "",
-        "maxRewardCnt": 0,
-        "popupPanelWidgetName": "ActivityCharSignLiinoPopUp"
-    },
-    "activity_checkin_v1d0_end": {
-        "autoClaimActivityIds": [],
-        "checkInRewardChangeTime": 0,
-        "checkinDes": {
-            "id": 0,
-            "text": ""
-        },
-        "commonPanelWidgetName": "ActivityV1d0d1CheckinSignInfo",
+        "commonPanelWidgetName": "ActivityParkourCheckinSignInfo",
         "forceShowTwoDigits": false,
         "isImportantCheckin": false,
         "jumpId": "",
         "maxRewardCnt": 0,
-        "popupPanelWidgetName": "ActivityV1d0d1CheckinSignPopUp"
+        "popupPanelWidgetName": "ActivityParkourCheckinSignPopUp"
+    },
+    "activity_pristine_access_v1d2": {
+        "autoClaimActivityIds": [],
+        "checkInRewardChangeTime": 0,
+        "checkinDes": {
+            "id": 0,
+            "text": ""
+        },
+        "commonPanelWidgetName": "ActivityFreeMonthlyPassPanel",
+        "forceShowTwoDigits": false,
+        "isImportantCheckin": false,
+        "jumpId": "",
+        "maxRewardCnt": 30,
+        "popupPanelWidgetName": "ActivityFreeMonthlyPassPopUp"
     },
     "activity_checkin_halfann": {
         "autoClaimActivityIds": [
@@ -141,19 +141,19 @@
         "maxRewardCnt": 0,
         "popupPanelWidgetName": "ActivityHalfannCheckinSignPopUp"
     },
-    "activity_checkin_tangtang": {
+    "activity_checkin_jsspsi": {
         "autoClaimActivityIds": [],
         "checkInRewardChangeTime": 0,
         "checkinDes": {
             "id": 0,
             "text": ""
         },
-        "commonPanelWidgetName": "ActivityCharSignTangtangInfo",
+        "commonPanelWidgetName": "ActivityCharSignJsspsiInfo",
         "forceShowTwoDigits": true,
         "isImportantCheckin": false,
         "jumpId": "",
         "maxRewardCnt": 0,
-        "popupPanelWidgetName": "ActivityCharSignTangtangPopUp"
+        "popupPanelWidgetName": "ActivityCharSignJsspsiPopUp"
     },
     "activity_checkin_laevat": {
         "autoClaimActivityIds": [],
@@ -183,33 +183,19 @@
         "maxRewardCnt": 0,
         "popupPanelWidgetName": "ActivityCharSignMifuPopUp"
     },
-    "activity_checkin_v1d4_end": {
+    "activity_checkin_liino": {
         "autoClaimActivityIds": [],
         "checkInRewardChangeTime": 0,
         "checkinDes": {
             "id": 0,
             "text": ""
         },
-        "commonPanelWidgetName": "ActivityV1d4CheckinSignInfo",
-        "forceShowTwoDigits": false,
-        "isImportantCheckin": false,
-        "jumpId": "",
-        "maxRewardCnt": 0,
-        "popupPanelWidgetName": "ActivityV1d4CheckinSignPopUp"
-    },
-    "activity_checkin_wulfa": {
-        "autoClaimActivityIds": [],
-        "checkInRewardChangeTime": 0,
-        "checkinDes": {
-            "id": 0,
-            "text": ""
-        },
-        "commonPanelWidgetName": "ActivityCharSignRossinaInfo",
+        "commonPanelWidgetName": "ActivityCharSignLiinoInfo",
         "forceShowTwoDigits": true,
         "isImportantCheckin": false,
         "jumpId": "",
         "maxRewardCnt": 0,
-        "popupPanelWidgetName": "ActivityCharSignRossinaPopUp"
+        "popupPanelWidgetName": "ActivityCharSignLiinoPopUp"
     },
     "activity_checkin_lizhiyan": {
         "autoClaimActivityIds": [],
@@ -225,6 +211,62 @@
         "maxRewardCnt": 0,
         "popupPanelWidgetName": "ActivityCharSignLizhiyanPopUp"
     },
+    "activity_checkin_v1d0_end": {
+        "autoClaimActivityIds": [],
+        "checkInRewardChangeTime": 0,
+        "checkinDes": {
+            "id": 0,
+            "text": ""
+        },
+        "commonPanelWidgetName": "ActivityV1d0d1CheckinSignInfo",
+        "forceShowTwoDigits": false,
+        "isImportantCheckin": false,
+        "jumpId": "",
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityV1d0d1CheckinSignPopUp"
+    },
+    "activity_checkin_minghe": {
+        "autoClaimActivityIds": [],
+        "checkInRewardChangeTime": 0,
+        "checkinDes": {
+            "id": 0,
+            "text": ""
+        },
+        "commonPanelWidgetName": "ActivityCharSignMingheInfo",
+        "forceShowTwoDigits": true,
+        "isImportantCheckin": false,
+        "jumpId": "",
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityCharSignMinghePopUp"
+    },
+    "activity_checkin_tangtang": {
+        "autoClaimActivityIds": [],
+        "checkInRewardChangeTime": 0,
+        "checkinDes": {
+            "id": 0,
+            "text": ""
+        },
+        "commonPanelWidgetName": "ActivityCharSignTangtangInfo",
+        "forceShowTwoDigits": true,
+        "isImportantCheckin": false,
+        "jumpId": "",
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityCharSignTangtangPopUp"
+    },
+    "activity_checkin_v1d4_end": {
+        "autoClaimActivityIds": [],
+        "checkInRewardChangeTime": 0,
+        "checkinDes": {
+            "id": 0,
+            "text": ""
+        },
+        "commonPanelWidgetName": "ActivityV1d4CheckinSignInfo",
+        "forceShowTwoDigits": false,
+        "isImportantCheckin": false,
+        "jumpId": "",
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityV1d4CheckinSignPopUp"
+    },
     "activity_checkin_typhoea": {
         "autoClaimActivityIds": [],
         "checkInRewardChangeTime": 0,
@@ -238,34 +280,6 @@
         "jumpId": "",
         "maxRewardCnt": 0,
         "popupPanelWidgetName": "ActivityCharSignTyphoeaPopUp"
-    },
-    "activity_checkin_universe": {
-        "autoClaimActivityIds": [],
-        "checkInRewardChangeTime": 0,
-        "checkinDes": {
-            "id": 0,
-            "text": ""
-        },
-        "commonPanelWidgetName": "ActivityUniverseCheckinSignInfo",
-        "forceShowTwoDigits": false,
-        "isImportantCheckin": false,
-        "jumpId": "",
-        "maxRewardCnt": 0,
-        "popupPanelWidgetName": "ActivityUniverseCheckinSignPopUp"
-    },
-    "activity_checkin_v1d2_end": {
-        "autoClaimActivityIds": [],
-        "checkInRewardChangeTime": 0,
-        "checkinDes": {
-            "id": 0,
-            "text": ""
-        },
-        "commonPanelWidgetName": "ActivityV1d2CheckinSignInfo",
-        "forceShowTwoDigits": false,
-        "isImportantCheckin": false,
-        "jumpId": "",
-        "maxRewardCnt": 0,
-        "popupPanelWidgetName": "ActivityV1d2CheckinSignPopUp"
     },
     "activity_checkin_v1d1_end": {
         "autoClaimActivityIds": [],
@@ -294,6 +308,34 @@
         "jumpId": "",
         "maxRewardCnt": 0,
         "popupPanelWidgetName": "ActivityV1d3CheckinSignPopUp"
+    },
+    "activity_checkin_v1d5_end": {
+        "autoClaimActivityIds": [],
+        "checkInRewardChangeTime": 0,
+        "checkinDes": {
+            "id": 0,
+            "text": ""
+        },
+        "commonPanelWidgetName": "ActivityV1d5CheckinSignInfo",
+        "forceShowTwoDigits": false,
+        "isImportantCheckin": false,
+        "jumpId": "",
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityV1d5CheckinSignPopUp"
+    },
+    "activity_checkin_wulfa": {
+        "autoClaimActivityIds": [],
+        "checkInRewardChangeTime": 0,
+        "checkinDes": {
+            "id": 0,
+            "text": ""
+        },
+        "commonPanelWidgetName": "ActivityCharSignRossinaInfo",
+        "forceShowTwoDigits": true,
+        "isImportantCheckin": false,
+        "jumpId": "",
+        "maxRewardCnt": 0,
+        "popupPanelWidgetName": "ActivityCharSignRossinaPopUp"
     },
     "activity_checkin_yvonne": {
         "autoClaimActivityIds": [],

@@ -1,104 +1,68 @@
 {
-    "wpn_pistol_0005": {
+    "wpn_pistol_0007": {
         "gemTagIds": [
-            "attr_wisd",
+            "attr_agi",
             "attr_icedam",
+            "tactic"
+        ],
+        "iconId": "wpn_pistol_0007",
+        "name": {
+            "id": 0,
+            "text": ""
+        },
+        "rarity": 6,
+        "skIds": [
+            "wpn_attr_agi_high",
+            "wpn_sp_attr_crystdam_high",
+            "sk_wpn_pistol_0007"
+        ],
+        "skNames": [
+            {
+                "id": 0,
+                "text": ""
+            },
+            {
+                "id": 0,
+                "text": ""
+            },
+            {
+                "id": 0,
+                "text": ""
+            }
+        ],
+        "stageMaterials": {},
+        "tgtLv": 90,
+        "weaponId": "wpn_pistol_0007",
+        "wpnType": 6
+    },
+    "wpn_sword_0025": {
+        "gemTagIds": [
+            "attr_will",
+            "attr_atk",
             "magabn"
         ],
-        "iconId": "wpn_pistol_0005",
+        "iconId": "wpn_sword_0025",
         "name": {
-            "id": 7904989950227299419,
+            "id": 7368391927191909067,
             "text": ""
         },
         "rarity": 6,
         "skIds": [
-            "wpn_attr_wisd_high",
-            "wpn_sp_attr_crystdam_high",
-            "sk_wpn_pistol_0005"
+            "wpn_attr_will_high",
+            "wpn_sp_attr_atk_high",
+            "sk_wpn_sword_0025"
         ],
         "skNames": [
             {
-                "id": 1534594300678222759,
+                "id": 5457325978836013836,
                 "text": ""
             },
             {
-                "id": -4978520249435041836,
+                "id": -345703454812318552,
                 "text": ""
             },
             {
-                "id": 6674504381179140855,
-                "text": ""
-            }
-        ],
-        "stageMaterials": {},
-        "tgtLv": 90,
-        "weaponId": "wpn_pistol_0005",
-        "wpnType": 6
-    },
-    "wpn_pistol_0010": {
-        "gemTagIds": [
-            "attr_wisd",
-            "attr_crirate",
-            "crit"
-        ],
-        "iconId": "wpn_pistol_0010",
-        "name": {
-            "id": 7318525935469611896,
-            "text": ""
-        },
-        "rarity": 6,
-        "skIds": [
-            "wpn_attr_wisd_high",
-            "wpn_sp_attr_crirate_high",
-            "sk_wpn_pistol_0010"
-        ],
-        "skNames": [
-            {
-                "id": -9078550615713317503,
-                "text": ""
-            },
-            {
-                "id": -4350671634983796411,
-                "text": ""
-            },
-            {
-                "id": 7499406471603829670,
-                "text": ""
-            }
-        ],
-        "stageMaterials": {},
-        "tgtLv": 90,
-        "weaponId": "wpn_pistol_0010",
-        "wpnType": 6
-    },
-    "wpn_sword_0023": {
-        "gemTagIds": [
-            "attr_str",
-            "attr_heal",
-            "heal"
-        ],
-        "iconId": "wpn_sword_0023",
-        "name": {
-            "id": -4533911113767718856,
-            "text": ""
-        },
-        "rarity": 5,
-        "skIds": [
-            "wpn_attr_str_mid",
-            "wpn_sp_attr_heal_mid",
-            "sk_wpn_sword_0023"
-        ],
-        "skNames": [
-            {
-                "id": -1070541549985954768,
-                "text": ""
-            },
-            {
-                "id": -3908034664658507173,
-                "text": ""
-            },
-            {
-                "id": 5710963273144637801,
+                "id": -8857556176379803225,
                 "text": ""
             }
         ],
@@ -207,7 +171,7 @@
                     16
                 ],
                 "upPreIds": [
-                    "item_char_skill_specialize_2"
+                    "item_char_skill_specialize_6"
                 ]
             },
             "4": {
@@ -248,42 +212,78 @@
                     16
                 ],
                 "upPreIds": [
-                    "item_char_skill_specialize_2"
+                    "item_char_skill_specialize_6"
                 ]
             }
         },
         "tgtLv": 90,
-        "weaponId": "wpn_sword_0023",
+        "weaponId": "wpn_sword_0025",
         "wpnType": 1
     },
-    "wpn_sword_0026": {
+    "wpn_pistol_0011": {
         "gemTagIds": [
-            "attr_main",
-            "attr_physpell",
-            "force"
+            "attr_agi",
+            "attr_atk",
+            "burst"
         ],
-        "iconId": "wpn_sword_0026",
+        "iconId": "wpn_pistol_0011",
         "name": {
-            "id": 9069597911948395461,
+            "id": 0,
             "text": ""
         },
         "rarity": 6,
         "skIds": [
-            "wpn_attr_main_high",
-            "wpn_sp_attr_phy_spell_high",
-            "sk_wpn_sword_0026"
+            "wpn_attr_agi_high",
+            "wpn_sp_attr_atk_high",
+            "sk_wpn_pistol_0011"
         ],
         "skNames": [
             {
-                "id": -6112623867390040,
+                "id": 0,
                 "text": ""
             },
             {
-                "id": -1981630358613719064,
+                "id": 0,
                 "text": ""
             },
             {
-                "id": 1113754054648847106,
+                "id": 0,
+                "text": ""
+            }
+        ],
+        "stageMaterials": {},
+        "tgtLv": 90,
+        "weaponId": "wpn_pistol_0011",
+        "wpnType": 6
+    },
+    "wpn_sword_0024": {
+        "gemTagIds": [
+            "attr_will",
+            "attr_pulsedam",
+            "burst"
+        ],
+        "iconId": "wpn_sword_0024",
+        "name": {
+            "id": -9027916791916995343,
+            "text": ""
+        },
+        "rarity": 6,
+        "skIds": [
+            "wpn_attr_will_high",
+            "wpn_sp_attr_electrondam_high",
+            "sk_wpn_sword_0024"
+        ],
+        "skNames": [
+            {
+                "id": 8256249964806789893,
+                "text": ""
+            },
+            {
+                "id": -1377003701228526799,
+                "text": ""
+            },
+            {
+                "id": -3592241045117395531,
                 "text": ""
             }
         ],
@@ -374,7 +374,7 @@
                     "item_plant_spcstone_1_1",
                     "item_plant_spcstone_1_2",
                     "item_plant_spcstone_1_3",
-                    "item_plant_spcstone_2_3"
+                    "item_plant_spcstone_2_1"
                 ],
                 "upExpCnt": [
                     12621
@@ -392,7 +392,7 @@
                     16
                 ],
                 "upPreIds": [
-                    "item_char_skill_specialize_3"
+                    "item_char_skill_specialize_5"
                 ]
             },
             "4": {
@@ -415,7 +415,7 @@
                     "item_plant_spcstone_1_1",
                     "item_plant_spcstone_1_2",
                     "item_plant_spcstone_1_3",
-                    "item_plant_spcstone_2_3"
+                    "item_plant_spcstone_2_1"
                 ],
                 "upExpCnt": [
                     12621
@@ -433,12 +433,12 @@
                     16
                 ],
                 "upPreIds": [
-                    "item_char_skill_specialize_3"
+                    "item_char_skill_specialize_5"
                 ]
             }
         },
         "tgtLv": 90,
-        "weaponId": "wpn_sword_0026",
+        "weaponId": "wpn_sword_0024",
         "wpnType": 1
     }
 }
